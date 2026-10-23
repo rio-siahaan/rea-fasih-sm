@@ -1,0 +1,1 @@
+import{t as e}from"./_virtual___federation_fn_import-Dlwvz4hY.js";import{t}from"./with-selector-Bdqqdb5i.js";var n=t(),{useCallback:r}=await e(`react`);function i(e,t){return e===t}function a(e,t=e=>e,a){let o=a?.compare??i,s=r(t=>{let{unsubscribe:n}=e.subscribe(t);return n},[e]),c=r(()=>e.get(),[e]);return(0,n.useSyncExternalStoreWithSelector)(s,c,c,t,o)}export{a as t};

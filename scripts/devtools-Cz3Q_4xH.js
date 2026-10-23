@@ -1,0 +1,1 @@
+import{t as e}from"./_virtual___federation_fn_import-Dlwvz4hY.js";import{t}from"./jsx-runtime-DREnUpxT.js";t();var{Fragment:n,useState:r,useEffect:i}=await e(`react`),a=()=>{let[e,t]=r(!1);return i(()=>{t(!0)},[]),null};export{a as t};

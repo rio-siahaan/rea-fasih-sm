@@ -1,0 +1,2981 @@
+{
+  "at": "2026-10-19T12:13:39.819Z",
+  "ok": 321,
+  "fail": 10,
+  "results": [
+    {
+      "id": "0d0e1e37-09ec-44b8-92ac-d6b94309d604",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        5
+      ]
+    },
+    {
+      "id": "0d446760-7bfa-4f06-8408-a0c634b62e11",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        7
+      ]
+    },
+    {
+      "id": "3d43fb81-3e45-436d-bc80-2a265784a31b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        9
+      ]
+    },
+    {
+      "id": "30f48e9f-43ae-461f-9d7b-de9ce3322f98",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        12
+      ]
+    },
+    {
+      "id": "5a8e6048-296a-4f72-abc8-9be4b36f7a18",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        14
+      ]
+    },
+    {
+      "id": "7376ca5a-d950-437e-b680-b3949bfbc34e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        17
+      ]
+    },
+    {
+      "id": "76756c7f-acef-4a99-aeb0-a9f03475786e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        19
+      ]
+    },
+    {
+      "id": "4eab04c4-e1ca-43b2-acc6-147a9abade8e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        20
+      ]
+    },
+    {
+      "id": "929b7134-08f0-444a-862e-f43da2e00750",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        23
+      ]
+    },
+    {
+      "id": "966624be-8ca0-4ec1-8ff6-e92f1917e482",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        24
+      ]
+    },
+    {
+      "id": "c994ad5a-bb2d-4885-b688-cad0fdbfd640",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        27
+      ]
+    },
+    {
+      "id": "beb8af99-9789-4559-b227-f0f973ff59ba",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        28
+      ]
+    },
+    {
+      "id": "ad1eeec9-fef9-4e30-9f29-c1022c80e95f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        29
+      ]
+    },
+    {
+      "id": "df286393-65ff-4bf2-80bb-3ca177a959da",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 5,
+      "rows": [
+        31,
+        158
+      ]
+    },
+    {
+      "id": "fce8f1ff-0f2d-4741-a0db-79ac5508518b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        34
+      ]
+    },
+    {
+      "id": "f255c443-84fd-4c58-9d39-c06a8cf8469e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        35
+      ]
+    },
+    {
+      "id": "ec88ae20-2df2-4873-83e6-5e16812de9b6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        36
+      ]
+    },
+    {
+      "id": "1e215243-5f26-4440-81c3-c5bbb8b51a06",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309040010000100 - DTSEN - 18 (1e215243-5f26-4440-81c3-c5bbb8b51a06)",
+      "rows": [
+        40
+      ]
+    },
+    {
+      "id": "14dc0361-6c4c-445c-b14f-252b90731ac5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        41
+      ]
+    },
+    {
+      "id": "3a56cee7-0d1d-4a1c-8ba2-131810f1a13c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        45
+      ]
+    },
+    {
+      "id": "2d07025d-8495-4155-acb7-ff9e05595ed0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        46
+      ]
+    },
+    {
+      "id": "1f92d946-fb67-44de-8f1a-866ac1c8ece7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        47
+      ]
+    },
+    {
+      "id": "689dfa19-4e87-4925-8694-8e9e99eae571",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        48
+      ]
+    },
+    {
+      "id": "8e22b462-b45b-4d20-9749-2933c98274f5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        49
+      ]
+    },
+    {
+      "id": "72b17edd-c5fa-4ff1-b9bf-56ee0fb971c4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        50
+      ]
+    },
+    {
+      "id": "809f0a66-8500-4403-bb22-4d6e7ee0fd0a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        53
+      ]
+    },
+    {
+      "id": "a2495d85-c713-4342-8900-d47d18f0855d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        55
+      ]
+    },
+    {
+      "id": "ca972384-0471-419c-a7d0-93b92f7ac671",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        59
+      ]
+    },
+    {
+      "id": "fb36adff-e874-439f-81ca-2d99b74ffb7e",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309062002000500 - DTSEN - 28 (fb36adff-e874-439f-81ca-2d99b74ffb7e)",
+      "rows": [
+        60
+      ]
+    },
+    {
+      "id": "fca138e6-3a05-462b-a3d8-cd798ec59205",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        61
+      ]
+    },
+    {
+      "id": "113e9601-0bbd-49f6-bdec-25695ee825c9",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        63
+      ]
+    },
+    {
+      "id": "2bf0c1b7-b681-425b-9de9-d9c317bff72e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        64
+      ]
+    },
+    {
+      "id": "2f1d8688-e436-4c45-beab-402abd224c0d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        65
+      ]
+    },
+    {
+      "id": "2f154c45-10bb-4454-9376-e37aad2f75c5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        66
+      ]
+    },
+    {
+      "id": "6b755ed0-19d7-4dc7-a5c8-dc13a4d0402a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        69
+      ]
+    },
+    {
+      "id": "cf575bcc-360a-411e-914a-5ea80528eed3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        75
+      ]
+    },
+    {
+      "id": "ddbf7df1-56ed-47b4-9fa8-f277785110ca",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        76
+      ]
+    },
+    {
+      "id": "f4752e4d-25e5-44cc-b8b5-9f1c3fd14266",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        77
+      ]
+    },
+    {
+      "id": "1b19782e-367d-453a-bffc-f886a9c145b6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        79
+      ]
+    },
+    {
+      "id": "72bdcc68-4b8a-4767-849f-c6518e738f83",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        80
+      ]
+    },
+    {
+      "id": "57cf493e-2ff8-4890-b243-882ead409b79",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        81
+      ]
+    },
+    {
+      "id": "8e26ea96-3839-41de-8cfd-5dafe2bc9e1e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        85
+      ]
+    },
+    {
+      "id": "c606ca75-d013-4ddb-a91b-7cfba1988684",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        87
+      ]
+    },
+    {
+      "id": "f73827f2-1276-492c-a3c6-0a6c884b5577",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        90
+      ]
+    },
+    {
+      "id": "f6ab6f2f-35c2-4bda-ad48-152498f7fb96",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        91
+      ]
+    },
+    {
+      "id": "075dec40-8cb2-4d6c-835f-3dd8e6acb3dd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        92
+      ]
+    },
+    {
+      "id": "1475f61b-5609-453f-961e-c61bfd458923",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        93
+      ]
+    },
+    {
+      "id": "3d6a943b-2264-429b-a929-58408df0f233",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        94
+      ]
+    },
+    {
+      "id": "dd5e24fe-d346-4a8a-9a8f-d9339fde1bc1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        99
+      ]
+    },
+    {
+      "id": "684d5a7b-518f-4961-8c21-0b55201cc9bf",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        100
+      ]
+    },
+    {
+      "id": "c07bd118-b963-4f86-973d-d3319f25a39f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        102
+      ]
+    },
+    {
+      "id": "e01b8c75-b5f8-4806-8918-5bb377a46f65",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        105
+      ]
+    },
+    {
+      "id": "9cad9627-fd19-4be4-b586-1492052d1c89",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        107
+      ]
+    },
+    {
+      "id": "08973709-d6eb-465b-a952-7191aa24d284",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        109
+      ]
+    },
+    {
+      "id": "a075fcef-5f2b-40ad-9bee-9bf0cb45bad9",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        110
+      ]
+    },
+    {
+      "id": "16ea7f69-d9ee-45d8-a20d-cf5abf56c500",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        112
+      ]
+    },
+    {
+      "id": "7689d4ee-d001-4676-9b37-036a7e12afe7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        115
+      ]
+    },
+    {
+      "id": "3a4cd8a3-b425-47fa-9d95-874a1cec3f5b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        116
+      ]
+    },
+    {
+      "id": "4ddb96c5-4fbb-4e11-bbed-38a8525839de",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        119
+      ]
+    },
+    {
+      "id": "c1c4daa3-e387-4d08-87c3-702822d6e0ce",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        121
+      ]
+    },
+    {
+      "id": "e0ced040-56fd-4145-ad9b-82d81c65b920",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        122
+      ]
+    },
+    {
+      "id": "333671d4-e47f-4a47-8c1c-4cd20a351165",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        125
+      ]
+    },
+    {
+      "id": "6475451b-b72c-4b2a-9ac4-08cd2dbbdff6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        126
+      ]
+    },
+    {
+      "id": "14093cac-c8b9-440d-9051-44474dc1593b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        127
+      ]
+    },
+    {
+      "id": "b12e99da-1e54-4f9a-a65f-9d2c61cc5414",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 5,
+      "rows": [
+        128,
+        148
+      ]
+    },
+    {
+      "id": "a233e5da-9c1c-4afa-a22b-36975f75bc98",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        135
+      ]
+    },
+    {
+      "id": "3cbf36da-9c7d-4c29-9165-73a823e5bf55",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        136
+      ]
+    },
+    {
+      "id": "d2e5c530-23d8-40d8-9c21-9146973d9d93",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        140
+      ]
+    },
+    {
+      "id": "e2125971-ebbc-4062-92b4-63a159372c76",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        141
+      ]
+    },
+    {
+      "id": "d7155960-cf2d-4379-bdb1-1318e01bd75a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        142
+      ]
+    },
+    {
+      "id": "4f3ee94b-12d4-4792-8b75-de1d8d9d909a",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309070058000300 - PETRUS SELI TUPEN / MARIA GEMA GALGANI KUFTALAN - 3 /  - 2 (4f3ee94b-12d4-4792-8b75-de1d8d9d909a)",
+      "rows": [
+        144
+      ]
+    },
+    {
+      "id": "6a5fb65b-6e02-4ea3-a13d-bf52759264a2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        146
+      ]
+    },
+    {
+      "id": "b6cac233-9316-4494-bf5e-6ff15605b2cb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        147
+      ]
+    },
+    {
+      "id": "738eced9-3be5-4da1-bba8-77ab63b3ae56",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        153
+      ]
+    },
+    {
+      "id": "be80d359-7e5f-4213-beba-cd32fd467586",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        155
+      ]
+    },
+    {
+      "id": "e74f4bc1-d6ca-4bcb-90e1-d2edc180fef8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        156
+      ]
+    },
+    {
+      "id": "652e4e02-d99b-4ef8-a37e-48a9bd39dae9",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        157
+      ]
+    },
+    {
+      "id": "3570a88d-3112-443e-875e-94a7ae23fb56",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        159
+      ]
+    },
+    {
+      "id": "3abcede6-8bfb-4835-9f0e-97910e4b8204",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        161
+      ]
+    },
+    {
+      "id": "67ce7dc6-cd43-4265-8808-c2aea656d354",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        162
+      ]
+    },
+    {
+      "id": "41ee4c1a-9b06-4da2-8eaf-966ae274050a",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309073001001400 - DTSEN - 3 (41ee4c1a-9b06-4da2-8eaf-966ae274050a)",
+      "rows": [
+        164
+      ]
+    },
+    {
+      "id": "8584bff4-f845-4ce4-b4ab-b23e989807b4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        166
+      ]
+    },
+    {
+      "id": "bda8f0db-9fa1-416c-8035-6d0cc9f647e5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        168
+      ]
+    },
+    {
+      "id": "c5465794-06f2-4cee-b692-ed06a0d51ee9",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        169
+      ]
+    },
+    {
+      "id": "5ee44f11-8e37-436e-9d23-ca3d7ca94765",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        171
+      ]
+    },
+    {
+      "id": "115f4193-1ea3-40ab-badb-ffed04ad6d5f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        174
+      ]
+    },
+    {
+      "id": "e798fa00-7052-430c-b263-db505873730a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        182
+      ]
+    },
+    {
+      "id": "08ddeff4-444d-4c0e-81ae-e317a275e8de",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        184
+      ]
+    },
+    {
+      "id": "c2250335-1727-4ed7-a225-d600addfaea6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        185
+      ]
+    },
+    {
+      "id": "e5badf5b-ad24-4ac8-945b-9dd2a98277c1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        187
+      ]
+    },
+    {
+      "id": "2775c288-ba76-4cf7-b250-ebade5985376",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        192
+      ]
+    },
+    {
+      "id": "326a3dfd-5235-4856-b0cc-e5db4c7a3e35",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        194
+      ]
+    },
+    {
+      "id": "483df72d-8b1e-43d6-813e-9cc1a2e96bc4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        198
+      ]
+    },
+    {
+      "id": "65404a08-9a58-4346-b929-840b0e2c31a0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        199
+      ]
+    },
+    {
+      "id": "6cd5394a-70ed-4989-bfb2-533c56963ff5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        201
+      ]
+    },
+    {
+      "id": "ba9213af-e2f8-418c-b6e8-569c531195da",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        202
+      ]
+    },
+    {
+      "id": "ce4abab3-672b-4da7-8670-07c0bda2493a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        204
+      ]
+    },
+    {
+      "id": "e1b6990e-a9e6-4c76-9bac-90885dd417f8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        206
+      ]
+    },
+    {
+      "id": "0ded5c3e-cd5c-4118-975a-ad1d1b4d5983",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        207
+      ]
+    },
+    {
+      "id": "eec9e941-5d31-46d3-9b45-57e42f4eaa67",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        209
+      ]
+    },
+    {
+      "id": "18ac07cb-5706-4c5b-994b-df0a0073fc08",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 4,
+      "rows": [
+        211,
+        212
+      ]
+    },
+    {
+      "id": "038c832c-e8ab-4e38-b8a8-176652b86bb5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        213
+      ]
+    },
+    {
+      "id": "11aa5ce9-9d24-4517-bd34-fd8305959ac0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        214
+      ]
+    },
+    {
+      "id": "375f5d59-db75-42c1-bb3d-f6fe7595b9bf",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        215
+      ]
+    },
+    {
+      "id": "338245aa-76a4-4fd9-ad35-1be875b78290",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        216
+      ]
+    },
+    {
+      "id": "467093b0-2b4f-4987-9250-aebb0d8fc13e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        217
+      ]
+    },
+    {
+      "id": "746d4d3c-831f-44a3-b4fe-9c3b04d696ae",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        219
+      ]
+    },
+    {
+      "id": "66324960-1909-4be9-a878-c1487222e239",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        222
+      ]
+    },
+    {
+      "id": "82c8e5de-35cb-4448-bcb2-a32f0d50bfae",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        223
+      ]
+    },
+    {
+      "id": "b57f5279-d1eb-4088-838c-979213e5d04c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        224
+      ]
+    },
+    {
+      "id": "c0f06105-c947-45ca-b1d5-b4c444091903",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309011006000200 - DTSEN - 21 (c0f06105-c947-45ca-b1d5-b4c444091903)",
+      "rows": [
+        226
+      ]
+    },
+    {
+      "id": "c315a7b5-a6f7-47ff-8eee-f4e08abef339",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        227
+      ]
+    },
+    {
+      "id": "ea537d48-8bcd-4f9a-aafc-dddab629b790",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        228
+      ]
+    },
+    {
+      "id": "1c4e4174-99f2-4308-8134-c06cb13879c6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        230
+      ]
+    },
+    {
+      "id": "19fed708-6204-41f9-b6f6-963fa0ea356f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        231
+      ]
+    },
+    {
+      "id": "0734c8f1-2a96-4eba-89b4-e933f861c699",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        233
+      ]
+    },
+    {
+      "id": "231bf05d-b6ce-4ca1-9de2-655dc364492e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        234
+      ]
+    },
+    {
+      "id": "49258a06-f360-484b-a969-ec50d80b0d11",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309073010001000 - KIOS YUSRIL RATE IKEN - 25 /  - 1 - 86261 (49258a06-f360-484b-a969-ec50d80b0d11)",
+      "rows": [
+        235
+      ]
+    },
+    {
+      "id": "5db68a66-828c-40ed-ac45-9656c85bf4dd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        236
+      ]
+    },
+    {
+      "id": "7b51c5cd-bd7f-4351-9316-4c02797df1f0",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309010004001500 - DTSEN - 3 (7b51c5cd-bd7f-4351-9316-4c02797df1f0)",
+      "rows": [
+        239
+      ]
+    },
+    {
+      "id": "94fea1e2-3721-4459-a85d-b6b2c049bf81",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        242
+      ]
+    },
+    {
+      "id": "bc7e8910-66ed-4b97-9b89-ad434eabb150",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        244
+      ]
+    },
+    {
+      "id": "f78ec85c-a82b-4ec4-b319-33b642d8d7d4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        245
+      ]
+    },
+    {
+      "id": "f251d0c3-407a-4856-9534-daa89ffa70e1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        246
+      ]
+    },
+    {
+      "id": "bd6f4040-fadb-4a87-a7a0-35e7e8d226fa",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        247
+      ]
+    },
+    {
+      "id": "a18b8029-de9d-4f01-ad41-7aa7fc06e812",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        248
+      ]
+    },
+    {
+      "id": "df3ac28a-0630-4a0e-a332-0ee6eeab0b62",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        249
+      ]
+    },
+    {
+      "id": "a4e2c8dd-37bc-454a-8c82-ebeefd5fcdef",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        251
+      ]
+    },
+    {
+      "id": "27289c34-7bdd-404a-814f-4810cbc4f50a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        253
+      ]
+    },
+    {
+      "id": "639f5930-9551-40aa-a227-12ee6eac4034",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        255
+      ]
+    },
+    {
+      "id": "5f7606f2-43a1-4684-82c4-b69e929ca0c6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        258
+      ]
+    },
+    {
+      "id": "573da197-92de-4029-a63d-3268bf0bee4e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        264
+      ]
+    },
+    {
+      "id": "8b2665f5-12ce-4614-a9c1-e75ec6980542",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        266
+      ]
+    },
+    {
+      "id": "46dc895c-90d5-4888-9ecc-8b523f962ea5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        268
+      ]
+    },
+    {
+      "id": "657d1962-a5af-4824-8bf1-33d79c5e7d94",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        269
+      ]
+    },
+    {
+      "id": "240e52b5-840e-48d3-adc7-efc858d575f7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        272
+      ]
+    },
+    {
+      "id": "bd10d963-0a55-4691-8546-746839b21f43",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        273
+      ]
+    },
+    {
+      "id": "201158dd-8a6c-4b44-af4d-28bba74703ea",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        274
+      ]
+    },
+    {
+      "id": "29163c16-eb48-467b-8a7d-d612a8139a9e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 5,
+      "rows": [
+        276,
+        299
+      ]
+    },
+    {
+      "id": "7abe7731-ad1e-435b-87fc-2d5dac56e0f3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        277
+      ]
+    },
+    {
+      "id": "84809883-9250-423a-acbe-63441c19e1e8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        278
+      ]
+    },
+    {
+      "id": "da02cb0b-ed7b-4122-87d8-3c1f6099857b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        279
+      ]
+    },
+    {
+      "id": "a9692ae0-7256-446e-8423-ceee5394e858",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        281
+      ]
+    },
+    {
+      "id": "3a41534a-6c0d-44d4-a5a5-32e483202fad",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        286
+      ]
+    },
+    {
+      "id": "4c093b88-d2a9-4e8e-bd1b-a6d1e66f0e5c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        289
+      ]
+    },
+    {
+      "id": "a2b9543e-5768-408d-8e13-0cb0a10dedbc",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        291
+      ]
+    },
+    {
+      "id": "1cef09ef-63f2-41ca-b1ed-18b6988fe6a0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        293
+      ]
+    },
+    {
+      "id": "73961503-f9ae-4b92-93ef-dd67f7356d7f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        294
+      ]
+    },
+    {
+      "id": "91184f7a-44fd-42ca-ab13-163c163c54f4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        295
+      ]
+    },
+    {
+      "id": "c1f3e485-4f6e-4c72-886f-e4596b7cfd48",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        297
+      ]
+    },
+    {
+      "id": "2d598689-119f-4d32-ab89-80234a072a9a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        298
+      ]
+    },
+    {
+      "id": "2316cfc1-c9cc-459a-91e1-68b37c27714d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        302
+      ]
+    },
+    {
+      "id": "ace81861-c8b8-4bdc-8f50-bb9f3e5340b6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        303
+      ]
+    },
+    {
+      "id": "42fa9abb-e753-4ef1-b18e-ea05b393b1d4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        306
+      ]
+    },
+    {
+      "id": "ea873663-b1f3-412d-b0a7-22250ce0c491",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        307
+      ]
+    },
+    {
+      "id": "3e4ba761-f132-4714-a5b9-883a69eb4775",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        308
+      ]
+    },
+    {
+      "id": "1fc5e074-9782-4d7e-91e0-c77a26c1144c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        310
+      ]
+    },
+    {
+      "id": "5d6eb871-b3a4-44af-9dfd-039aa4022126",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        312
+      ]
+    },
+    {
+      "id": "ed8b468b-cdf4-4442-a6c3-011b144b5d0a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        313
+      ]
+    },
+    {
+      "id": "e9a8030c-6b80-459c-b1a3-2c84d5ab661b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        315
+      ]
+    },
+    {
+      "id": "44daa5d9-6a0d-4c42-a239-b01c76254b31",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        317
+      ]
+    },
+    {
+      "id": "cd51fc26-1236-470c-9e7f-4552dbc84c2d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        319
+      ]
+    },
+    {
+      "id": "0849b37f-8941-4cf8-9cf8-1f664606760a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        321
+      ]
+    },
+    {
+      "id": "05dbade5-bfe5-43ba-b143-5cf5cdbf62e8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        324
+      ]
+    },
+    {
+      "id": "595ad76b-d538-4b6c-b4ec-9635216c3c14",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        325
+      ]
+    },
+    {
+      "id": "630ed2bf-8eb4-440d-b53d-891b1a3ce8e2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        326
+      ]
+    },
+    {
+      "id": "644d50be-1275-435e-92c3-e11e84e88856",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        327
+      ]
+    },
+    {
+      "id": "6132740a-157b-4fb9-b90f-8f05bf4d7206",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        328
+      ]
+    },
+    {
+      "id": "7f908a23-963d-4583-9794-1cea31016306",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        329
+      ]
+    },
+    {
+      "id": "8a172147-5448-4d44-8d1e-abf922f58b0d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        332
+      ]
+    },
+    {
+      "id": "af365f99-add6-44ce-b4db-ca914d9aa927",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        333
+      ]
+    },
+    {
+      "id": "f487e0bd-a249-4120-a9a6-6a6472550639",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        336
+      ]
+    },
+    {
+      "id": "3da91d6c-7001-477c-ad9a-1331cc88085b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        339
+      ]
+    },
+    {
+      "id": "03c7b3db-6a55-4fdc-980b-f8547b96976f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        341
+      ]
+    },
+    {
+      "id": "3561db4c-8a1d-4022-ae2d-5aabb922bdc2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        342
+      ]
+    },
+    {
+      "id": "2f8efd7b-d36c-48bc-9bd8-b157897928c3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        344
+      ]
+    },
+    {
+      "id": "41cd1b6e-0b3f-40db-baa4-903f580c11eb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        347
+      ]
+    },
+    {
+      "id": "7e71d844-23a7-49da-b660-b0fa61235b08",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        348
+      ]
+    },
+    {
+      "id": "a946cabd-b358-4590-8974-91343b02f87f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 4,
+      "rows": [
+        350,
+        452
+      ]
+    },
+    {
+      "id": "a5270c26-ea6d-4159-91fe-6546eaea0df4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        352
+      ]
+    },
+    {
+      "id": "a28667da-ad21-4686-abbb-9611e4d710a5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        355
+      ]
+    },
+    {
+      "id": "e38974c1-2daf-4813-8c7b-c0529dafe871",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        357
+      ]
+    },
+    {
+      "id": "fbbf1924-319a-4909-b4f3-4fd4897721ee",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        359
+      ]
+    },
+    {
+      "id": "e909dc05-8ca7-4e0e-a889-473c6709b947",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        361
+      ]
+    },
+    {
+      "id": "ec4eae5a-afd1-4dad-ac62-7278dde0f334",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        362
+      ]
+    },
+    {
+      "id": "1df5bace-e409-45c0-9845-7b3d035764dd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        364
+      ]
+    },
+    {
+      "id": "765940a9-44d4-42d0-96b5-bacbd33b2e90",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        367
+      ]
+    },
+    {
+      "id": "76820031-b2df-42e6-9079-30b954f06bcf",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        369
+      ]
+    },
+    {
+      "id": "c3d1e8ba-333c-4075-9f9e-305bbb43450d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        372
+      ]
+    },
+    {
+      "id": "d83dee31-07fe-4833-93ea-c58e12e2b1e3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        373
+      ]
+    },
+    {
+      "id": "b167b14f-94eb-4ce0-8d2e-8aa5af60c31e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        374
+      ]
+    },
+    {
+      "id": "d9170c21-6ff8-4d26-8f2d-fe5dab206954",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        375
+      ]
+    },
+    {
+      "id": "17be1e74-eb43-470d-9917-47dc395fa640",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        379
+      ]
+    },
+    {
+      "id": "5afb094f-31b7-4e9f-b58e-278ee12e5f69",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        383
+      ]
+    },
+    {
+      "id": "6c4e08ec-1ddd-45d2-8bec-90b613edfc2b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        385
+      ]
+    },
+    {
+      "id": "65c0b1b3-7b34-41a6-8286-4103883c7897",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        386
+      ]
+    },
+    {
+      "id": "8fb8b6de-dce6-4780-911a-2c499a2136ff",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        388
+      ]
+    },
+    {
+      "id": "a4f6ce9b-ff8f-48b3-9198-28650bf9ba3e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        389
+      ]
+    },
+    {
+      "id": "acdd1620-3057-4f58-b70c-5bca01638e92",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        390
+      ]
+    },
+    {
+      "id": "dd6f0216-ece9-4d6c-8715-b8b8dbe628cd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        391
+      ]
+    },
+    {
+      "id": "e5bf6afd-3608-4872-9cd6-c2746cc30ec3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        392
+      ]
+    },
+    {
+      "id": "8898ef4a-4830-4785-b88e-ec671357aa1c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        393
+      ]
+    },
+    {
+      "id": "49eb2329-6da5-4b83-84d9-77671a5da3f1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        394
+      ]
+    },
+    {
+      "id": "af980fcd-4ffc-4cf9-9897-2f80003b451b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        395
+      ]
+    },
+    {
+      "id": "4417f164-6696-41f5-bb6d-60588bd4d274",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        396
+      ]
+    },
+    {
+      "id": "50092168-d389-4512-a0a4-bac33b657699",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        399
+      ]
+    },
+    {
+      "id": "5eed62fc-146e-4ab1-b3bc-519a628f5e19",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        401
+      ]
+    },
+    {
+      "id": "fb2b372e-41fb-4b9e-a103-0bd8a5a0df9b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        402
+      ]
+    },
+    {
+      "id": "80ba05d8-4b31-42d6-bd55-9b0d31498e91",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        403
+      ]
+    },
+    {
+      "id": "5fc43431-873a-439f-a309-80252fa0cefd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        404
+      ]
+    },
+    {
+      "id": "9c485081-2177-495c-845e-c7e1a60b18b6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        405
+      ]
+    },
+    {
+      "id": "36234967-0d03-4986-ace8-f637e358d453",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        406
+      ]
+    },
+    {
+      "id": "ce2e858f-e730-4fc9-8c11-517863adbfe4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        409
+      ]
+    },
+    {
+      "id": "b0970d22-fdb5-4dd3-b3de-948536b5bf87",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        410
+      ]
+    },
+    {
+      "id": "4dd2bca1-c42a-45f4-a292-d49322a023bc",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        411
+      ]
+    },
+    {
+      "id": "2f6a3ebc-9961-4895-a04c-35fd7d397a17",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        413
+      ]
+    },
+    {
+      "id": "228d0c4d-fd49-4e21-9e30-5f9fd6f2364a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        417
+      ]
+    },
+    {
+      "id": "e490c599-564d-469c-8b02-dcb91c10ad89",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309060040000500 - DASIANUS MULI / APLIANA LELE - 1 /  - 5 - 86262 (e490c599-564d-469c-8b02-dcb91c10ad89)",
+      "rows": [
+        421
+      ]
+    },
+    {
+      "id": "fccb4c8c-a3bf-4a58-b219-69746f170083",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        422
+      ]
+    },
+    {
+      "id": "afeb7733-4dd5-47a3-b287-610f1821b488",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        423
+      ]
+    },
+    {
+      "id": "f5b4a3fc-002a-4886-acd3-40be5496d88f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        424
+      ]
+    },
+    {
+      "id": "025240c8-7a51-480b-bf59-a46417d4ead1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        426
+      ]
+    },
+    {
+      "id": "ca1ac380-8410-4d0f-b880-55d55f84f9e8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        429
+      ]
+    },
+    {
+      "id": "1e84655d-153a-4efd-b9cf-65119cd6a2b5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        433
+      ]
+    },
+    {
+      "id": "45e8025e-b1eb-43fb-9e32-19d68a1715e0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        435
+      ]
+    },
+    {
+      "id": "8e36c338-62a9-4399-bb4c-633ea1b77b55",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        439
+      ]
+    },
+    {
+      "id": "e5bec3d1-20a0-475d-bfe6-ad931575db47",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        440
+      ]
+    },
+    {
+      "id": "03d58791-e56e-45ca-b5c1-18be8876e22d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        441
+      ]
+    },
+    {
+      "id": "94492fc3-fbd4-43d0-97f6-00d7964579bf",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        442
+      ]
+    },
+    {
+      "id": "98de06b9-5233-45f1-93a7-75d59046eed2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        443
+      ]
+    },
+    {
+      "id": "0cd519d3-02ce-4cc8-9c05-2c93ab49e909",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        444
+      ]
+    },
+    {
+      "id": "2d24efb6-5509-4558-a44c-0595db46a792",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        446
+      ]
+    },
+    {
+      "id": "3029c238-254c-4348-ad6f-c411f7e2b1f7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        449
+      ]
+    },
+    {
+      "id": "048dd5c2-088e-49fa-b244-94b605ac074d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        450
+      ]
+    },
+    {
+      "id": "8d2b03ba-b8a8-4e40-bfec-6a5f1ce028b1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        451
+      ]
+    },
+    {
+      "id": "2c476e9e-c78b-45f6-8972-11857a2e2339",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        453
+      ]
+    },
+    {
+      "id": "93ba0bae-4999-4190-83d2-ba787d7271d2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        456
+      ]
+    },
+    {
+      "id": "a07adf6b-69e7-4276-a560-9894b86c4126",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        458
+      ]
+    },
+    {
+      "id": "d139536e-2abf-4d82-b0ca-d153ca6fd5ef",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        462
+      ]
+    },
+    {
+      "id": "f00b1179-b1b2-4e0d-8ffb-f393028563e3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        463
+      ]
+    },
+    {
+      "id": "364331bd-3706-48e3-bee0-5cd34c3134ee",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        464
+      ]
+    },
+    {
+      "id": "e30ef672-f100-4295-ac70-9825effeaa3c",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        470
+      ]
+    },
+    {
+      "id": "065d3954-b596-44b4-a4a5-c1941a30ec6a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        471
+      ]
+    },
+    {
+      "id": "0d8f52c3-ad6a-4cf6-aeb8-b670957abe79",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        472
+      ]
+    },
+    {
+      "id": "c971f4df-47af-47a3-867d-ab613b2ea827",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        474
+      ]
+    },
+    {
+      "id": "103773c6-3981-4897-a6d5-5556cf4c3269",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        475
+      ]
+    },
+    {
+      "id": "3fa4f2c0-9ac7-4295-a37b-9029319144c1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        477
+      ]
+    },
+    {
+      "id": "6bcec3d7-f98d-42bc-bb4d-7d6f06bbbcae",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        478
+      ]
+    },
+    {
+      "id": "9528c7c8-239e-492d-814f-a6f9daf005ac",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        480
+      ]
+    },
+    {
+      "id": "966e96ab-55b4-46c3-af72-6456a32ed688",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        482
+      ]
+    },
+    {
+      "id": "bb514375-2608-4d3b-be8e-f983dd87ef53",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        483
+      ]
+    },
+    {
+      "id": "a3179919-5827-4e09-8004-583a8220d24f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        484
+      ]
+    },
+    {
+      "id": "c8f38ff3-490e-4fb9-b4e3-2f37535a14dd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        487
+      ]
+    },
+    {
+      "id": "0504aa2a-62b9-445e-8b27-7be3d43dcfe1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        488
+      ]
+    },
+    {
+      "id": "1ed5c0ff-f9d0-44bf-a3c1-ef179fd00618",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        489
+      ]
+    },
+    {
+      "id": "d96f5e03-b108-43ec-b11d-1707f0bb39b0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        491
+      ]
+    },
+    {
+      "id": "24450b7e-70b8-41d8-98db-0b815fd0ccdf",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        493
+      ]
+    },
+    {
+      "id": "326c8879-4a50-4ed7-b5f6-e6b3084a7d53",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        495
+      ]
+    },
+    {
+      "id": "4a46bdda-407b-4314-9231-ba6f13665ce4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        496
+      ]
+    },
+    {
+      "id": "53352e45-bb8c-472c-84c6-08de51992d10",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        499
+      ]
+    },
+    {
+      "id": "5f18d471-26ba-48fc-9a67-6957009e332a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        502
+      ]
+    },
+    {
+      "id": "9ad660bb-c96e-4484-9933-519b122dc457",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        503
+      ]
+    },
+    {
+      "id": "9188c074-75d7-4284-a965-090a3164f877",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        504
+      ]
+    },
+    {
+      "id": "a83d9569-81b6-468d-bc2a-e5c71419826d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        505
+      ]
+    },
+    {
+      "id": "91d9b0b2-bdf9-407e-985d-5dae27ebe05f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        509
+      ]
+    },
+    {
+      "id": "8dadc703-b26a-4155-b4ce-45bc5e0e215d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        510
+      ]
+    },
+    {
+      "id": "8a519382-8279-4576-8d47-768a73a79cab",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        511
+      ]
+    },
+    {
+      "id": "8a93a868-fc68-49d4-b70e-f5de47776385",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        512
+      ]
+    },
+    {
+      "id": "f5b4972d-ef47-4e42-9d15-4817cbb9febb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        516
+      ]
+    },
+    {
+      "id": "08468e88-2280-4a20-b744-a0910dbb1430",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        520
+      ]
+    },
+    {
+      "id": "f207e04a-3fa6-44ac-ac8a-8d16d60c8e4e",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        521
+      ]
+    },
+    {
+      "id": "0abc2539-ac3c-43b9-92f8-08dbc3f69c28",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        522
+      ]
+    },
+    {
+      "id": "004c8307-4031-4529-bccb-11ddc6dfeefb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        523
+      ]
+    },
+    {
+      "id": "3470f360-aa7d-450a-a5d0-62a03d7d6e86",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        525
+      ]
+    },
+    {
+      "id": "2311ea0b-2ba6-4c21-81bf-543cb3842db8",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        527
+      ]
+    },
+    {
+      "id": "4049f4d1-57c8-471b-8db5-8a37c9582271",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        528
+      ]
+    },
+    {
+      "id": "564e0a13-fd10-43c0-8fa2-f3103b5162d7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        529
+      ]
+    },
+    {
+      "id": "73ccf083-ec1e-405a-a6ca-0c2188931fa1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        532
+      ]
+    },
+    {
+      "id": "6181d690-e811-4ed1-aa69-587e4a2ac9aa",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        533
+      ]
+    },
+    {
+      "id": "991b8646-ff87-469f-bc55-54d81a8b9029",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        534
+      ]
+    },
+    {
+      "id": "7fbb98e0-f0eb-4203-b5b5-4e02f6bbff30",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        535
+      ]
+    },
+    {
+      "id": "912e3d69-d3b1-44f0-b531-73f193bbe07f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        536
+      ]
+    },
+    {
+      "id": "855b776b-7d8e-49c7-8fb2-e9b92ae0b5e5",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        537
+      ]
+    },
+    {
+      "id": "b033112f-fe33-4260-8161-7f725b4086b3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        539
+      ]
+    },
+    {
+      "id": "b0e18676-8040-4ef0-896b-be33aff247bd",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        543
+      ]
+    },
+    {
+      "id": "c47a4d4b-b87b-4a37-876e-831cf1389c52",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        544
+      ]
+    },
+    {
+      "id": "e8564686-cdab-49ed-8ede-549b0c40c3d1",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        547
+      ]
+    },
+    {
+      "id": "153a3e10-86f0-441c-af67-07c53e6483ba",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        550
+      ]
+    },
+    {
+      "id": "37efd52c-6d40-4bd5-86ae-92cf70bc95a0",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        551
+      ]
+    },
+    {
+      "id": "498e8797-853c-4d21-b56e-3b186a8fd459",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        553
+      ]
+    },
+    {
+      "id": "713ee8dc-8552-476c-b847-183c5994face",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        554
+      ]
+    },
+    {
+      "id": "976c9c46-03b4-477c-ab4c-75edf6fa6a4b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        555
+      ]
+    },
+    {
+      "id": "8f806498-9b20-4ea0-9de9-5b0e1f096e8d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        556
+      ]
+    },
+    {
+      "id": "82b84d63-f945-46f6-97d9-efc81bd52ff4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        558
+      ]
+    },
+    {
+      "id": "b841240f-25dd-43f0-84a4-a90d5224970b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        559
+      ]
+    },
+    {
+      "id": "cb00b82b-7df8-4674-b04c-126e3c7aa6a2",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        562
+      ]
+    },
+    {
+      "id": "e78a5635-0b72-4716-a1e0-1159fad309e7",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        564
+      ]
+    },
+    {
+      "id": "fb857acd-5e75-4181-9c08-e5afa0a5c4da",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        565
+      ]
+    },
+    {
+      "id": "fe9d4665-dc97-43e1-8e48-1aeebd91e854",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        567
+      ]
+    },
+    {
+      "id": "fad0f9c6-dc62-4183-85fb-1015c2a7a003",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        568
+      ]
+    },
+    {
+      "id": "93710cb0-cb7e-4e6e-94fb-65395128276f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        569
+      ]
+    },
+    {
+      "id": "c5a6eb3b-7a3a-4231-8fa6-94151f2653aa",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        570
+      ]
+    },
+    {
+      "id": "05833d34-3df8-4f4b-b246-c843b802fc5e",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309010004001600 - MARIA MARVIANA MITAN LIWU / MARIANUS ATEN ARAN - 18 /  - 1 (05833d34-3df8-4f4b-b246-c843b802fc5e)",
+      "rows": [
+        571
+      ]
+    },
+    {
+      "id": "a35b1b6f-6d31-4797-91bc-9475dd016532",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        572
+      ]
+    },
+    {
+      "id": "eaa2fc99-0fa8-4f0e-afd6-602a05513a94",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        573
+      ]
+    },
+    {
+      "id": "4928399a-8757-4a9b-9e6b-c12d01d67b4b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        574
+      ]
+    },
+    {
+      "id": "cb0ea229-388a-469b-b6b1-062fe0efe3ca",
+      "ok": false,
+      "error": "presign-url (s3/edit) gagal: No access for assignment 5309061010000100 - DTSEN - 22 (cb0ea229-388a-469b-b6b1-062fe0efe3ca)",
+      "rows": [
+        575
+      ]
+    },
+    {
+      "id": "6c2e6a98-5100-46bc-94d1-5cf5b0b18380",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        576
+      ]
+    },
+    {
+      "id": "65051c16-c156-4858-93ee-06ac5fd00a6f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        577
+      ]
+    },
+    {
+      "id": "5bd3f27b-a903-44ec-a424-818829b112a6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        580
+      ]
+    },
+    {
+      "id": "32c3560c-d187-4c59-bc5f-ac130e9cd600",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        581
+      ]
+    },
+    {
+      "id": "4c73f194-483c-4e97-bad2-c56ea4d3ac03",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        582
+      ]
+    },
+    {
+      "id": "f8b8fccb-f726-48eb-a215-71badb79cb90",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        584
+      ]
+    },
+    {
+      "id": "a69246f1-8b14-482b-8ca5-a0ecda35c40b",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        587
+      ]
+    },
+    {
+      "id": "ae1e1210-b2f7-47cc-9c8f-f234a98c9128",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        588
+      ]
+    },
+    {
+      "id": "247c3af0-e814-4424-a407-633be8d109c4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        589
+      ]
+    },
+    {
+      "id": "2ceb48b1-c462-426d-b15d-18c1cc1074cb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        590
+      ]
+    },
+    {
+      "id": "e1ed183a-03b8-4dc4-bd15-cffe9de68d3f",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        592
+      ]
+    },
+    {
+      "id": "23247add-5d9f-4f71-b02a-a5505ed8934a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        594
+      ]
+    },
+    {
+      "id": "197b0dc4-e4a4-4496-b9ff-d6a6bbb0e003",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        596
+      ]
+    },
+    {
+      "id": "1c08f0c1-97d8-46f0-a81f-98a1bb9462a4",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        597
+      ]
+    },
+    {
+      "id": "1a3bbcca-9a16-491c-b44e-5836a5cdfa68",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        602
+      ]
+    },
+    {
+      "id": "7f8b01c4-edf4-4c0e-b37b-e66c92dcd530",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        603
+      ]
+    },
+    {
+      "id": "6a8b58f6-8885-4c83-b5ba-8e74711e41fb",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        605
+      ]
+    },
+    {
+      "id": "0b151fe3-201e-4e45-860f-a63c46c682a6",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        606
+      ]
+    },
+    {
+      "id": "74039136-4bc0-439d-ad0e-f979d4860b29",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        609
+      ]
+    },
+    {
+      "id": "b0438489-aa0e-4f6d-9766-c6a661c99360",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        610
+      ]
+    },
+    {
+      "id": "e57251c3-f0ee-4b1a-9338-4682ed448cc3",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        611
+      ]
+    },
+    {
+      "id": "07846247-d8da-431e-80eb-23a750fe015a",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 2,
+      "rows": [
+        612
+      ]
+    },
+    {
+      "id": "51eec490-ab8e-4bd8-bf0d-e49a17aa141d",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 3,
+      "rows": [
+        614
+      ]
+    },
+    {
+      "id": "54906070-7584-4458-b906-5f4ea895aded",
+      "ok": true,
+      "alias": "EDITED BY Admin Kabupaten",
+      "fields": 1,
+      "rows": [
+        618
+      ]
+    }
+  ]
+}

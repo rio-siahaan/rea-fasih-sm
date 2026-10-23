@@ -1,0 +1,13 @@
+{
+  "browser": "Chrome/155.0.8059.84",
+  "startedAt": "2026-10-19T02:07:46.466Z",
+  "durationSec": 240,
+  "stats": {
+    "requests": 0,
+    "responses": 0,
+    "bodies": 0,
+    "posts": 0
+  },
+  "endpoints": [],
+  "errors": []
+}

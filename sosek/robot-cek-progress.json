@@ -1,0 +1,51 @@
+{
+ "ok": {
+  "919dd330-b09a-43f7-a733-8303d3467408": {
+   "at": 1792575622847,
+   "ver": "7.1.0",
+   "no_kk": "5306011608100005",
+   "blocks": [
+    {
+     "idx": "1",
+     "urut": "1",
+     "nik": "5306012608640002"
+    },
+    {
+     "idx": "2",
+     "urut": "2",
+     "nik": "5306015505930005"
+    },
+    {
+     "idx": "101",
+     "urut": "3",
+     "nik": "7777"
+    }
+   ],
+   "zeroKeys": [
+    "nik_dtsen#101"
+   ],
+   "commentsAll": [
+    "internet#1=Sesuai kondisi lapangan",
+    "internet#2=Sesuai kondisi lapangan",
+    "aset_usaha_thn#2=TIDAK ADA LAHAN KHUSUS UNTUK USAHA INI, TERNAK DI IKAT DI BEBAS LOKASI",
+    "internet#3=Sesuai kondisi lapangan",
+    "nik_dtsen#101=#0"
+   ],
+   "statusAlias": "EDITED BY Admin Kabupaten",
+   "rows": [
+    3
+   ],
+   "audits": [
+    {
+     "row": 3,
+     "status": "SUDAH-#0",
+     "blokIdx": "101",
+     "urutForm": "3",
+     "nikForm": "7777",
+     "catatan": ""
+    }
+   ]
+  }
+ },
+ "fail": {}
+}

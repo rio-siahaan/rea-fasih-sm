@@ -1,0 +1,1291 @@
+{
+ "at": "2026-10-21T03:51:42.905Z",
+ "moved": [
+  {
+   "rowNo": 95,
+   "nama": "ARAK ( NATHAN KOSMAS)",
+   "from": "8b5fb992-1edd-40b5-ad7c-990dc78fe0a9",
+   "kind": "unmatched",
+   "to": "3d6a943b-2264-429b-a929-58408df0f233",
+   "idx": "3001",
+   "nama_block": "ARAK ( PIUS OLA BAHI )",
+   "score": 70
+  },
+  {
+   "rowNo": 129,
+   "nama": "KIOS PAKAIAN 1 (RIZAL)",
+   "from": "e56bccfc-852f-4d12-8c93-34d4005cee89",
+   "kind": "unmatched",
+   "to": "8e36c338-62a9-4399-bb4c-633ea1b77b55",
+   "idx": "2001",
+   "nama_block": "KIOS PAKAIAN 2 (NASTAIN)",
+   "score": 30
+  },
+  {
+   "rowNo": 131,
+   "nama": "KIOS PAKAIAN & PARFUM (RIZKA)",
+   "from": "a151b224-a1b1-47f0-9e57-db0216935331",
+   "kind": "unmatched",
+   "to": "8e36c338-62a9-4399-bb4c-633ea1b77b55",
+   "idx": "2001",
+   "nama_block": "KIOS PAKAIAN 2 (NASTAIN)",
+   "score": 30
+  },
+  {
+   "rowNo": 134,
+   "nama": "KIOS SENDAL SEPATU (ABDUL AZIZ 3)",
+   "from": "f1481da1-eed2-44a2-8ea6-c51e29dda667",
+   "kind": "unmatched",
+   "to": "98de06b9-5233-45f1-93a7-75d59046eed2",
+   "idx": "2001",
+   "nama_block": "KIOS SENDAL SEPATU (ERNAWATI)",
+   "score": 70
+  },
+  {
+   "rowNo": 237,
+   "nama": "KIOS MANDIRI ( PHILOMENA )",
+   "from": "68a4ee26-57a3-41d5-a67c-118da776514c",
+   "kind": "no-field",
+   "to": "f487e0bd-a249-4120-a9a6-6a6472550639",
+   "idx": "1001",
+   "nama_block": "KIOS ( ELISABET K HURUNG )",
+   "score": 70
+  },
+  {
+   "rowNo": 260,
+   "nama": "ARAK ( MARIANUS PERADA NIMUNUHO)",
+   "from": "b959ed6a-2801-4fb0-b0f6-6d9c5aef2f13",
+   "kind": "unmatched",
+   "to": "3d6a943b-2264-429b-a929-58408df0f233",
+   "idx": "3001",
+   "nama_block": "ARAK ( PIUS OLA BAHI )",
+   "score": 70
+  }
+ ],
+ "reindex": [
+  {
+   "rowNo": 117,
+   "nama": "USAHA PERDAGANGAN (MAXIMILIANUS KEWANI TUKAN)",
+   "from": "9ed9c363-fce6-48da-bd02-83c176b005de",
+   "kind": "no-field",
+   "to": "9ed9c363-fce6-48da-bd02-83c176b005de",
+   "from_idx": "3002",
+   "idx": "1001",
+   "nama_block": "UTP TANAMAN PANGAN (MAXIMILIANUS KEWANI TUKAN)",
+   "score": 35
+  }
+ ],
+ "unresolved": [
+  {
+   "rowNo": 4,
+   "nama": "UTP KIOS SEMBAKO (MAESELINA RAKIANSINON)",
+   "from": "fcfec28d-ece2-4983-b59d-fbb091aaada4",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 6,
+   "nama": "KIOS ( PERPETUA PIRE)",
+   "from": "bd3871a1-6baf-44a2-936d-1c42dc599295",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 8,
+   "nama": "KIOS NOVEN 23 (ERNI LEWOTANA)",
+   "from": "2b823d1e-2def-4255-84ec-21ebc3f8d5be",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 10,
+   "nama": "KIOS (NUR SAIDA MUHAMMAD)",
+   "from": "16636563-d4dd-4b52-99a3-6eaa76febc50",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 11,
+   "nama": "Usaha Kios Karunia",
+   "from": "2b38a8e7-072f-41da-9f24-51a6fb1546c1",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 13,
+   "nama": "KIOS (FATIMAH KOTAN)",
+   "from": "300e41d7-628e-459f-831b-2df345da361a",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 15,
+   "nama": "USAHA KIOS ELISABET BAREK LABINA",
+   "from": "361e4401-e3c5-4cf4-aab6-ba0b307cf4da",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 16,
+   "nama": "JUALAN SNACK ANAK-ANAK (SOTA)",
+   "from": "5a0011a9-ebfe-42ad-9011-09af1323b60c",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 18,
+   "nama": "USAHA KIOS (SESILIA LETO BAUR)",
+   "from": "6c11c8c9-bf07-49fc-8f84-6521d2886217",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 21,
+   "nama": "USAHA KIOS SEMBAKO (YULIANA REPE ARAN)",
+   "from": "477ae574-7f35-4e6b-80ec-509d51e72153",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 22,
+   "nama": "KIOS SEMBAKO( ANASTASIA PERADA)",
+   "from": "80aba988-7e37-4945-b353-417911420e4c",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 25,
+   "nama": "USAHA PERDAGANGAN(AMINA NALLE)",
+   "from": "5f187ff8-ff48-4067-b9dd-c66341b65492",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 26,
+   "nama": "USAHA KIOS <SAFTAR SULAIMAN>",
+   "from": "8232940b-034b-4ef0-8dca-d223d116a14a",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 30,
+   "nama": "USAHA KIOS PRINCES ( AGUSTINE SRI LESTARI )",
+   "from": "a7308ee5-3afc-4ee4-99e8-58d3ef93bb97",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 32,
+   "nama": "KIOS BONE JAYA",
+   "from": "dfeadd1f-44db-4572-a6a2-d162bbfef844",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 33,
+   "nama": "USAHA KIOS (SAIDAH)",
+   "from": "fe66dc1c-850f-4e21-8b79-c5e54f66c648",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 37,
+   "nama": "USAHA KIOS (NURHANI ABONG)",
+   "from": "0c5a5069-af0d-4f49-88e9-62e371a31303",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 38,
+   "nama": "KIOS CALISTA",
+   "from": "e6e22d92-52c2-4d20-85da-61a3c5d3decf",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 39,
+   "nama": "USAHA PERDAGANGAN (MARTINA HOPILERA GAMUR)",
+   "from": "f31c5b7f-d79f-4a86-b395-f981fa38f7e3",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 42,
+   "nama": "KIOS ECERAN (AGUS SALIM)",
+   "from": "213e3b07-2ba7-42e2-a01f-f3d81f84233f",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 43,
+   "nama": "USAHA KIOS SEMBAKO(MARTINA)",
+   "from": "3b816d64-7a54-4b25-bb48-563c1725fa49",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 44,
+   "nama": "KIOS (BUNGA HULER)",
+   "from": "2f5a774e-4d8b-4b0a-9d63-f951717ffd7b",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 51,
+   "nama": "KIOS SEMBAKO (MAISAROH)",
+   "from": "9b3773d8-b8bc-4231-bfaa-c8d777a7c8d6",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 52,
+   "nama": "KIOS ( FATIMA ABDULLAH)",
+   "from": "92e51f2d-5375-459b-b5bb-b075846eb6e9",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 54,
+   "nama": "USAHA KIOS(KATARINA SURAT BALA)",
+   "from": "7b4f943a-5b15-4053-b728-96ad994ed715",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 56,
+   "nama": "KIOS SEMBAKO(MUSLIMIN GAFUR)",
+   "from": "b4cead52-469c-43b0-b85e-01f8ff49d8e5",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 57,
+   "nama": "KIOS (LUKMAN BUGA SENARI)",
+   "from": "c6050d89-ea90-44cc-aa48-559b89e0c1d4",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 58,
+   "nama": "KIOS NURJINUNG (NURJINUNG LAMABLAWA)",
+   "from": "bdba3061-0756-4039-b42a-fd29f4a89f3b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 62,
+   "nama": "USAHA KIOS(MARIA ANGELA YUNIATI TAA",
+   "from": "f02ff524-6273-45d8-bdff-81b914991d2a",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 67,
+   "nama": "JUALAN SEMBAKO",
+   "from": "28c6069f-b451-45ba-bf68-b92461c28ebd",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 68,
+   "nama": "PEDAGANG ECERAN KIOS BAHRIA BAREK",
+   "from": "4ec72325-33a1-453c-9ef2-86de8ecdfe85",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 70,
+   "nama": "KIOS ( CRISTINA F TUKAN )",
+   "from": "61899405-44af-4f43-a101-8c8e3332af67",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 71,
+   "nama": "KIOS SEMBAKO(SAIDAH H KASIM",
+   "from": "6a9120f8-6dd3-4399-9ea2-65998b0f6a9b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 72,
+   "nama": "KIOS SEMBAKO (SARLOTA SUNARTI MENA)",
+   "from": "61758925-3dc5-4e72-8130-6b9243feff10",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 73,
+   "nama": "PEDAGANG ECERAN HAJALIA TUTO",
+   "from": "94c4f66b-c060-4de7-b4e9-2ed3fdbfe118",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 74,
+   "nama": "USAHA KIOS",
+   "from": "a57df11b-0bdb-468f-89e1-0e2b5547cbc7",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 78,
+   "nama": "KIOS (SYAFRUDIN BURHAN)",
+   "from": "eadc6b9c-9776-464d-8b0d-6ba82fe3e3ee",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 82,
+   "nama": "PAPALELE BERAS JAGUNG (HABIBA MAMANG)",
+   "from": "a58f17b5-19b7-44a4-a54f-106fcb19448c",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 83,
+   "nama": "USAHA PERDAGANGAN (KELEMENTINA SABU KOTEN)",
+   "from": "b6f9893d-5387-4dd7-8eec-44c7fe738bb7",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 84,
+   "nama": "USAHA KELILING (YOVITA TANTI)",
+   "from": "fe8ab7f7-2f6f-4747-ada0-884c8695d98c",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 86,
+   "nama": "PERDAGANGAN KELILING (REGINA JAWA MANUK)",
+   "from": "1ab2badc-8b50-404b-853e-e7b2ef389c8e",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 88,
+   "nama": "UD JUAL PISANG (YAYA)",
+   "from": "b9b4d04c-d8be-4e0d-bd06-d68a04dff133",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 89,
+   "nama": "JUALAN BUAH ( MARIA PENI TUKAN)",
+   "from": "a62e38c0-1e13-4eb6-853c-b037f396a731",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 96,
+   "nama": "JUAL ARAK ( NIKOLAUS NAGA NOTAN)",
+   "from": "90b7f49b-bc68-4edf-8c29-3fdf21ebcde2",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 97,
+   "nama": "GALON ISI ULANG FATIH (SUMARSONO ADIL)",
+   "from": "79667ff5-9109-443b-abb9-76089413ffca",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 98,
+   "nama": "JUAL AIR (YOSEP TUE)",
+   "from": "a4fc3ed7-4939-4a02-a507-5b912b2fc96c",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 101,
+   "nama": "JUALAN KUE(MARTINA)",
+   "from": "a2c3c646-0cb9-40f7-ba29-ec52482e556e",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 103,
+   "nama": "USAHA ROTI BAKAR",
+   "from": "49d7586b-a925-4d0d-b0e0-d0c6013e46b3",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 106,
+   "nama": "USAHA JUALAN GARAM (MARIAMA)",
+   "from": "90a1f53c-65a0-4566-a957-122aebff3308",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 108,
+   "nama": "JASA PERDAGANGAN BENSIN ECERAN(SARIMA MASUD)",
+   "from": "e235d7a9-cb9f-4ac4-8a7b-b07d6f92538b",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 113,
+   "nama": "JUAL BENSIN (MANSUR BAHRUDIN)",
+   "from": "8caa52a3-7d04-49a9-9947-afb518886978",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 114,
+   "nama": "USAHA PERDAGANGAN (MENSI KEBAN)",
+   "from": "bd7ffe31-3900-4c35-b87f-ee76b3436a15",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 118,
+   "nama": "PEDAGANG MINYAK ECERAN SNURI LEWAR",
+   "from": "042f84a9-9588-4867-b8dd-a2e5fefcaca1",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 120,
+   "nama": "JUAL BENSIN ECERAN",
+   "from": "c7c36ece-b8d0-4c49-91aa-db05b8ce7d9b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 123,
+   "nama": "JUAL KAIN ( KRISTINA PENATEN BEDA )",
+   "from": "c3b5f6af-1910-4ba8-b7de-afb16c8ce7e2",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 124,
+   "nama": "PEMASOK MATERIAL (KHAIRUL ABIDIN)",
+   "from": "9ce56cb9-f347-4bfa-a5f0-cfece604421f",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 130,
+   "nama": "KIOS PAKAIAN ASSIFA (FATCHUL MUNIF)",
+   "from": "fc193fcf-736d-421f-ac1a-cfd60653a3e8",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 132,
+   "nama": "USAHA JUAL PAKAIAN",
+   "from": "32b7419a-ac1e-4ba6-8894-51ac0548fe11",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 133,
+   "nama": "MIATI FASHION (YUSRAN)",
+   "from": "814b8915-3c7f-49e4-82c4-2421d54370d1",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 137,
+   "nama": "PERDAGANGAN KOSMETIK ONLINE",
+   "from": "e80dc8bd-b04b-4380-b1d7-8cf864cd1bbf",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 138,
+   "nama": "KIOS KOSMETIK (EDUARDUS LOE MAU)",
+   "from": "1490d807-1057-49b6-b0f1-8df173f4d29e",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 139,
+   "nama": "KIOS NUR AQILA EMAS (RISNAWATI)",
+   "from": "4941802e-2a1f-4976-9fbf-a24e8d96ea65",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 143,
+   "nama": "MINYAK TANAH ( FRANSISKA P TUKAN )",
+   "from": "11f16704-8f32-4edc-be15-ad82815dd24b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 145,
+   "nama": "PANGKALAN MINYAK TANAH",
+   "from": "505b3ff7-222d-4f6d-858b-1ad365fc6c01",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 149,
+   "nama": "PANGKALAN MINYAK TANAH (MARIANUS BALA HAYON)",
+   "from": "b440cd26-bda6-4fbf-9d65-f310158c3de9",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 150,
+   "nama": "Pangkalan minyak tanah (Rafael)",
+   "from": "d26e379b-c2fb-437d-8121-19cf9cf32810",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 151,
+   "nama": "PANGKALAN MINYAK TANAH (KORNELIS DONI TAKA)",
+   "from": "b2019225-14c6-4b89-af2a-599706e762ad",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 152,
+   "nama": "PANGKALAN MINYAK TANAH ( MAGDALENA TULI LUAT )",
+   "from": "c7809f51-9d27-4e34-b0d2-76d1d8c7a926",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 154,
+   "nama": "PMTBANGJAI (YEREMIAS LAMA EWAK)",
+   "from": "7208c78f-f11a-4a5a-97d8-e32331bdc6ec",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 160,
+   "nama": "USAHA JUALAN LONTAR DAN TEMBAKO <FRANSISKA TUTO>",
+   "from": "a5c1b66c-0444-4522-a8d1-30ca802b4ab4",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 163,
+   "nama": "USAHA PENIMBANG <RAHMAN HASYIM>",
+   "from": "8600e8e7-2374-4b09-a509-682a2d00a5cf",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 165,
+   "nama": "JUALAN SAYUR (SAIDAH KARIM)",
+   "from": "c3a6e686-11f0-4e3f-8f36-2e5f33967832",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 167,
+   "nama": "FORT DISTRO",
+   "from": "fd70a967-aa00-4795-b28e-5ca6eb2d30cb",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 170,
+   "nama": "USAHA KIOS <KATARINA KEWA DATENG>",
+   "from": "3338e1ee-c3ba-4d5e-bf10-7dc33403e2aa",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 172,
+   "nama": "KIOS KELONTONG<YUSTINA SURAT>",
+   "from": "23acbd59-2054-41fc-bb22-554e8c1449c3",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 173,
+   "nama": "KIOS SEMBAKO (NURSIA BONDA)",
+   "from": "5ab56717-d068-4487-90ca-dd5b2ba3e8be",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 175,
+   "nama": "KIOS °MARIA NINI KELEN°",
+   "from": "1c66c7ae-8287-4b6d-9033-fa45636e2c8b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 176,
+   "nama": "KIOS SEMBAKO - MARIA LUJI FERNANDEZ",
+   "from": "2c841149-140a-409f-9f5a-d89bf6c35a25",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 177,
+   "nama": "KIOS SEMBAKO (AMBROSIUS IVAN DIAZ)",
+   "from": "31ae6c45-ed6d-4d1f-8800-ad0403d1e25b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 178,
+   "nama": "KIOS ARDI KOLIN<YUSTINA ALFIN SOGEN>",
+   "from": "6c53fe3d-0696-48c6-90b3-e6107495fb45",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 179,
+   "nama": "PEDANG ENCERAN SEMBAKO",
+   "from": "9c612a13-c54d-4e15-a435-26c166019742",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 180,
+   "nama": "KIOS SEMBAKO (KALIMAN)",
+   "from": "852bb234-4ba3-42d5-993c-ef56ae314926",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 181,
+   "nama": "KIOS AL-AMIN (IBRAHIM JOU)",
+   "from": "e841452a-97a1-427c-8a2f-d2d4684ab21c",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 183,
+   "nama": "KIOS BERKAT JAYA",
+   "from": "c6ab2af4-2cc2-411d-b482-2a26815bcc03",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 186,
+   "nama": "KIOS MASTURA <MASTURA ADOK>",
+   "from": "1c557ee7-2091-4773-a887-f385d5b262b7",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 188,
+   "nama": "KIOS ASRIL<KRISTINA HODEAPAN MELUR>",
+   "from": "dc36513d-4410-4cb1-8ab7-85fc411fb855",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 189,
+   "nama": "KIOS JUNIOR (MUHAMMAD TAHER)",
+   "from": "e4e2a123-c3da-485c-a0d2-b951f31c4f49",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 190,
+   "nama": "KIOS SEMBAKO ECERAN (KAMRULLAH BOLENG)",
+   "from": "d8a2e9a8-4219-4223-9486-a508816e233a",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 191,
+   "nama": "KIOS SEMBAKO ECERAN HAJON ANTONIUS",
+   "from": "e8b59520-936a-431c-8df8-d1b0f8da32c4",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 193,
+   "nama": "KIOS LEWIS SARTO",
+   "from": "1632e1e6-4161-4cac-b2e6-f1565a185f19",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 195,
+   "nama": "KIOS SEMBAKO FEBBY (MUHAMAD ARIF)",
+   "from": "34d1673b-a278-4cdc-97c9-f96529792be0",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 196,
+   "nama": "KIOS LAURENSIUS LUSI DARANG",
+   "from": "3fdd1982-2661-49a5-a4be-09b2b1953838",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 197,
+   "nama": "KIOS SEMBAKO ( MASTURA IDRIS)",
+   "from": "4c35a086-99a7-4e01-b561-11dde9705cb1",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 200,
+   "nama": "Kios sembako( Idris maleng)",
+   "from": "9c6c93d3-3d60-4f2b-bbf9-69d43eb494c4",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 203,
+   "nama": "KIOS (SYARIFAH COREBIMA)",
+   "from": "c5283f7f-1f73-4043-b593-51284c47abbe",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 205,
+   "nama": "KIOS DAN GERAI SEPATU MERCUSUAR",
+   "from": "9b3f56d0-8c23-4643-90cd-62b24ef27996",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 208,
+   "nama": "KIOS SEMBAKO KRISHANTY",
+   "from": "db817f6f-fed2-47b5-986b-7153f75658bf",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 210,
+   "nama": "JASA PERDAGANGAN ECERAN(THERESIA SOLOT NAMA)",
+   "from": "0394e74b-7be6-4236-927f-9c07083f3217",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 218,
+   "nama": "KIOS MAMA MONI",
+   "from": "4b1f233e-5ffc-45b9-a9a1-741beef1149b",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 220,
+   "nama": "KIOS (MAGDALENA)",
+   "from": "8a5676e7-2036-4567-9b22-4f33b79df776",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 221,
+   "nama": "KIOS ECERAN MAKANAN DAN MINUMAN (SITTI RUBIAH)",
+   "from": "89455ed7-b5df-45ff-81ab-cd9019473326",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 225,
+   "nama": "BUMBU DAPUR REMPAH (SITI SARAH MUHAMMAD)",
+   "from": "9cfb3d0a-7ab4-4aae-88e9-21e19c6f29bb",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 229,
+   "nama": "KIOS UD.ASS (AFLIANI PATI)",
+   "from": "1b30f47e-e1c8-4cee-b273-8c08b4819d48",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 238,
+   "nama": "USAHA KIOS (AGNES KEWA MANUK )",
+   "from": "797a5328-ddd9-4329-870c-290f444460e9",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 240,
+   "nama": "USAHA KIOS SEMBAKO( HAWIA)",
+   "from": "67117330-c489-497c-8ea3-7634f46c7050",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 241,
+   "nama": "KIOS ONCU ANTONIA BAREK KELASA",
+   "from": "8edac1a4-31b6-4da8-89ee-641e4986d4b9",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 243,
+   "nama": "KIOS °FRANSISKA YOSEFINA BITA°",
+   "from": "cc677b13-2841-4f73-8d32-c736af82bd75",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 252,
+   "nama": "PEDAGANG PISANG <MARIA TUTO SEKO>",
+   "from": "790df53c-a18d-4d62-9690-dc281b16b57b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 254,
+   "nama": "USAHA PERDAGANGAN( URSULA ABON)",
+   "from": "bb557492-104c-44f6-843e-aff0d2730f35",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 256,
+   "nama": "USAHA PENGEPUL BARANG HASIL",
+   "from": "4fd2a5e3-f5f9-468f-b840-29958a6a6304",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 257,
+   "nama": "USAHA PERDAGANGAN (THERESIA TULIN LAMEN)",
+   "from": "53d5b6b9-621b-4255-bcd7-88fab952bfdc",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 259,
+   "nama": "SELERA ARAK BESIRA",
+   "from": "f5cd0e33-5a8d-4e51-88fd-6e1c2c6bdef9",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 261,
+   "nama": "ISTRI KE 2",
+   "from": "d9c274ed-ff78-4c23-a5a4-46f237025a62",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 262,
+   "nama": "USAHA JUAL TEMBAKAU FRANSISKA TUTO MASAN",
+   "from": "745bd94b-2ed5-44bb-a585-303d1d6dca54",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 263,
+   "nama": "JUALAN KUE MOLENG",
+   "from": "43f02e2d-b599-480e-96df-ff62e4e16a5e",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 265,
+   "nama": "PENJUAL KUE BASAH DAN KERING (HENDRIKA)",
+   "from": "f452c000-f322-4f2e-bd4e-e652cd93103f",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 267,
+   "nama": "USAHA KIOS SEMBAKO (DANIEL TAIN TUKAN)",
+   "from": "3afdb7e2-8982-4058-af1b-34998e9d4f16",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 270,
+   "nama": "JUALAN BENSIN ECERAN SIMEON DEROSARI",
+   "from": "f4e9f717-29ee-4def-be9d-7783c3aa11e1",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 275,
+   "nama": "ARTOMORO SOLAR ECERAN (MUHAMADKIRAMAN)",
+   "from": "6dba99c5-857d-474e-bf68-b288e1c814e4",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 280,
+   "nama": "KONTER SASFA CELL",
+   "from": "f55c2064-6b4f-40b1-824a-0b3760b138f6",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 282,
+   "nama": "JASA MEBEL (BARTHO LEWAR)",
+   "from": "a8c581f9-261b-4374-9493-89ae6bf7a012",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 283,
+   "nama": "TOKO NUSANTARA",
+   "from": "65c56bc4-2fc8-4f66-b8b3-0f7221173892",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 284,
+   "nama": "JUALAN MAINAN (MASWAHDIYAH)",
+   "from": "39921e53-e47b-43ff-9b95-b0a0008f2d04",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 285,
+   "nama": "JUALAN PAKAIAN (SUMANTI BETHAN)",
+   "from": "f58c43e7-21b9-4525-8640-a9b6665e1560",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 287,
+   "nama": "SAERA URAN",
+   "from": "3469d625-d8fd-42bf-ac22-5fe72dd20847",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 288,
+   "nama": "JUAL PAKAIAN (KISMAN)",
+   "from": "952342cf-a532-4d92-9f81-6ac6d2288d24",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 290,
+   "nama": "KIOS SENDAL SEPATU (LUKMAN)",
+   "from": "14c73987-f96f-48c6-817a-c97a82d74ab8",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 292,
+   "nama": "PANGKALAN MINYAK TANAH",
+   "from": "e55e88f2-7be7-4571-b39d-882ec00f3de8",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 296,
+   "nama": "PANGKALAN MINYAK TANAH (MARIA KIDI SABON)",
+   "from": "bb47f9f3-8c38-4567-90e3-ba672e92a6b6",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 300,
+   "nama": "PANGKALAN MINYAK TANA (TASLIM SYAMSUDIN)",
+   "from": "7c421fa9-3acf-4f76-a9d7-ebfa717e69c0",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 301,
+   "nama": "USAHA MINYAK MURNI( HELENA)",
+   "from": "3a0bedee-d393-45aa-88a1-2397a884d56c",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 304,
+   "nama": "LEIKA PARFUM (EDWIN ALI)",
+   "from": "5e997936-f185-46df-b43f-29aeddc33514",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 305,
+   "nama": "GLOBAL OFFSET SEJATHERA",
+   "from": "62577f5b-3bc8-4e5c-9e8f-b4c22bb8babf",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 309,
+   "nama": "UD HASIL PERKEBUNAN ( SILVESTER NASIP )",
+   "from": "99777333-e7b4-457c-a81f-d5bc4b873f84",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 311,
+   "nama": "USAHA PENGEPUL HASIL PERTANIAN PERKEBUNAN(MIKAEL DARE LOSOR)",
+   "from": "f0d78ee6-0a6c-4b3d-8074-6fe3860f0066",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 314,
+   "nama": "DAKAPER MOTOR",
+   "from": "72f87ffd-7889-4f72-b944-119d6313ff53",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 316,
+   "nama": "KIOS BISARA (YOHANES OLA SUA)",
+   "from": "340a5cb1-ee9b-4ec8-aae8-9a7d54a25c8d",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 318,
+   "nama": "KIOS (MARIA TUTO OLA)",
+   "from": "e6bc22a2-ae70-406a-9938-d713b598817d",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 320,
+   "nama": "KIOS (MONIKA PENI MASAN)",
+   "from": "4485e691-ef32-4be3-be08-3094d892946d",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 322,
+   "nama": "KIOS SEMBAKO DUA PUTRA (NURASIAH)",
+   "from": "120f458c-61b4-4f31-9c2e-1f1e444b6302",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 323,
+   "nama": "USAHA KIOS SEMBAKO (KATARINA PENI WUJON)",
+   "from": "147d2d50-d706-4e6c-a7a8-4fec51568715",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 330,
+   "nama": "KIOS LENY",
+   "from": "934fdab2-b3b5-448c-be73-20de34ed5d7b",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 331,
+   "nama": "KIOS SEMBAKO (DAHLIA ALI)",
+   "from": "905cfed2-b769-40cb-9450-500e08feca56",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 334,
+   "nama": "USAHA KIOS",
+   "from": "d123e948-3235-46b1-b021-28518d1321e3",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 335,
+   "nama": "KIOS ERLEN",
+   "from": "e1b51513-4b0b-44ca-bb06-477e3a9e9624",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 337,
+   "nama": "KIOS OSE BALE (OSE BALE)",
+   "from": "dd38301a-428e-4c43-97b1-920efbd23b01",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 338,
+   "nama": "KIOS SEMBAKO (LASARUS GULA OPUN HULER)",
+   "from": "04e8469a-7281-4143-883f-460bc88a93a3",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 340,
+   "nama": "JUAL GARAM LOKAL (JOHOR)",
+   "from": "06964471-82b9-4abb-b4c1-1c15e2094a3c",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 343,
+   "nama": "KIOS WATO EKOT",
+   "from": "4c01fdb4-f383-4f1d-8fef-c66a85abe708",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 345,
+   "nama": "USAHA KIOS ( YANTO B. ARNOLDUSAMO )",
+   "from": "209e3a00-77d7-4b07-b64f-e6c67c49d5d9",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 346,
+   "nama": "KIOS SEMBAKO (ANESTA INA METE)",
+   "from": "59507922-709f-4411-9778-43e92f119da9",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 349,
+   "nama": "KIOS SEMBAKO (LUSIA SOMI MARAN)",
+   "from": "a6ca222c-2e2b-4995-ada0-5926408a3092",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 351,
+   "nama": "USAHA KIOS (ELISABETH JAWA ARAN)",
+   "from": "66f262b3-aa67-4664-96f8-d12b8a4c1bd7",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 353,
+   "nama": "USAHA KIOS",
+   "from": "812c68f2-9ad6-4758-be00-9d1a0f8274a5",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 354,
+   "nama": "KIOS <EMILIA ERO>",
+   "from": "d7cb1b32-525e-4d5a-a0fb-ab03fc775dba",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 356,
+   "nama": "KIOS SEMBAKO (SESILIA KENEKA MULI)",
+   "from": "b24c043c-10a8-48e3-a388-1f33a96a32e0",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 358,
+   "nama": "USAHA KIOS SEMBAKO NASRIL ( NURUL HIDAYAH ABDULLAH )",
+   "from": "e97bc598-5f0a-4aaf-a90f-e4eee5f61374",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 360,
+   "nama": "KIOS (NONA RIDWAN)",
+   "from": "f23ab874-37cf-4a24-8463-f3da94e3df61",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 363,
+   "nama": "KIOS ( MM THERESIA WAIN)",
+   "from": "1a0dc985-b7de-417a-bf77-cd076ed6b685",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 365,
+   "nama": "KIOS (BENEDIKTA JARI)",
+   "from": "01492feb-db47-4bad-a0b4-cefce2122b2b",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 368,
+   "nama": "WARUNG SEMBAKO REGINA",
+   "from": "69f19224-61fe-44a4-b9af-01a00b77ee04",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 370,
+   "nama": "UTP KIOS SEMBAKO (KATARINA SURAT WURIN)",
+   "from": "9236f300-3d4c-44a9-b037-2e86b494a7c1",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 376,
+   "nama": "TOKO CEMERLANG",
+   "from": "f8eabee4-727c-4feb-929e-a0dc49c59b15",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 377,
+   "nama": "KIOS VERREL",
+   "from": "fb2e8b1c-1504-4427-904e-3a131a3745f4",
+   "kind": "no-field",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 378,
+   "nama": "PERDAGANGAN SEMBAKO (LUSIA UTO KAPITAN)",
+   "from": "f991f533-473f-4e60-aa1a-982e564e5d02",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 380,
+   "nama": "JUAL MAKANAN DAN MINUMAN RINGAN (JAINAB AHMAB)",
+   "from": "28808619-a2b1-4124-9faf-4b2ae4106d20",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 381,
+   "nama": "KIOS SEMBAKO SAYID ALI",
+   "from": "34816d1e-676a-421e-8940-14967184a5ca",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 382,
+   "nama": "USAHA KIOS SEMBAKO ( RAHMI ALWAN )",
+   "from": "2184c3f5-7d63-4728-a0d2-abb98dcf264e",
+   "kind": "unmatched",
+   "reason": "kandidat terbaik = assignment/blok yang sama (tidak berubah)"
+  },
+  {
+   "rowNo": 384,
+   "nama": "KIOS <MARIA FLORIDA NINI LAOT>",
+   "from": "67e4c373-4add-412b-a640-8fb49fd35513",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 387,
+   "nama": "USAHA SEMBAKO",
+   "from": "9126d1b1-9515-4f81-84ce-9fb8b2e1fbd7",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 397,
+   "nama": "USAHA HOLTIKULTURA(PENATEN KELON MARIA)",
+   "from": "723a29fb-b326-40e3-98d4-b8a924b28eb1",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 398,
+   "nama": "USAHA KELILING (KRISTINA RIKA)",
+   "from": "db8813f6-ed6d-46f0-8a1f-83df768d62c3",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 400,
+   "nama": "KIOS(MASYITA KURNIAWAN)",
+   "from": "81f24160-c681-4b3a-9fbe-65f2eb7c0b32",
+   "kind": "unmatched",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  }
+ ]
+}

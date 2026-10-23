@@ -1,0 +1,39 @@
+{
+  "ok": {
+    "919dd330-b09a-43f7-a733-8303d3467408": {
+      "alias": "EDITED BY Admin Kabupaten",
+      "acct": "A",
+      "keys": [
+        "nik_dtsen#101"
+      ],
+      "rows": [
+        3
+      ],
+      "at": "2026-10-21T09:36:50.036Z"
+    },
+    "2c3014dc-57e2-492c-8f54-fd4f703cb31a": {
+      "alias": "EDITED BY Admin Kabupaten",
+      "acct": "B",
+      "keys": [
+        "nik_dtsen#103"
+      ],
+      "rows": [
+        4
+      ],
+      "at": "2026-10-21T09:36:58.310Z"
+    },
+    "b4b1135e-18be-454a-ad81-a16cdb3e27c8": {
+      "alias": "EDITED BY Admin Kabupaten",
+      "acct": "C",
+      "keys": [
+        "nik_dtsen#101"
+      ],
+      "rows": [
+        5
+      ],
+      "at": "2026-10-21T09:37:06.512Z"
+    }
+  },
+  "fail": {},
+  "skip": 0
+}

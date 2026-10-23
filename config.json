@@ -1,0 +1,10 @@
+{
+  "cdpPort": 9222,
+  "accounts": [
+    { "label": "A", "port": 9222 },
+    { "label": "B", "port": 9223 },
+    { "label": "C", "port": 9224 }
+  ],
+  "surveyId": "a0429e96-51a5-477b-a415-485f9c153004",
+  "periodId": "fd68e454-ba45-4b85-8205-f3bf777ded24"
+}

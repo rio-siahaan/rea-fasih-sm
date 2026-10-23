@@ -1,0 +1,576 @@
+{
+  "browser": "Chrome/155.0.8059.84",
+  "startedAt": "2026-10-19T02:32:46.439Z",
+  "durationSec": 240,
+  "stats": {
+    "requests": 82,
+    "responses": 77,
+    "bodies": 71,
+    "posts": 6
+  },
+  "endpoints": [
+    {
+      "endpoint": "GET sisnas-fasih-assignment.obj.bps.go.id/fd68e454-ba45-4b85-8205-f3bf777ded24_data/f7392253-f5ed-4251-b10b-c92b73301e68/f7392253-f5ed-4251-b10b-c92b73301e68_1792377202080.zip",
+      "count": 2,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f7392253-f5ed-4251-b10b-c92b73301e68/edit",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/TSPD/0868f8be6fab20000836a77704c4f399993d4d2d735714d0e08cfbfb5fffca954bf170fa273fc22e",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/index-CEn00D-U.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/rolldown-runtime-Dd_uD5pT.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/_virtual___federation_fn_import-Dlwvz4hY.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/react-CQOZoUwg.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/react-dom-pEVw9mjF.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/createReactComponent-7QnCer8l.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/clsx-DB0hHKMi.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/dist-DJR9fnn5.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconQuote-ClEI5phr.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconSelector-80R5aTWf.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/jsx-runtime-DREnUpxT.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/devtools-Cz3Q_4xH.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/login-CuEnnknm.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/isBefore-BENQhq7v.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconMessage-Bki2WRhO.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconLoader2-CofmXaJv.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconChevronRight-CKSj9nzU.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconUpload-Dg9uzFYg.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconPaperclip-Tn4EDB8z.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconTable-CJBD17l3.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconPlus-R--p2R2x.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/dist-2dBQGsDV.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/IconX-CfN0fUwi.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/store-Ba8rQD-F.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/tiny-invariant-C3zCT6lm.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/shim-ChSd6P5L.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/with-selector-Bdqqdb5i.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/useSelector-DY1ufYhK.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/timeoutManager-C9oOlNTU.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/index-CELGJkPe.css",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_react-Dc_xryIk.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/jetbrains-mono-latin-wght-normal-B9CIFXIH.woff2",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/plus-jakarta-sans-latin-wght-normal-eXO_dkmS.woff2",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@tanstack/react-query-CljS39io.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_react-dom-CiOerNiH.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@fasih/globals-CUTKp02l.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/useTranslation-ID5A5yX4.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@tanstack/react-router-BTbsvrQ5.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/atom-CsaMUDV6.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@fasih/ui-CYXBvFoK.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/plugin--jmhb8j5.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/classnames-BDPpjhTE-pHf4zLC8.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/confirmation-popover-9q-5Rqa8-DVnIXWCb.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_zod-CQh0ETGL.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/TSPD/",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@tanstack/react-pacer-BtPwHPgS.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/__federation_shared_@fasih/ui/chart-BDbmsSoo.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "POST fasih-sm.bps.go.id/app/api/survey/api/v1/users/check-user",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/users/check-user",
+      "count": 1,
+      "statuses": [
+        201
+      ]
+    },
+    {
+      "endpoint": "POST fasih-sm.bps.go.id/app/api/assignment-approval/api/v2/get-button-approval",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/devtools-D2uwmL4h.js",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment/get-by-assignment-id",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-approval/api/v2/get-button-approval",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/users/myinfo",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/survey-periods/fd68e454-ba45-4b85-8205-f3bf777ded24",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/users/check-is-pencacah",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/survey-templates/search",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignments/get-principal-values-by-smallest-code/fd68e454-ba45-4b85-8205-f3bf777ded24/5309074007000800",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/designer/api/template/file/2230fffc-5799-4c8a-a585-12ac286c5bf9",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/designer/api/template/file-validation/2230fffc-5799-4c8a-a585-12ac286c5bf9",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "POST fasih-sm.bps.go.id/app/api/access-control/api/authorization/permission/names",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/designer/api/form-engine/css/2",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/designer/api/form-engine/js-umd/2",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/access-control/api/resource-master/my",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/access-control/api/authorization/permission/names",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/surveys/a0429e96-51a5-477b-a415-485f9c153004",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/survey/api/v1/survey-periods/my",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/region/api/v1/region-metadata",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/assets/brand-BLno9q2q.svg",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET www.google.com/maps/embed",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/lookup/api/v1/collections/25a85e3d-0396-4d3d-b40a-ad1c609ca4f9/filter",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "POST fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "PUT sisnas-fasih-assignment.obj.bps.go.id/fd68e454-ba45-4b85-8205-f3bf777ded24_data/f7392253-f5ed-4251-b10b-c92b73301e68/f7392253-f5ed-4251-b10b-c92b73301e68_1792377202080.zip",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "POST fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit",
+      "count": 1,
+      "statuses": []
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/get-by-assignment-id",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-responsibility/get-structure-approval",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment/get-by-id-exclude-data",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    }
+  ],
+  "errors": []
+}

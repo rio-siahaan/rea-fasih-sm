@@ -1,0 +1,1557 @@
+{
+ "at": "2026-10-21T04:21:54.062Z",
+ "mode": "excel",
+ "excel": "yang tersisa rio.xlsx",
+ "moved": [
+  {
+   "rowNo": 33,
+   "nama": "ARAK ( NATHAN KOSMAS)",
+   "from": "8b5fb992-1edd-40b5-ad7c-990dc78fe0a9",
+   "kind": "excel",
+   "to": "3d6a943b-2264-429b-a929-58408df0f233",
+   "idx": "3001",
+   "nama_block": "ARAK ( PIUS OLA BAHI )",
+   "score": 70
+  },
+  {
+   "rowNo": 55,
+   "nama": "KIOS SENDAL SEPATU (ABDUL AZIZ 3)",
+   "from": "f1481da1-eed2-44a2-8ea6-c51e29dda667",
+   "kind": "excel",
+   "to": "98de06b9-5233-45f1-93a7-75d59046eed2",
+   "idx": "2001",
+   "nama_block": "KIOS SENDAL SEPATU (ERNAWATI)",
+   "score": 70
+  },
+  {
+   "rowNo": 105,
+   "nama": "KIOS MANDIRI ( PHILOMENA )",
+   "from": "68a4ee26-57a3-41d5-a67c-118da776514c",
+   "kind": "excel",
+   "to": "f487e0bd-a249-4120-a9a6-6a6472550639",
+   "idx": "1001",
+   "nama_block": "KIOS ( ELISABET K HURUNG )",
+   "score": 70
+  },
+  {
+   "rowNo": 117,
+   "nama": "ARAK ( MARIANUS PERADA NIMUNUHO)",
+   "from": "b959ed6a-2801-4fb0-b0f6-6d9c5aef2f13",
+   "kind": "excel",
+   "to": "3d6a943b-2264-429b-a929-58408df0f233",
+   "idx": "3001",
+   "nama_block": "ARAK ( PIUS OLA BAHI )",
+   "score": 70
+  },
+  {
+   "rowNo": 237,
+   "nama": "KIOS( MARIA UBA OLA)",
+   "from": "efd12a48-e15c-4392-ac3f-07af452f695d",
+   "kind": "excel",
+   "to": "19fed708-6204-41f9-b6f6-963fa0ea356f",
+   "idx": "1002",
+   "nama_block": "KIOS ( BULU GUNE)",
+   "score": 70
+  },
+  {
+   "rowNo": 7,
+   "nama": "USAHA PERDAGANGAN (HENDRIKUS PATARAYA KOLIN)",
+   "from": "1e215243-5f26-4440-81c3-c5bbb8b51a06",
+   "kind": "excel",
+   "to": "0aea4419-98a4-48d0-b987-c3feb5ac7014",
+   "idx": "1002",
+   "nama_block": "USAHA PERDAGANGAN (HIRONIMA MIANTAKE TUKAN)",
+   "score": 70
+  },
+  {
+   "rowNo": 8,
+   "nama": "KIOS ECERAN (AGUS SALIM)",
+   "from": "213e3b07-2ba7-42e2-a01f-f3d81f84233f",
+   "kind": "excel",
+   "to": "8823aaa9-dae3-4894-90e7-071a72caefbf",
+   "idx": "1002",
+   "nama_block": "KIOS ECERAN (USMAN HUSEN)",
+   "score": 70
+  }
+ ],
+ "reindex": [],
+ "unresolved": [
+  {
+   "rowNo": 8,
+   "nama": "KIOS ECERAN (AGUS SALIM)",
+   "from": "213e3b07-2ba7-42e2-a01f-f3d81f84233f",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 9,
+   "nama": "USAHA KIOS SEMBAKO(MARTINA)",
+   "from": "3b816d64-7a54-4b25-bb48-563c1725fa49",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 12,
+   "nama": "KIOS ( FATIMA ABDULLAH)",
+   "from": "92e51f2d-5375-459b-b5bb-b075846eb6e9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 13,
+   "nama": "USAHA KIOS(KATARINA SURAT BALA)",
+   "from": "7b4f943a-5b15-4053-b728-96ad994ed715",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 14,
+   "nama": "KIOS SEMBAKO(MUSLIMIN GAFUR)",
+   "from": "b4cead52-469c-43b0-b85e-01f8ff49d8e5",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 15,
+   "nama": "KIOS (LUKMAN BUGA SENARI)",
+   "from": "c6050d89-ea90-44cc-aa48-559b89e0c1d4",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 16,
+   "nama": "KIOS NURJINUNG (NURJINUNG LAMABLAWA)",
+   "from": "bdba3061-0756-4039-b42a-fd29f4a89f3b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 18,
+   "nama": "USAHA KIOS(MARIA ANGELA YUNIATI TAA",
+   "from": "f02ff524-6273-45d8-bdff-81b914991d2a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 19,
+   "nama": "JUALAN SEMBAKO",
+   "from": "28c6069f-b451-45ba-bf68-b92461c28ebd",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 20,
+   "nama": "PEDAGANG ECERAN KIOS BAHRIA BAREK",
+   "from": "4ec72325-33a1-453c-9ef2-86de8ecdfe85",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 21,
+   "nama": "KIOS ( CRISTINA F TUKAN )",
+   "from": "61899405-44af-4f43-a101-8c8e3332af67",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 22,
+   "nama": "KIOS SEMBAKO(SAIDAH H KASIM",
+   "from": "6a9120f8-6dd3-4399-9ea2-65998b0f6a9b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 23,
+   "nama": "KIOS SEMBAKO (SARLOTA SUNARTI MENA)",
+   "from": "61758925-3dc5-4e72-8130-6b9243feff10",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 24,
+   "nama": "PEDAGANG ECERAN HAJALIA TUTO",
+   "from": "94c4f66b-c060-4de7-b4e9-2ed3fdbfe118",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 25,
+   "nama": "USAHA KIOS",
+   "from": "a57df11b-0bdb-468f-89e1-0e2b5547cbc7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 26,
+   "nama": "KIOS (SYAFRUDIN BURHAN)",
+   "from": "eadc6b9c-9776-464d-8b0d-6ba82fe3e3ee",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 27,
+   "nama": "PAPALELE BERAS JAGUNG (HABIBA MAMANG)",
+   "from": "a58f17b5-19b7-44a4-a54f-106fcb19448c",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 29,
+   "nama": "USAHA KELILING (YOVITA TANTI)",
+   "from": "fe8ab7f7-2f6f-4747-ada0-884c8695d98c",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 30,
+   "nama": "PERDAGANGAN KELILING (REGINA JAWA MANUK)",
+   "from": "1ab2badc-8b50-404b-853e-e7b2ef389c8e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 31,
+   "nama": "UD JUAL PISANG (YAYA)",
+   "from": "b9b4d04c-d8be-4e0d-bd06-d68a04dff133",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 32,
+   "nama": "JUALAN BUAH ( MARIA PENI TUKAN)",
+   "from": "a62e38c0-1e13-4eb6-853c-b037f396a731",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 34,
+   "nama": "JUAL ARAK ( NIKOLAUS NAGA NOTAN)",
+   "from": "90b7f49b-bc68-4edf-8c29-3fdf21ebcde2",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 35,
+   "nama": "GALON ISI ULANG FATIH (SUMARSONO ADIL)",
+   "from": "79667ff5-9109-443b-abb9-76089413ffca",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 36,
+   "nama": "JUAL AIR (YOSEP TUE)",
+   "from": "a4fc3ed7-4939-4a02-a507-5b912b2fc96c",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 37,
+   "nama": "JUALAN KUE(MARTINA)",
+   "from": "a2c3c646-0cb9-40f7-ba29-ec52482e556e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 38,
+   "nama": "USAHA ROTI BAKAR",
+   "from": "49d7586b-a925-4d0d-b0e0-d0c6013e46b3",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 40,
+   "nama": "USAHA JUALAN GARAM (MARIAMA)",
+   "from": "90a1f53c-65a0-4566-a957-122aebff3308",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 41,
+   "nama": "JASA PERDAGANGAN BENSIN ECERAN(SARIMA MASUD)",
+   "from": "e235d7a9-cb9f-4ac4-8a7b-b07d6f92538b",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 42,
+   "nama": "KUD MINA GONSALU RAYA",
+   "from": "144ed904-d0bf-4477-b284-c92cc8afe676",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 43,
+   "nama": "JUAL BENSIN (MANSUR BAHRUDIN)",
+   "from": "8caa52a3-7d04-49a9-9947-afb518886978",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 44,
+   "nama": "USAHA PERDAGANGAN (MENSI KEBAN)",
+   "from": "bd7ffe31-3900-4c35-b87f-ee76b3436a15",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 46,
+   "nama": "PEDAGANG MINYAK ECERAN SNURI LEWAR",
+   "from": "042f84a9-9588-4867-b8dd-a2e5fefcaca1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 47,
+   "nama": "JUAL BENSIN ECERAN",
+   "from": "c7c36ece-b8d0-4c49-91aa-db05b8ce7d9b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 48,
+   "nama": "JUAL KAIN ( KRISTINA PENATEN BEDA )",
+   "from": "c3b5f6af-1910-4ba8-b7de-afb16c8ce7e2",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 49,
+   "nama": "PEMASOK MATERIAL (KHAIRUL ABIDIN)",
+   "from": "9ce56cb9-f347-4bfa-a5f0-cfece604421f",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 50,
+   "nama": "KIOS PAKAIAN 1 (RIZAL)",
+   "from": "e56bccfc-852f-4d12-8c93-34d4005cee89",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 51,
+   "nama": "KIOS PAKAIAN ASSIFA (FATCHUL MUNIF)",
+   "from": "fc193fcf-736d-421f-ac1a-cfd60653a3e8",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 52,
+   "nama": "KIOS PAKAIAN & PARFUM (RIZKA)",
+   "from": "a151b224-a1b1-47f0-9e57-db0216935331",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 53,
+   "nama": "USAHA JUAL PAKAIAN",
+   "from": "32b7419a-ac1e-4ba6-8894-51ac0548fe11",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 56,
+   "nama": "PERDAGANGAN KOSMETIK ONLINE",
+   "from": "e80dc8bd-b04b-4380-b1d7-8cf864cd1bbf",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 57,
+   "nama": "KIOS KOSMETIK (EDUARDUS LOE MAU)",
+   "from": "1490d807-1057-49b6-b0f1-8df173f4d29e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 58,
+   "nama": "KIOS NUR AQILA EMAS (RISNAWATI)",
+   "from": "4941802e-2a1f-4976-9fbf-a24e8d96ea65",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 59,
+   "nama": "MINYAK TANAH ( FRANSISKA P TUKAN )",
+   "from": "11f16704-8f32-4edc-be15-ad82815dd24b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 61,
+   "nama": "PANGKALAN MINYAK TANAH",
+   "from": "505b3ff7-222d-4f6d-858b-1ad365fc6c01",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 62,
+   "nama": "PANGKALAN MINYAK TANAH (MARIANUS BALA HAYON)",
+   "from": "b440cd26-bda6-4fbf-9d65-f310158c3de9",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 63,
+   "nama": "Pangkalan minyak tanah (Rafael)",
+   "from": "d26e379b-c2fb-437d-8121-19cf9cf32810",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 64,
+   "nama": "PANGKALAN MINYAK TANAH (KORNELIS DONI TAKA)",
+   "from": "b2019225-14c6-4b89-af2a-599706e762ad",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 66,
+   "nama": "PMTBANGJAI (YEREMIAS LAMA EWAK)",
+   "from": "7208c78f-f11a-4a5a-97d8-e32331bdc6ec",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 67,
+   "nama": "USAHA JUALAN LONTAR DAN TEMBAKO <FRANSISKA TUTO>",
+   "from": "a5c1b66c-0444-4522-a8d1-30ca802b4ab4",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 68,
+   "nama": "USAHA PENIMBANG <RAHMAN HASYIM>",
+   "from": "8600e8e7-2374-4b09-a509-682a2d00a5cf",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 70,
+   "nama": "JUALAN SAYUR (SAIDAH KARIM)",
+   "from": "c3a6e686-11f0-4e3f-8f36-2e5f33967832",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 72,
+   "nama": "USAHA KIOS <KATARINA KEWA DATENG>",
+   "from": "3338e1ee-c3ba-4d5e-bf10-7dc33403e2aa",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 73,
+   "nama": "KIOS KELONTONG<YUSTINA SURAT>",
+   "from": "23acbd59-2054-41fc-bb22-554e8c1449c3",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 74,
+   "nama": "KIOS SEMBAKO (NURSIA BONDA)",
+   "from": "5ab56717-d068-4487-90ca-dd5b2ba3e8be",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 75,
+   "nama": "KIOS °MARIA NINI KELEN°",
+   "from": "1c66c7ae-8287-4b6d-9033-fa45636e2c8b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 76,
+   "nama": "KIOS SEMBAKO - MARIA LUJI FERNANDEZ",
+   "from": "2c841149-140a-409f-9f5a-d89bf6c35a25",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 78,
+   "nama": "KIOS ARDI KOLIN<YUSTINA ALFIN SOGEN>",
+   "from": "6c53fe3d-0696-48c6-90b3-e6107495fb45",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 79,
+   "nama": "PEDANG ENCERAN SEMBAKO",
+   "from": "9c612a13-c54d-4e15-a435-26c166019742",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 80,
+   "nama": "KIOS SEMBAKO (KALIMAN)",
+   "from": "852bb234-4ba3-42d5-993c-ef56ae314926",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 81,
+   "nama": "KIOS AL-AMIN (IBRAHIM JOU)",
+   "from": "e841452a-97a1-427c-8a2f-d2d4684ab21c",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 82,
+   "nama": "KIOS BERKAT JAYA",
+   "from": "c6ab2af4-2cc2-411d-b482-2a26815bcc03",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 83,
+   "nama": "KIOS MASTURA <MASTURA ADOK>",
+   "from": "1c557ee7-2091-4773-a887-f385d5b262b7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 84,
+   "nama": "KIOS ASRIL<KRISTINA HODEAPAN MELUR>",
+   "from": "dc36513d-4410-4cb1-8ab7-85fc411fb855",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 85,
+   "nama": "KIOS JUNIOR (MUHAMMAD TAHER)",
+   "from": "e4e2a123-c3da-485c-a0d2-b951f31c4f49",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 86,
+   "nama": "KIOS SEMBAKO ECERAN (KAMRULLAH BOLENG)",
+   "from": "d8a2e9a8-4219-4223-9486-a508816e233a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 87,
+   "nama": "KIOS SEMBAKO ECERAN HAJON ANTONIUS",
+   "from": "e8b59520-936a-431c-8df8-d1b0f8da32c4",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 88,
+   "nama": "KIOS LEWIS SARTO",
+   "from": "1632e1e6-4161-4cac-b2e6-f1565a185f19",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 90,
+   "nama": "KIOS LAURENSIUS LUSI DARANG",
+   "from": "3fdd1982-2661-49a5-a4be-09b2b1953838",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 91,
+   "nama": "KIOS SEMBAKO ( MASTURA IDRIS)",
+   "from": "4c35a086-99a7-4e01-b561-11dde9705cb1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 92,
+   "nama": "Kios sembako( Idris maleng)",
+   "from": "9c6c93d3-3d60-4f2b-bbf9-69d43eb494c4",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 93,
+   "nama": "KIOS (SYARIFAH COREBIMA)",
+   "from": "c5283f7f-1f73-4043-b593-51284c47abbe",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 94,
+   "nama": "KIOS DAN GERAI SEPATU MERCUSUAR",
+   "from": "9b3f56d0-8c23-4643-90cd-62b24ef27996",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 95,
+   "nama": "KIOS SEMBAKO KRISHANTY",
+   "from": "db817f6f-fed2-47b5-986b-7153f75658bf",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 96,
+   "nama": "JASA PERDAGANGAN ECERAN(THERESIA SOLOT NAMA)",
+   "from": "0394e74b-7be6-4236-927f-9c07083f3217",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 97,
+   "nama": "KIOS MAMA MONI",
+   "from": "4b1f233e-5ffc-45b9-a9a1-741beef1149b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 98,
+   "nama": "KIOS (MAGDALENA)",
+   "from": "8a5676e7-2036-4567-9b22-4f33b79df776",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 99,
+   "nama": "KIOS ECERAN MAKANAN DAN MINUMAN (SITTI RUBIAH)",
+   "from": "89455ed7-b5df-45ff-81ab-cd9019473326",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 100,
+   "nama": "BUMBU DAPUR REMPAH (SITI SARAH MUHAMMAD)",
+   "from": "9cfb3d0a-7ab4-4aae-88e9-21e19c6f29bb",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 102,
+   "nama": "KIOS UD.ASS (AFLIANI PATI)",
+   "from": "1b30f47e-e1c8-4cee-b273-8c08b4819d48",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 103,
+   "nama": "PERDAGANGAN",
+   "from": "15218b8f-17f6-42ce-967b-21c29ef48b7d",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 106,
+   "nama": "USAHA KIOS (AGNES KEWA MANUK )",
+   "from": "797a5328-ddd9-4329-870c-290f444460e9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 108,
+   "nama": "USAHA KIOS SEMBAKO( HAWIA)",
+   "from": "67117330-c489-497c-8ea3-7634f46c7050",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 110,
+   "nama": "KIOS °FRANSISKA YOSEFINA BITA°",
+   "from": "cc677b13-2841-4f73-8d32-c736af82bd75",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 111,
+   "nama": "MENJUAL BUMBU REMPAH ECERAN (MARIA MIKAELA)",
+   "from": "6db9452f-e710-40dd-8bee-b3b255fa4081",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 112,
+   "nama": "PEDAGANG PISANG <MARIA TUTO SEKO>",
+   "from": "790df53c-a18d-4d62-9690-dc281b16b57b",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 113,
+   "nama": "USAHA PERDAGANGAN( URSULA ABON)",
+   "from": "bb557492-104c-44f6-843e-aff0d2730f35",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 114,
+   "nama": "USAHA PENGEPUL BARANG HASIL",
+   "from": "4fd2a5e3-f5f9-468f-b840-29958a6a6304",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 115,
+   "nama": "USAHA PERDAGANGAN (THERESIA TULIN LAMEN)",
+   "from": "53d5b6b9-621b-4255-bcd7-88fab952bfdc",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 116,
+   "nama": "SELERA ARAK BESIRA",
+   "from": "f5cd0e33-5a8d-4e51-88fd-6e1c2c6bdef9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 119,
+   "nama": "USAHA JUAL TEMBAKAU FRANSISKA TUTO MASAN",
+   "from": "745bd94b-2ed5-44bb-a585-303d1d6dca54",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 40) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 120,
+   "nama": "JUALAN KUE MOLENG",
+   "from": "43f02e2d-b599-480e-96df-ff62e4e16a5e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 121,
+   "nama": "PENJUAL KUE BASAH DAN KERING (HENDRIKA)",
+   "from": "f452c000-f322-4f2e-bd4e-e652cd93103f",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 122,
+   "nama": "USAHA KIOS SEMBAKO (DANIEL TAIN TUKAN)",
+   "from": "3afdb7e2-8982-4058-af1b-34998e9d4f16",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 127,
+   "nama": "JASA MEBEL (BARTHO LEWAR)",
+   "from": "a8c581f9-261b-4374-9493-89ae6bf7a012",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 129,
+   "nama": "JUALAN MAINAN (MASWAHDIYAH)",
+   "from": "39921e53-e47b-43ff-9b95-b0a0008f2d04",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 130,
+   "nama": "JUALAN PAKAIAN (SUMANTI BETHAN)",
+   "from": "f58c43e7-21b9-4525-8640-a9b6665e1560",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 131,
+   "nama": "SAERA URAN",
+   "from": "3469d625-d8fd-42bf-ac22-5fe72dd20847",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 132,
+   "nama": "JUAL PAKAIAN (KISMAN)",
+   "from": "952342cf-a532-4d92-9f81-6ac6d2288d24",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 133,
+   "nama": "KIOS SENDAL SEPATU (LUKMAN)",
+   "from": "14c73987-f96f-48c6-817a-c97a82d74ab8",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 134,
+   "nama": "PANGKALAN MINYAK TANAH",
+   "from": "e55e88f2-7be7-4571-b39d-882ec00f3de8",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 135,
+   "nama": "PANGKALAN MINYAK TANAH (MARIA KIDI SABON)",
+   "from": "bb47f9f3-8c38-4567-90e3-ba672e92a6b6",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 136,
+   "nama": "PANGKALAN MINYAK TANA (TASLIM SYAMSUDIN)",
+   "from": "7c421fa9-3acf-4f76-a9d7-ebfa717e69c0",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 137,
+   "nama": "USAHA MINYAK MURNI( HELENA)",
+   "from": "3a0bedee-d393-45aa-88a1-2397a884d56c",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 138,
+   "nama": "LEIKA PARFUM (EDWIN ALI)",
+   "from": "5e997936-f185-46df-b43f-29aeddc33514",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 140,
+   "nama": "UD HASIL PERKEBUNAN ( SILVESTER NASIP )",
+   "from": "99777333-e7b4-457c-a81f-d5bc4b873f84",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 141,
+   "nama": "USAHA PENGEPUL HASIL PERTANIAN PERKEBUNAN(MIKAEL DARE LOSOR)",
+   "from": "f0d78ee6-0a6c-4b3d-8074-6fe3860f0066",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 144,
+   "nama": "KIOS (MARIA TUTO OLA)",
+   "from": "e6bc22a2-ae70-406a-9938-d713b598817d",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 145,
+   "nama": "KIOS (MONIKA PENI MASAN)",
+   "from": "4485e691-ef32-4be3-be08-3094d892946d",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 146,
+   "nama": "KIOS SEMBAKO DUA PUTRA (NURASIAH)",
+   "from": "120f458c-61b4-4f31-9c2e-1f1e444b6302",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 147,
+   "nama": "USAHA KIOS SEMBAKO (KATARINA PENI WUJON)",
+   "from": "147d2d50-d706-4e6c-a7a8-4fec51568715",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 149,
+   "nama": "KIOS SEMBAKO (DAHLIA ALI)",
+   "from": "905cfed2-b769-40cb-9450-500e08feca56",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 150,
+   "nama": "USAHA KIOS",
+   "from": "d123e948-3235-46b1-b021-28518d1321e3",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 152,
+   "nama": "KIOS OSE BALE (OSE BALE)",
+   "from": "dd38301a-428e-4c43-97b1-920efbd23b01",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 153,
+   "nama": "KIOS SEMBAKO (LASARUS GULA OPUN HULER)",
+   "from": "04e8469a-7281-4143-883f-460bc88a93a3",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 154,
+   "nama": "JUAL GARAM LOKAL (JOHOR)",
+   "from": "06964471-82b9-4abb-b4c1-1c15e2094a3c",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 155,
+   "nama": "KIOS WATO EKOT",
+   "from": "4c01fdb4-f383-4f1d-8fef-c66a85abe708",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 156,
+   "nama": "USAHA KIOS ( YANTO B. ARNOLDUSAMO )",
+   "from": "209e3a00-77d7-4b07-b64f-e6c67c49d5d9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 158,
+   "nama": "KIOS SEMBAKO (LUSIA SOMI MARAN)",
+   "from": "a6ca222c-2e2b-4995-ada0-5926408a3092",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 159,
+   "nama": "USAHA KIOS (ELISABETH JAWA ARAN)",
+   "from": "66f262b3-aa67-4664-96f8-d12b8a4c1bd7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 160,
+   "nama": "USAHA KIOS",
+   "from": "812c68f2-9ad6-4758-be00-9d1a0f8274a5",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 161,
+   "nama": "KIOS <EMILIA ERO>",
+   "from": "d7cb1b32-525e-4d5a-a0fb-ab03fc775dba",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 162,
+   "nama": "KIOS SEMBAKO (SESILIA KENEKA MULI)",
+   "from": "b24c043c-10a8-48e3-a388-1f33a96a32e0",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 163,
+   "nama": "USAHA KIOS SEMBAKO NASRIL ( NURUL HIDAYAH ABDULLAH )",
+   "from": "e97bc598-5f0a-4aaf-a90f-e4eee5f61374",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 164,
+   "nama": "KIOS (NONA RIDWAN)",
+   "from": "f23ab874-37cf-4a24-8463-f3da94e3df61",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 165,
+   "nama": "KIOS ( MM THERESIA WAIN)",
+   "from": "1a0dc985-b7de-417a-bf77-cd076ed6b685",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 166,
+   "nama": "KIOS (BENEDIKTA JARI)",
+   "from": "01492feb-db47-4bad-a0b4-cefce2122b2b",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 168,
+   "nama": "WARUNG SEMBAKO REGINA",
+   "from": "69f19224-61fe-44a4-b9af-01a00b77ee04",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 169,
+   "nama": "UTP KIOS SEMBAKO (KATARINA SURAT WURIN)",
+   "from": "9236f300-3d4c-44a9-b037-2e86b494a7c1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 171,
+   "nama": "TOKO CEMERLANG",
+   "from": "f8eabee4-727c-4feb-929e-a0dc49c59b15",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 173,
+   "nama": "PERDAGANGAN SEMBAKO (LUSIA UTO KAPITAN)",
+   "from": "f991f533-473f-4e60-aa1a-982e564e5d02",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 174,
+   "nama": "JUAL MAKANAN DAN MINUMAN RINGAN (JAINAB AHMAB)",
+   "from": "28808619-a2b1-4124-9faf-4b2ae4106d20",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 175,
+   "nama": "KIOS SEMBAKO SAYID ALI",
+   "from": "34816d1e-676a-421e-8940-14967184a5ca",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 176,
+   "nama": "USAHA KIOS SEMBAKO ( RAHMI ALWAN )",
+   "from": "2184c3f5-7d63-4728-a0d2-abb98dcf264e",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 177,
+   "nama": "KIOS <MARIA FLORIDA NINI LAOT>",
+   "from": "67e4c373-4add-412b-a640-8fb49fd35513",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 40) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 178,
+   "nama": "USAHA SEMBAKO",
+   "from": "9126d1b1-9515-4f81-84ce-9fb8b2e1fbd7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 179,
+   "nama": "USAHA HOLTIKULTURA(PENATEN KELON MARIA)",
+   "from": "723a29fb-b326-40e3-98d4-b8a924b28eb1",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 180,
+   "nama": "USAHA KELILING (KRISTINA RIKA)",
+   "from": "db8813f6-ed6d-46f0-8a1f-83df768d62c3",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 181,
+   "nama": "KIOS(MASYITA KURNIAWAN)",
+   "from": "81f24160-c681-4b3a-9fbe-65f2eb7c0b32",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 183,
+   "nama": "USAHA KIOS SEMBAKO (MARIA STEFANIA MARAN)",
+   "from": "716d8c96-d888-484f-90d0-0b573c33eb84",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 184,
+   "nama": "WARUNG KOPI (BULU)",
+   "from": "fc0075cf-e366-442c-9bcf-3f677dd08781",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 185,
+   "nama": "USAHA JUAL BENSIN (KURNIYATI YAHYA)",
+   "from": "c6e6ed72-ff62-4497-a420-9b09dfc98c55",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 187,
+   "nama": "POM MINI DAN KIOS (YONAS DAKROWE)",
+   "from": "4b03ef1e-ec54-4acf-8552-cb17347f255f",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 188,
+   "nama": "JUAL BENSIN ECERAN (DIDI DEROSARI)",
+   "from": "745922af-4c1f-45e7-a2fb-91d61f559ee1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 189,
+   "nama": "JUAL SOLAR (RAMADHAN BUNGA)",
+   "from": "82deba89-00b0-45ce-b2a5-0368ab4fb2c0",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 190,
+   "nama": "USAHA PERDAGANGAN( UMAR RAYA DAEN)",
+   "from": "98082252-895f-44ad-b03b-cf1371e6f262",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 192,
+   "nama": "PENJUAL KASUR (SANIA)",
+   "from": "01d3dc9c-6153-494f-88a5-4b38de6f4ff0",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 193,
+   "nama": "USAHA JUAL BATU (LUKMAN)",
+   "from": "66670cfd-d66c-4763-a612-13fea5df009e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 194,
+   "nama": "USAHA JUAL KAYU KELAS 2",
+   "from": "c65104e1-4e03-4505-9838-4853e9917f74",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 195,
+   "nama": "PENJUALAN PERABOTAN PENERANGAN (DEWIYATI WUJON)",
+   "from": "c54da39b-4a06-44a7-9a09-56b7e8154f1f",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 197,
+   "nama": "PERABOTAN RUMAH (RIANTI)",
+   "from": "752a3020-5e04-4d42-9f36-a78157e3ba1e",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 199,
+   "nama": "DAGANG PAKAIAN ( ABDURAHMAN SENGAJI )",
+   "from": "ef7072ca-e5c2-4d45-8a65-bf659d44be74",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 200,
+   "nama": "KIOS PAKAIAN (NONA)",
+   "from": "47013344-6852-4f23-a654-0664b83e8ddb",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 202,
+   "nama": "JUALAN PAKAIAN SITI ROHANIA",
+   "from": "99b4885b-68c7-4a12-9f6b-fda214a212cc",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 203,
+   "nama": "CITRA ABADI",
+   "from": "c6b1bd59-6f67-40aa-b26b-46401e4cae0a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 204,
+   "nama": "KIOS VERONIKA L.BEOANG",
+   "from": "0a787213-1e6e-41a5-912c-496dbb26c9df",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 205,
+   "nama": "Pangkalan Minyak Tanah (Ramadhan Bunga)",
+   "from": "82deba89-00b0-45ce-b2a5-0368ab4fb2c0",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 206,
+   "nama": "PANGKALAN MINYAK TANAH AGUSTINUS KLEDEN",
+   "from": "c4eb031c-87a6-4a11-80f0-cced109640f9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 207,
+   "nama": "PANGKALAN MINYAK TANAH (KRISTINA MURIN)",
+   "from": "9ee7b7a7-6898-4582-be9b-9d3979763f97",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 208,
+   "nama": "PENJUAL BAJU ONLINE MARLIA",
+   "from": "34523e79-5630-44ae-96dd-9ff8c455714a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 209,
+   "nama": "JUALAN ONLINE ROSANTI",
+   "from": "78903638-009c-4599-bad4-fb8d63038875",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 211,
+   "nama": "PENIMBANG(DIDIMUS KOPONG MITEN)",
+   "from": "5669419d-99fb-49a8-9073-0b8346f7ce1c",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 212,
+   "nama": "TIMBANG HASIL BUMI (YOHANES BALO BUKAN)",
+   "from": "52a9e86e-2980-43dd-bfae-5ac35ea37e7d",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 213,
+   "nama": "DUMP TRUCK PASIR (SERVASIUS SERE KEDANG)",
+   "from": "fe09a520-8164-4c33-979a-264a8aece2a6",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 214,
+   "nama": "GUDANG SEMEN",
+   "from": "a78d0e66-c2c1-447e-80bf-f0052fc4ff98",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 217,
+   "nama": "KIOS EMANUEL (THERESIA KEWA)",
+   "from": "0ce8abdf-776c-4d49-a370-50d50ab3953f",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 218,
+   "nama": "KIOS EDITA AVELINA",
+   "from": "75c247a7-12b5-4046-a1f9-cd33bc997293",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 219,
+   "nama": "KIOS SEMBAKO (FATIMAH ASAR) oo",
+   "from": "8cbe5ba1-b1ab-4c7d-a4df-30a676362e7a",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 220,
+   "nama": "KIOS FOJA",
+   "from": "ed0501f6-4757-4448-8090-43c1c0166df7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 221,
+   "nama": "USAHA NASI KUNING (MARIA KOMO)",
+   "from": "ddb8dc7c-32c6-4f76-8dd8-0a8267ef1d2d",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 222,
+   "nama": "KIOS (DANIEL SUBAN)",
+   "from": "d09f31df-6891-4c76-9350-1988ded32f89",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 223,
+   "nama": "SUWADI JUALAN BUMBU DAPUR INSTANT",
+   "from": "236cda10-03e6-43f2-b638-ced85fb425d1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 225,
+   "nama": "KIOS (SALMIAH ABDULAH COREBIMA)",
+   "from": "4dc0985a-1c19-4cd1-bd9a-cb08945821a7",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 226,
+   "nama": "KIOS KLEMENS DEMON",
+   "from": "1ee6c250-64d4-42c0-8f0a-6da178693efa",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 227,
+   "nama": "KIOS MA IMA",
+   "from": "794026dc-b0e5-4164-9a8b-ae2886472bdd",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 228,
+   "nama": "KIOS(AGNES BOLENG)",
+   "from": "7bd96eaa-68df-41e5-a2b5-29aa686e4089",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 229,
+   "nama": "KIOS (AGUSTINA WALENG HURIT)",
+   "from": "a42699fc-d662-492b-957f-4c4f3997d154",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 230,
+   "nama": "JUAL SEMBAKO KELILING (RAHMAT HARIS)",
+   "from": "ae63a6e9-0845-476b-9ca0-907e30e8f74a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 233,
+   "nama": "USAHA JUALAN ES",
+   "from": "c89a179d-3b3f-49bd-a1f4-d20262196950",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 234,
+   "nama": "KIOS LESTARI SARTENG(ERNESTA KATANA)",
+   "from": "c03048f9-47ea-4518-a20b-20bac6ecca69",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 235,
+   "nama": "KIOS (YUSTINA RELU DULI)",
+   "from": "e532a517-a876-49e6-9627-9614e60bf6ed",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 238,
+   "nama": "LIKRI KLEDEN KIOS (IBRAHIM KOPONG BOLI)",
+   "from": "00c3a62f-cf6d-44b0-811b-a06334cf665d",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 239,
+   "nama": "UTP KIOS SEMBAKO (THERESIA TERE DAHE)",
+   "from": "23c0fd6c-baec-402b-a699-9df1eb4144ee",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 240,
+   "nama": "USAHA KIOS <DEMENTRIUS DONI BOLEN>",
+   "from": "5cdf107e-9101-4447-b07a-fd80a8632819",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 242,
+   "nama": "USAHA KIOS (ENDANG BUGIS)",
+   "from": "bf9cace1-4bc5-4a72-aa03-afcf8dc9bbb1",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 243,
+   "nama": "KIOS ECERAN HAFSAH",
+   "from": "a8751130-6674-45dc-9700-c0dc4f0f975a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 244,
+   "nama": "KIOS PUTERA MANDIRI",
+   "from": "a01d8180-9629-426f-ae41-29e5ca70144d",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 247,
+   "nama": "KIOS SEMBAKO(EMERENSIA J.LEYN)",
+   "from": "cf10fca4-1075-4fdd-8893-fc4157406742",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 248,
+   "nama": "KIOS REALIN (ASTRY FERNANDEZ AIKOLI)",
+   "from": "e97c62ab-dca9-4ec2-99d7-c85dfdd11bf5",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 249,
+   "nama": "KIOS (MARNI)",
+   "from": "1a23961c-95ab-4d0d-bbc5-c63794daf67e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 250,
+   "nama": "KIOS DUA BERSAUDARA MARSELINUS<TERAAMA HERIN>",
+   "from": "343f86d6-32dd-4c64-bb88-4c7f60d233b6",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 252,
+   "nama": "KIOS BRYDHINNA (MARLINA MASI KOPON)",
+   "from": "c9c36d28-f31d-44a2-9aa6-e0d6ca19e666",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 253,
+   "nama": "KIOS FAIZ (SITI HASAN)",
+   "from": "cba676ec-5cfd-4644-88bf-62bf3c776cf9",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 254,
+   "nama": "UTP KIOS SEMBAKO (MARIA BENGA BORO)",
+   "from": "f6003171-c6c1-49ed-9522-a49dc98c5d54",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 255,
+   "nama": "KIOS SABAR (SAMSIA)",
+   "from": "fc27d4f3-85ea-4f62-a34f-ea54767f9794",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 258,
+   "nama": "PENJUAL ROKOK KELILING (BAHRUDIN DAHLAN)",
+   "from": "ca31d394-b126-4015-8eed-6075004aaae8",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 259,
+   "nama": "USAHA KUE ANI DASANTO",
+   "from": "ae7419cb-8d22-41f1-896c-c0119d222a37",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 260,
+   "nama": "PERDANGANGAN ECERAN KUE < JULIANA PRADA MASAN>",
+   "from": "a7fad7fa-3db0-41da-aa4d-82cb2407925a",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 262,
+   "nama": "GULA TUAK",
+   "from": "b0eae117-1bb7-4a31-843c-025af490f342",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 263,
+   "nama": "USAHA BENSIN ECERAN FENDY DEORNAY",
+   "from": "5f39a54c-415d-46fb-8970-2649d38dae6f",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 264,
+   "nama": "KIOS ADITYA FILOMENA ARAN",
+   "from": "25d044bb-d790-46b6-99cd-1484eeaa819c",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 265,
+   "nama": "USAHA JUAL BENSIN (LUSIA)",
+   "from": "34499b5d-9fec-4bf1-ad3f-0856a1dd5912",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 266,
+   "nama": "JUALAN BBM ECERAN",
+   "from": "3d4773b7-7e90-4409-996a-d9783655b9f5",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 267,
+   "nama": "USAHA JUAL BENSIN<DEMENTRIUS DONI BOLEN>",
+   "from": "5cdf107e-9101-4447-b07a-fd80a8632819",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 269,
+   "nama": "USAHA PARANG ( TOMAS UMAR)",
+   "from": "80f0adf1-fd72-489c-92d8-45b8fa001a90",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 30) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 270,
+   "nama": "USAHA JUAL ALAT MANCING (MARIA GORAN)",
+   "from": "9aef6c6c-c0f0-4d95-b3f3-28606de56cbe",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 271,
+   "nama": "JUAL MAINAN (MUSTAIN)",
+   "from": "eb654618-1004-4042-b2f2-d5e3953f2e58",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 272,
+   "nama": "KIOS MAINAN (SUL HIDAYAH)",
+   "from": "70e368c2-28a4-4ef3-9ad0-849e5bf4e02b",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 273,
+   "nama": "SENGAJI SPORT LOHAYONG (FADHILAH SYAHRULFITRAH)",
+   "from": "2d7d93ba-c94d-479b-bfd8-aa56f07bbc08",
+   "kind": "excel",
+   "reason": "kandidat mirip rendah (skor 35) — bisa salah rumah, cek manual"
+  },
+  {
+   "rowNo": 274,
+   "nama": "KIOS SENDAL SEPATU (BASO MARZUKI)",
+   "from": "9ed7efb3-6a41-4b7c-b9c9-b6f3481f478e",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 275,
+   "nama": "PENJUAL SENDAL NURYANTI MUAHAMAD",
+   "from": "df8f8644-42d2-4e82-875e-98ed9610746a",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  },
+  {
+   "rowNo": 4,
+   "nama": "USAHA KIOS (NURHANI ABONG)",
+   "from": "0c5a5069-af0d-4f49-88e9-62e371a31303",
+   "kind": "excel",
+   "reason": "tidak ada blok nama_usaha+biaya yang mirip di assignment rumah tangga ini"
+  }
+ ]
+}

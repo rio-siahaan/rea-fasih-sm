@@ -1,0 +1,146 @@
+[
+ {
+  "aid": "3d43fb81-3e45-436d-bc80-2a265784a31b",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "9"
+ },
+ {
+  "aid": "fce8f1ff-0f2d-4741-a0db-79ac5508518b",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "34"
+ },
+ {
+  "aid": "8e22b462-b45b-4d20-9749-2933c98274f5",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "49"
+ },
+ {
+  "aid": "72b17edd-c5fa-4ff1-b9bf-56ee0fb971c4",
+  "adaProd": true,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "50"
+ },
+ {
+  "aid": "6b755ed0-19d7-4dc7-a5c8-dc13a4d0402a",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "69"
+ },
+ {
+  "aid": "e5badf5b-ad24-4ac8-945b-9dd2a98277c1",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "187"
+ },
+ {
+  "aid": "746d4d3c-831f-44a3-b4fe-9c3b04d696ae",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "219"
+ },
+ {
+  "aid": "231bf05d-b6ce-4ca1-9de2-655dc364492e",
+  "adaProd": true,
+  "adaOp": false,
+  "ditulis": "jumlah-field=2",
+  "berisiko": true,
+  "baris": "234"
+ },
+ {
+  "aid": "d9170c21-6ff8-4d26-8f2d-fe5dab206954",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "375"
+ },
+ {
+  "aid": "a4f6ce9b-ff8f-48b3-9198-28650bf9ba3e",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "389"
+ },
+ {
+  "aid": "acdd1620-3057-4f58-b70c-5bca01638e92",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "390"
+ },
+ {
+  "aid": "5eed62fc-146e-4ab1-b3bc-519a628f5e19",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "401"
+ },
+ {
+  "aid": "2c476e9e-c78b-45f6-8972-11857a2e2339",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "453"
+ },
+ {
+  "aid": "c8f38ff3-490e-4fb9-b4e3-2f37535a14dd",
+  "adaProd": false,
+  "adaOp": true,
+  "ditulis": "jumlah-field=2",
+  "berisiko": true,
+  "baris": "487"
+ },
+ {
+  "aid": "9188c074-75d7-4284-a965-090a3164f877",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "504"
+ },
+ {
+  "aid": "498e8797-853c-4d21-b56e-3b186a8fd459",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "553"
+ },
+ {
+  "aid": "0b151fe3-201e-4e45-860f-a63c46c682a6",
+  "adaProd": true,
+  "adaOp": false,
+  "ditulis": "jumlah-field=2",
+  "berisiko": true,
+  "baris": "606"
+ },
+ {
+  "aid": "54906070-7584-4458-b906-5f4ea895aded",
+  "adaProd": false,
+  "adaOp": false,
+  "ditulis": "jumlah-field=1",
+  "berisiko": true,
+  "baris": "618"
+ }
+]

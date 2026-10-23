@@ -1,0 +1,2056 @@
+{
+ "at": "2026-10-19T12:13:39.819Z",
+ "excel": "C:\\Users\\User\\Downloads\\Rio_rumus2 (1).xlsx",
+ "stat": {
+  "total": 5,
+  "fetchOk": 5,
+  "fetchFail": 0,
+  "applyOk": 321,
+  "applyFail": 10,
+  "applyPos": "331/331"
+ },
+ "fase": "selesai",
+ "posisi": "321 OK / 10 gagal",
+ "rowMap": {
+  "4": {
+   "aid": "fcfec28d-ece2-4983-b59d-fbb091aaada4",
+   "state": "saat ini",
+   "info": "unmatched → cari assignment benar",
+   "at": "2026-10-19T11:56:47.472Z"
+  },
+  "5": {
+   "aid": "0d0e1e37-09ec-44b8-92ac-d6b94309d604",
+   "state": "saat ini",
+   "info": "1/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:12.322Z"
+  },
+  "6": {
+   "aid": "bd3871a1-6baf-44a2-936d-1c42dc599295",
+   "state": "saat ini",
+   "info": "unmatched → cari assignment benar",
+   "at": "2026-10-19T11:56:47.879Z"
+  },
+  "7": {
+   "aid": "0d446760-7bfa-4f06-8408-a0c634b62e11",
+   "state": "saat ini",
+   "info": "2/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:14.779Z"
+  },
+  "8": {
+   "aid": "2b823d1e-2def-4255-84ec-21ebc3f8d5be",
+   "state": "saat ini",
+   "info": "no-field → cari assignment benar",
+   "at": "2026-10-19T11:56:48.222Z"
+  },
+  "9": {
+   "aid": "3d43fb81-3e45-436d-bc80-2a265784a31b",
+   "state": "saat ini",
+   "info": "3/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:17.251Z"
+  },
+  "12": {
+   "aid": "30f48e9f-43ae-461f-9d7b-de9ce3322f98",
+   "state": "saat ini",
+   "info": "4/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:19.771Z"
+  },
+  "14": {
+   "aid": "5a8e6048-296a-4f72-abc8-9be4b36f7a18",
+   "state": "saat ini",
+   "info": "5/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:22.222Z"
+  },
+  "17": {
+   "aid": "7376ca5a-d950-437e-b680-b3949bfbc34e",
+   "state": "saat ini",
+   "info": "6/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:24.839Z"
+  },
+  "19": {
+   "aid": "76756c7f-acef-4a99-aeb0-a9f03475786e",
+   "state": "saat ini",
+   "info": "7/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:27.482Z"
+  },
+  "20": {
+   "aid": "4eab04c4-e1ca-43b2-acc6-147a9abade8e",
+   "state": "saat ini",
+   "info": "8/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:30.534Z"
+  },
+  "23": {
+   "aid": "929b7134-08f0-444a-862e-f43da2e00750",
+   "state": "saat ini",
+   "info": "9/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:33.311Z"
+  },
+  "24": {
+   "aid": "966624be-8ca0-4ec1-8ff6-e92f1917e482",
+   "state": "saat ini",
+   "info": "10/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:35.839Z"
+  },
+  "27": {
+   "aid": "c994ad5a-bb2d-4885-b688-cad0fdbfd640",
+   "state": "saat ini",
+   "info": "11/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:38.368Z"
+  },
+  "28": {
+   "aid": "beb8af99-9789-4559-b227-f0f973ff59ba",
+   "state": "saat ini",
+   "info": "12/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:40.911Z"
+  },
+  "29": {
+   "aid": "ad1eeec9-fef9-4e30-9f29-c1022c80e95f",
+   "state": "saat ini",
+   "info": "13/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:43.398Z"
+  },
+  "31": {
+   "aid": "df286393-65ff-4bf2-80bb-3ca177a959da",
+   "state": "saat ini",
+   "info": "14/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:46.022Z"
+  },
+  "34": {
+   "aid": "fce8f1ff-0f2d-4741-a0db-79ac5508518b",
+   "state": "saat ini",
+   "info": "15/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:48.567Z"
+  },
+  "35": {
+   "aid": "f255c443-84fd-4c58-9d39-c06a8cf8469e",
+   "state": "saat ini",
+   "info": "16/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:51.178Z"
+  },
+  "36": {
+   "aid": "ec88ae20-2df2-4873-83e6-5e16812de9b6",
+   "state": "saat ini",
+   "info": "17/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:53.787Z"
+  },
+  "40": {
+   "aid": "1e215243-5f26-4440-81c3-c5bbb8b51a06",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309040010000100 - DTSEN - 18 (1e215243-5f26-4440-81c3-c5bbb8b51a06)",
+   "at": "2026-10-19T11:59:56.144Z"
+  },
+  "41": {
+   "aid": "14dc0361-6c4c-445c-b14f-252b90731ac5",
+   "state": "saat ini",
+   "info": "19/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:58.728Z"
+  },
+  "45": {
+   "aid": "3a56cee7-0d1d-4a1c-8ba2-131810f1a13c",
+   "state": "saat ini",
+   "info": "20/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:01.701Z"
+  },
+  "46": {
+   "aid": "2d07025d-8495-4155-acb7-ff9e05595ed0",
+   "state": "saat ini",
+   "info": "21/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:04.787Z"
+  },
+  "47": {
+   "aid": "1f92d946-fb67-44de-8f1a-866ac1c8ece7",
+   "state": "saat ini",
+   "info": "22/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:08.324Z"
+  },
+  "48": {
+   "aid": "689dfa19-4e87-4925-8694-8e9e99eae571",
+   "state": "saat ini",
+   "info": "23/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:11.156Z"
+  },
+  "49": {
+   "aid": "8e22b462-b45b-4d20-9749-2933c98274f5",
+   "state": "saat ini",
+   "info": "24/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:14.028Z"
+  },
+  "50": {
+   "aid": "72b17edd-c5fa-4ff1-b9bf-56ee0fb971c4",
+   "state": "saat ini",
+   "info": "25/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:16.736Z"
+  },
+  "53": {
+   "aid": "809f0a66-8500-4403-bb22-4d6e7ee0fd0a",
+   "state": "saat ini",
+   "info": "26/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:19.487Z"
+  },
+  "55": {
+   "aid": "a2495d85-c713-4342-8900-d47d18f0855d",
+   "state": "saat ini",
+   "info": "27/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:22.008Z"
+  },
+  "59": {
+   "aid": "ca972384-0471-419c-a7d0-93b92f7ac671",
+   "state": "saat ini",
+   "info": "28/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:24.561Z"
+  },
+  "60": {
+   "aid": "fb36adff-e874-439f-81ca-2d99b74ffb7e",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309062002000500 - DTSEN - 28 (fb36adff-e874-439f-81ca-2d99b74ffb7e)",
+   "at": "2026-10-19T12:00:26.884Z"
+  },
+  "61": {
+   "aid": "fca138e6-3a05-462b-a3d8-cd798ec59205",
+   "state": "saat ini",
+   "info": "30/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:29.623Z"
+  },
+  "63": {
+   "aid": "113e9601-0bbd-49f6-bdec-25695ee825c9",
+   "state": "saat ini",
+   "info": "31/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:32.342Z"
+  },
+  "64": {
+   "aid": "2bf0c1b7-b681-425b-9de9-d9c317bff72e",
+   "state": "saat ini",
+   "info": "32/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:34.912Z"
+  },
+  "65": {
+   "aid": "2f1d8688-e436-4c45-beab-402abd224c0d",
+   "state": "saat ini",
+   "info": "33/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:37.603Z"
+  },
+  "66": {
+   "aid": "2f154c45-10bb-4454-9376-e37aad2f75c5",
+   "state": "saat ini",
+   "info": "34/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:40.445Z"
+  },
+  "69": {
+   "aid": "6b755ed0-19d7-4dc7-a5c8-dc13a4d0402a",
+   "state": "saat ini",
+   "info": "35/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:42.964Z"
+  },
+  "75": {
+   "aid": "cf575bcc-360a-411e-914a-5ea80528eed3",
+   "state": "saat ini",
+   "info": "36/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:45.518Z"
+  },
+  "76": {
+   "aid": "ddbf7df1-56ed-47b4-9fa8-f277785110ca",
+   "state": "saat ini",
+   "info": "37/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:48.338Z"
+  },
+  "77": {
+   "aid": "f4752e4d-25e5-44cc-b8b5-9f1c3fd14266",
+   "state": "saat ini",
+   "info": "38/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:55.209Z"
+  },
+  "79": {
+   "aid": "1b19782e-367d-453a-bffc-f886a9c145b6",
+   "state": "saat ini",
+   "info": "39/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:00:57.711Z"
+  },
+  "80": {
+   "aid": "72bdcc68-4b8a-4767-849f-c6518e738f83",
+   "state": "saat ini",
+   "info": "40/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:00.662Z"
+  },
+  "81": {
+   "aid": "57cf493e-2ff8-4890-b243-882ead409b79",
+   "state": "saat ini",
+   "info": "41/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:03.147Z"
+  },
+  "85": {
+   "aid": "8e26ea96-3839-41de-8cfd-5dafe2bc9e1e",
+   "state": "saat ini",
+   "info": "42/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:05.835Z"
+  },
+  "87": {
+   "aid": "c606ca75-d013-4ddb-a91b-7cfba1988684",
+   "state": "saat ini",
+   "info": "43/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:08.438Z"
+  },
+  "90": {
+   "aid": "f73827f2-1276-492c-a3c6-0a6c884b5577",
+   "state": "saat ini",
+   "info": "44/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:10.959Z"
+  },
+  "91": {
+   "aid": "f6ab6f2f-35c2-4bda-ad48-152498f7fb96",
+   "state": "saat ini",
+   "info": "45/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:13.406Z"
+  },
+  "92": {
+   "aid": "075dec40-8cb2-4d6c-835f-3dd8e6acb3dd",
+   "state": "saat ini",
+   "info": "46/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:16.191Z"
+  },
+  "93": {
+   "aid": "1475f61b-5609-453f-961e-c61bfd458923",
+   "state": "saat ini",
+   "info": "47/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:18.808Z"
+  },
+  "94": {
+   "aid": "3d6a943b-2264-429b-a929-58408df0f233",
+   "state": "saat ini",
+   "info": "48/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:21.379Z"
+  },
+  "99": {
+   "aid": "dd5e24fe-d346-4a8a-9a8f-d9339fde1bc1",
+   "state": "saat ini",
+   "info": "49/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:23.995Z"
+  },
+  "100": {
+   "aid": "684d5a7b-518f-4961-8c21-0b55201cc9bf",
+   "state": "saat ini",
+   "info": "50/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:26.610Z"
+  },
+  "102": {
+   "aid": "c07bd118-b963-4f86-973d-d3319f25a39f",
+   "state": "saat ini",
+   "info": "51/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:29.149Z"
+  },
+  "105": {
+   "aid": "e01b8c75-b5f8-4806-8918-5bb377a46f65",
+   "state": "saat ini",
+   "info": "52/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:31.795Z"
+  },
+  "107": {
+   "aid": "9cad9627-fd19-4be4-b586-1492052d1c89",
+   "state": "saat ini",
+   "info": "53/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:34.427Z"
+  },
+  "109": {
+   "aid": "08973709-d6eb-465b-a952-7191aa24d284",
+   "state": "saat ini",
+   "info": "54/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:37.296Z"
+  },
+  "110": {
+   "aid": "a075fcef-5f2b-40ad-9bee-9bf0cb45bad9",
+   "state": "saat ini",
+   "info": "55/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:39.747Z"
+  },
+  "112": {
+   "aid": "16ea7f69-d9ee-45d8-a20d-cf5abf56c500",
+   "state": "saat ini",
+   "info": "56/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:42.575Z"
+  },
+  "115": {
+   "aid": "7689d4ee-d001-4676-9b37-036a7e12afe7",
+   "state": "saat ini",
+   "info": "57/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:45.185Z"
+  },
+  "116": {
+   "aid": "3a4cd8a3-b425-47fa-9d95-874a1cec3f5b",
+   "state": "saat ini",
+   "info": "58/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:47.863Z"
+  },
+  "119": {
+   "aid": "4ddb96c5-4fbb-4e11-bbed-38a8525839de",
+   "state": "saat ini",
+   "info": "59/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:50.538Z"
+  },
+  "121": {
+   "aid": "c1c4daa3-e387-4d08-87c3-702822d6e0ce",
+   "state": "saat ini",
+   "info": "60/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:53.054Z"
+  },
+  "122": {
+   "aid": "e0ced040-56fd-4145-ad9b-82d81c65b920",
+   "state": "saat ini",
+   "info": "61/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:55.684Z"
+  },
+  "125": {
+   "aid": "333671d4-e47f-4a47-8c1c-4cd20a351165",
+   "state": "saat ini",
+   "info": "62/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:01:58.249Z"
+  },
+  "126": {
+   "aid": "6475451b-b72c-4b2a-9ac4-08cd2dbbdff6",
+   "state": "saat ini",
+   "info": "63/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:00.673Z"
+  },
+  "127": {
+   "aid": "14093cac-c8b9-440d-9051-44474dc1593b",
+   "state": "saat ini",
+   "info": "64/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:03.220Z"
+  },
+  "128": {
+   "aid": "b12e99da-1e54-4f9a-a65f-9d2c61cc5414",
+   "state": "saat ini",
+   "info": "65/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:05.858Z"
+  },
+  "135": {
+   "aid": "a233e5da-9c1c-4afa-a22b-36975f75bc98",
+   "state": "saat ini",
+   "info": "66/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:08.331Z"
+  },
+  "136": {
+   "aid": "3cbf36da-9c7d-4c29-9165-73a823e5bf55",
+   "state": "saat ini",
+   "info": "67/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:10.806Z"
+  },
+  "140": {
+   "aid": "d2e5c530-23d8-40d8-9c21-9146973d9d93",
+   "state": "saat ini",
+   "info": "68/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:13.379Z"
+  },
+  "141": {
+   "aid": "e2125971-ebbc-4062-92b4-63a159372c76",
+   "state": "saat ini",
+   "info": "69/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:15.926Z"
+  },
+  "142": {
+   "aid": "d7155960-cf2d-4379-bdb1-1318e01bd75a",
+   "state": "saat ini",
+   "info": "70/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:18.477Z"
+  },
+  "144": {
+   "aid": "4f3ee94b-12d4-4792-8b75-de1d8d9d909a",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309070058000300 - PETRUS SELI TUPEN / MARIA GEMA GALGANI KUFTALAN - 3 /  - 2 (4f3ee94b-12d4-4792-8b75-de1d8d9d909a)",
+   "at": "2026-10-19T12:02:20.809Z"
+  },
+  "146": {
+   "aid": "6a5fb65b-6e02-4ea3-a13d-bf52759264a2",
+   "state": "saat ini",
+   "info": "72/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:23.347Z"
+  },
+  "147": {
+   "aid": "b6cac233-9316-4494-bf5e-6ff15605b2cb",
+   "state": "saat ini",
+   "info": "73/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:25.793Z"
+  },
+  "148": {
+   "aid": "b12e99da-1e54-4f9a-a65f-9d2c61cc5414",
+   "state": "saat ini",
+   "info": "65/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:05.858Z"
+  },
+  "153": {
+   "aid": "738eced9-3be5-4da1-bba8-77ab63b3ae56",
+   "state": "saat ini",
+   "info": "74/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:28.345Z"
+  },
+  "155": {
+   "aid": "be80d359-7e5f-4213-beba-cd32fd467586",
+   "state": "saat ini",
+   "info": "75/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:31.038Z"
+  },
+  "156": {
+   "aid": "e74f4bc1-d6ca-4bcb-90e1-d2edc180fef8",
+   "state": "saat ini",
+   "info": "76/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:34.285Z"
+  },
+  "157": {
+   "aid": "652e4e02-d99b-4ef8-a37e-48a9bd39dae9",
+   "state": "saat ini",
+   "info": "77/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:38.975Z"
+  },
+  "158": {
+   "aid": "df286393-65ff-4bf2-80bb-3ca177a959da",
+   "state": "saat ini",
+   "info": "14/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T11:59:46.022Z"
+  },
+  "159": {
+   "aid": "3570a88d-3112-443e-875e-94a7ae23fb56",
+   "state": "saat ini",
+   "info": "78/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:45.834Z"
+  },
+  "161": {
+   "aid": "3abcede6-8bfb-4835-9f0e-97910e4b8204",
+   "state": "saat ini",
+   "info": "79/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:49.241Z"
+  },
+  "162": {
+   "aid": "67ce7dc6-cd43-4265-8808-c2aea656d354",
+   "state": "saat ini",
+   "info": "80/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:51.904Z"
+  },
+  "164": {
+   "aid": "41ee4c1a-9b06-4da2-8eaf-966ae274050a",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309073001001400 - DTSEN - 3 (41ee4c1a-9b06-4da2-8eaf-966ae274050a)",
+   "at": "2026-10-19T12:02:54.209Z"
+  },
+  "166": {
+   "aid": "8584bff4-f845-4ce4-b4ab-b23e989807b4",
+   "state": "saat ini",
+   "info": "82/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:57.245Z"
+  },
+  "168": {
+   "aid": "bda8f0db-9fa1-416c-8035-6d0cc9f647e5",
+   "state": "saat ini",
+   "info": "83/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:02:59.740Z"
+  },
+  "169": {
+   "aid": "c5465794-06f2-4cee-b692-ed06a0d51ee9",
+   "state": "saat ini",
+   "info": "84/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:02.295Z"
+  },
+  "171": {
+   "aid": "5ee44f11-8e37-436e-9d23-ca3d7ca94765",
+   "state": "saat ini",
+   "info": "85/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:04.899Z"
+  },
+  "174": {
+   "aid": "115f4193-1ea3-40ab-badb-ffed04ad6d5f",
+   "state": "saat ini",
+   "info": "86/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:07.353Z"
+  },
+  "182": {
+   "aid": "e798fa00-7052-430c-b263-db505873730a",
+   "state": "saat ini",
+   "info": "87/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:09.863Z"
+  },
+  "184": {
+   "aid": "08ddeff4-444d-4c0e-81ae-e317a275e8de",
+   "state": "saat ini",
+   "info": "88/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:12.444Z"
+  },
+  "185": {
+   "aid": "c2250335-1727-4ed7-a225-d600addfaea6",
+   "state": "saat ini",
+   "info": "89/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:14.952Z"
+  },
+  "187": {
+   "aid": "e5badf5b-ad24-4ac8-945b-9dd2a98277c1",
+   "state": "saat ini",
+   "info": "90/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:17.515Z"
+  },
+  "192": {
+   "aid": "2775c288-ba76-4cf7-b250-ebade5985376",
+   "state": "saat ini",
+   "info": "91/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:20.171Z"
+  },
+  "194": {
+   "aid": "326a3dfd-5235-4856-b0cc-e5db4c7a3e35",
+   "state": "saat ini",
+   "info": "92/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:22.746Z"
+  },
+  "198": {
+   "aid": "483df72d-8b1e-43d6-813e-9cc1a2e96bc4",
+   "state": "saat ini",
+   "info": "93/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:25.432Z"
+  },
+  "199": {
+   "aid": "65404a08-9a58-4346-b929-840b0e2c31a0",
+   "state": "saat ini",
+   "info": "94/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:27.915Z"
+  },
+  "201": {
+   "aid": "6cd5394a-70ed-4989-bfb2-533c56963ff5",
+   "state": "saat ini",
+   "info": "95/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:30.553Z"
+  },
+  "202": {
+   "aid": "ba9213af-e2f8-418c-b6e8-569c531195da",
+   "state": "saat ini",
+   "info": "96/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:33.249Z"
+  },
+  "204": {
+   "aid": "ce4abab3-672b-4da7-8670-07c0bda2493a",
+   "state": "saat ini",
+   "info": "97/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:36.054Z"
+  },
+  "206": {
+   "aid": "e1b6990e-a9e6-4c76-9bac-90885dd417f8",
+   "state": "saat ini",
+   "info": "98/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:38.659Z"
+  },
+  "207": {
+   "aid": "0ded5c3e-cd5c-4118-975a-ad1d1b4d5983",
+   "state": "saat ini",
+   "info": "99/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:41.123Z"
+  },
+  "209": {
+   "aid": "eec9e941-5d31-46d3-9b45-57e42f4eaa67",
+   "state": "saat ini",
+   "info": "100/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:43.721Z"
+  },
+  "211": {
+   "aid": "18ac07cb-5706-4c5b-994b-df0a0073fc08",
+   "state": "saat ini",
+   "info": "101/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:46.291Z"
+  },
+  "212": {
+   "aid": "18ac07cb-5706-4c5b-994b-df0a0073fc08",
+   "state": "saat ini",
+   "info": "101/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:46.291Z"
+  },
+  "213": {
+   "aid": "038c832c-e8ab-4e38-b8a8-176652b86bb5",
+   "state": "saat ini",
+   "info": "102/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:48.768Z"
+  },
+  "214": {
+   "aid": "11aa5ce9-9d24-4517-bd34-fd8305959ac0",
+   "state": "saat ini",
+   "info": "103/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:51.256Z"
+  },
+  "215": {
+   "aid": "375f5d59-db75-42c1-bb3d-f6fe7595b9bf",
+   "state": "saat ini",
+   "info": "104/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:53.705Z"
+  },
+  "216": {
+   "aid": "338245aa-76a4-4fd9-ad35-1be875b78290",
+   "state": "saat ini",
+   "info": "105/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:56.265Z"
+  },
+  "217": {
+   "aid": "467093b0-2b4f-4987-9250-aebb0d8fc13e",
+   "state": "saat ini",
+   "info": "106/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:03:58.803Z"
+  },
+  "219": {
+   "aid": "746d4d3c-831f-44a3-b4fe-9c3b04d696ae",
+   "state": "saat ini",
+   "info": "107/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:01.267Z"
+  },
+  "222": {
+   "aid": "66324960-1909-4be9-a878-c1487222e239",
+   "state": "saat ini",
+   "info": "108/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:03.829Z"
+  },
+  "223": {
+   "aid": "82c8e5de-35cb-4448-bcb2-a32f0d50bfae",
+   "state": "saat ini",
+   "info": "109/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:06.274Z"
+  },
+  "224": {
+   "aid": "b57f5279-d1eb-4088-838c-979213e5d04c",
+   "state": "saat ini",
+   "info": "110/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:08.758Z"
+  },
+  "226": {
+   "aid": "c0f06105-c947-45ca-b1d5-b4c444091903",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309011006000200 - DTSEN - 21 (c0f06105-c947-45ca-b1d5-b4c444091903)",
+   "at": "2026-10-19T12:04:11.060Z"
+  },
+  "227": {
+   "aid": "c315a7b5-a6f7-47ff-8eee-f4e08abef339",
+   "state": "saat ini",
+   "info": "112/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:13.615Z"
+  },
+  "228": {
+   "aid": "ea537d48-8bcd-4f9a-aafc-dddab629b790",
+   "state": "saat ini",
+   "info": "113/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:16.104Z"
+  },
+  "230": {
+   "aid": "1c4e4174-99f2-4308-8134-c06cb13879c6",
+   "state": "saat ini",
+   "info": "114/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:18.645Z"
+  },
+  "231": {
+   "aid": "19fed708-6204-41f9-b6f6-963fa0ea356f",
+   "state": "saat ini",
+   "info": "115/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:21.242Z"
+  },
+  "233": {
+   "aid": "0734c8f1-2a96-4eba-89b4-e933f861c699",
+   "state": "saat ini",
+   "info": "116/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:24.820Z"
+  },
+  "234": {
+   "aid": "231bf05d-b6ce-4ca1-9de2-655dc364492e",
+   "state": "saat ini",
+   "info": "117/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:27.281Z"
+  },
+  "235": {
+   "aid": "49258a06-f360-484b-a969-ec50d80b0d11",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309073010001000 - KIOS YUSRIL RATE IKEN - 25 /  - 1 - 86261 (49258a06-f360-484b-a969-ec50d80b0d11)",
+   "at": "2026-10-19T12:04:29.485Z"
+  },
+  "236": {
+   "aid": "5db68a66-828c-40ed-ac45-9656c85bf4dd",
+   "state": "saat ini",
+   "info": "119/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:32.100Z"
+  },
+  "239": {
+   "aid": "7b51c5cd-bd7f-4351-9316-4c02797df1f0",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309010004001500 - DTSEN - 3 (7b51c5cd-bd7f-4351-9316-4c02797df1f0)",
+   "at": "2026-10-19T12:04:34.437Z"
+  },
+  "242": {
+   "aid": "94fea1e2-3721-4459-a85d-b6b2c049bf81",
+   "state": "saat ini",
+   "info": "121/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:37.136Z"
+  },
+  "244": {
+   "aid": "bc7e8910-66ed-4b97-9b89-ad434eabb150",
+   "state": "saat ini",
+   "info": "122/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:39.735Z"
+  },
+  "245": {
+   "aid": "f78ec85c-a82b-4ec4-b319-33b642d8d7d4",
+   "state": "saat ini",
+   "info": "123/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:42.318Z"
+  },
+  "246": {
+   "aid": "f251d0c3-407a-4856-9534-daa89ffa70e1",
+   "state": "saat ini",
+   "info": "124/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:44.843Z"
+  },
+  "247": {
+   "aid": "bd6f4040-fadb-4a87-a7a0-35e7e8d226fa",
+   "state": "saat ini",
+   "info": "125/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:47.336Z"
+  },
+  "248": {
+   "aid": "a18b8029-de9d-4f01-ad41-7aa7fc06e812",
+   "state": "saat ini",
+   "info": "126/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:50.007Z"
+  },
+  "249": {
+   "aid": "df3ac28a-0630-4a0e-a332-0ee6eeab0b62",
+   "state": "saat ini",
+   "info": "127/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:52.608Z"
+  },
+  "251": {
+   "aid": "a4e2c8dd-37bc-454a-8c82-ebeefd5fcdef",
+   "state": "saat ini",
+   "info": "128/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:56.056Z"
+  },
+  "253": {
+   "aid": "27289c34-7bdd-404a-814f-4810cbc4f50a",
+   "state": "saat ini",
+   "info": "129/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:04:58.593Z"
+  },
+  "255": {
+   "aid": "639f5930-9551-40aa-a227-12ee6eac4034",
+   "state": "saat ini",
+   "info": "130/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:01.293Z"
+  },
+  "258": {
+   "aid": "5f7606f2-43a1-4684-82c4-b69e929ca0c6",
+   "state": "saat ini",
+   "info": "131/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:04.297Z"
+  },
+  "264": {
+   "aid": "573da197-92de-4029-a63d-3268bf0bee4e",
+   "state": "saat ini",
+   "info": "132/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:08.167Z"
+  },
+  "266": {
+   "aid": "8b2665f5-12ce-4614-a9c1-e75ec6980542",
+   "state": "saat ini",
+   "info": "133/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:10.650Z"
+  },
+  "268": {
+   "aid": "46dc895c-90d5-4888-9ecc-8b523f962ea5",
+   "state": "saat ini",
+   "info": "134/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:13.284Z"
+  },
+  "269": {
+   "aid": "657d1962-a5af-4824-8bf1-33d79c5e7d94",
+   "state": "saat ini",
+   "info": "135/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:15.737Z"
+  },
+  "272": {
+   "aid": "240e52b5-840e-48d3-adc7-efc858d575f7",
+   "state": "saat ini",
+   "info": "136/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:18.334Z"
+  },
+  "273": {
+   "aid": "bd10d963-0a55-4691-8546-746839b21f43",
+   "state": "saat ini",
+   "info": "137/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:20.874Z"
+  },
+  "274": {
+   "aid": "201158dd-8a6c-4b44-af4d-28bba74703ea",
+   "state": "saat ini",
+   "info": "138/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:23.393Z"
+  },
+  "276": {
+   "aid": "29163c16-eb48-467b-8a7d-d612a8139a9e",
+   "state": "saat ini",
+   "info": "139/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:26.066Z"
+  },
+  "277": {
+   "aid": "7abe7731-ad1e-435b-87fc-2d5dac56e0f3",
+   "state": "saat ini",
+   "info": "140/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:28.631Z"
+  },
+  "278": {
+   "aid": "84809883-9250-423a-acbe-63441c19e1e8",
+   "state": "saat ini",
+   "info": "141/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:31.124Z"
+  },
+  "279": {
+   "aid": "da02cb0b-ed7b-4122-87d8-3c1f6099857b",
+   "state": "saat ini",
+   "info": "142/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:33.759Z"
+  },
+  "281": {
+   "aid": "a9692ae0-7256-446e-8423-ceee5394e858",
+   "state": "saat ini",
+   "info": "143/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:36.344Z"
+  },
+  "286": {
+   "aid": "3a41534a-6c0d-44d4-a5a5-32e483202fad",
+   "state": "saat ini",
+   "info": "144/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:38.853Z"
+  },
+  "289": {
+   "aid": "4c093b88-d2a9-4e8e-bd1b-a6d1e66f0e5c",
+   "state": "saat ini",
+   "info": "145/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:41.321Z"
+  },
+  "291": {
+   "aid": "a2b9543e-5768-408d-8e13-0cb0a10dedbc",
+   "state": "saat ini",
+   "info": "146/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:43.918Z"
+  },
+  "293": {
+   "aid": "1cef09ef-63f2-41ca-b1ed-18b6988fe6a0",
+   "state": "saat ini",
+   "info": "147/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:46.524Z"
+  },
+  "294": {
+   "aid": "73961503-f9ae-4b92-93ef-dd67f7356d7f",
+   "state": "saat ini",
+   "info": "148/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:49.045Z"
+  },
+  "295": {
+   "aid": "91184f7a-44fd-42ca-ab13-163c163c54f4",
+   "state": "saat ini",
+   "info": "149/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:51.559Z"
+  },
+  "297": {
+   "aid": "c1f3e485-4f6e-4c72-886f-e4596b7cfd48",
+   "state": "saat ini",
+   "info": "150/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:54.050Z"
+  },
+  "298": {
+   "aid": "2d598689-119f-4d32-ab89-80234a072a9a",
+   "state": "saat ini",
+   "info": "151/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:56.543Z"
+  },
+  "299": {
+   "aid": "29163c16-eb48-467b-8a7d-d612a8139a9e",
+   "state": "saat ini",
+   "info": "139/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:26.066Z"
+  },
+  "302": {
+   "aid": "2316cfc1-c9cc-459a-91e1-68b37c27714d",
+   "state": "saat ini",
+   "info": "152/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:05:59.270Z"
+  },
+  "303": {
+   "aid": "ace81861-c8b8-4bdc-8f50-bb9f3e5340b6",
+   "state": "saat ini",
+   "info": "153/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:02.092Z"
+  },
+  "306": {
+   "aid": "42fa9abb-e753-4ef1-b18e-ea05b393b1d4",
+   "state": "saat ini",
+   "info": "154/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:04.735Z"
+  },
+  "307": {
+   "aid": "ea873663-b1f3-412d-b0a7-22250ce0c491",
+   "state": "saat ini",
+   "info": "155/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:07.276Z"
+  },
+  "308": {
+   "aid": "3e4ba761-f132-4714-a5b9-883a69eb4775",
+   "state": "saat ini",
+   "info": "156/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:09.842Z"
+  },
+  "310": {
+   "aid": "1fc5e074-9782-4d7e-91e0-c77a26c1144c",
+   "state": "saat ini",
+   "info": "157/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:13.241Z"
+  },
+  "312": {
+   "aid": "5d6eb871-b3a4-44af-9dfd-039aa4022126",
+   "state": "saat ini",
+   "info": "158/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:17.207Z"
+  },
+  "313": {
+   "aid": "ed8b468b-cdf4-4442-a6c3-011b144b5d0a",
+   "state": "saat ini",
+   "info": "159/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:22.872Z"
+  },
+  "315": {
+   "aid": "e9a8030c-6b80-459c-b1a3-2c84d5ab661b",
+   "state": "saat ini",
+   "info": "160/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:25.715Z"
+  },
+  "317": {
+   "aid": "44daa5d9-6a0d-4c42-a239-b01c76254b31",
+   "state": "saat ini",
+   "info": "161/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:28.194Z"
+  },
+  "319": {
+   "aid": "cd51fc26-1236-470c-9e7f-4552dbc84c2d",
+   "state": "saat ini",
+   "info": "162/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:30.837Z"
+  },
+  "321": {
+   "aid": "0849b37f-8941-4cf8-9cf8-1f664606760a",
+   "state": "saat ini",
+   "info": "163/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:33.379Z"
+  },
+  "324": {
+   "aid": "05dbade5-bfe5-43ba-b143-5cf5cdbf62e8",
+   "state": "saat ini",
+   "info": "164/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:36.090Z"
+  },
+  "325": {
+   "aid": "595ad76b-d538-4b6c-b4ec-9635216c3c14",
+   "state": "saat ini",
+   "info": "165/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:38.589Z"
+  },
+  "326": {
+   "aid": "630ed2bf-8eb4-440d-b53d-891b1a3ce8e2",
+   "state": "saat ini",
+   "info": "166/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:41.040Z"
+  },
+  "327": {
+   "aid": "644d50be-1275-435e-92c3-e11e84e88856",
+   "state": "saat ini",
+   "info": "167/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:43.556Z"
+  },
+  "328": {
+   "aid": "6132740a-157b-4fb9-b90f-8f05bf4d7206",
+   "state": "saat ini",
+   "info": "168/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:46.136Z"
+  },
+  "329": {
+   "aid": "7f908a23-963d-4583-9794-1cea31016306",
+   "state": "saat ini",
+   "info": "169/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:48.933Z"
+  },
+  "332": {
+   "aid": "8a172147-5448-4d44-8d1e-abf922f58b0d",
+   "state": "saat ini",
+   "info": "170/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:51.548Z"
+  },
+  "333": {
+   "aid": "af365f99-add6-44ce-b4db-ca914d9aa927",
+   "state": "saat ini",
+   "info": "171/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:54.130Z"
+  },
+  "336": {
+   "aid": "f487e0bd-a249-4120-a9a6-6a6472550639",
+   "state": "saat ini",
+   "info": "172/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:56.965Z"
+  },
+  "339": {
+   "aid": "3da91d6c-7001-477c-ad9a-1331cc88085b",
+   "state": "saat ini",
+   "info": "173/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:06:59.612Z"
+  },
+  "341": {
+   "aid": "03c7b3db-6a55-4fdc-980b-f8547b96976f",
+   "state": "saat ini",
+   "info": "174/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:02.206Z"
+  },
+  "342": {
+   "aid": "3561db4c-8a1d-4022-ae2d-5aabb922bdc2",
+   "state": "saat ini",
+   "info": "175/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:04.745Z"
+  },
+  "344": {
+   "aid": "2f8efd7b-d36c-48bc-9bd8-b157897928c3",
+   "state": "saat ini",
+   "info": "176/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:07.143Z"
+  },
+  "347": {
+   "aid": "41cd1b6e-0b3f-40db-baa4-903f580c11eb",
+   "state": "saat ini",
+   "info": "177/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:10.287Z"
+  },
+  "348": {
+   "aid": "7e71d844-23a7-49da-b660-b0fa61235b08",
+   "state": "saat ini",
+   "info": "178/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:14.144Z"
+  },
+  "350": {
+   "aid": "a946cabd-b358-4590-8974-91343b02f87f",
+   "state": "saat ini",
+   "info": "179/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:17.032Z"
+  },
+  "352": {
+   "aid": "a5270c26-ea6d-4159-91fe-6546eaea0df4",
+   "state": "saat ini",
+   "info": "180/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:19.634Z"
+  },
+  "355": {
+   "aid": "a28667da-ad21-4686-abbb-9611e4d710a5",
+   "state": "saat ini",
+   "info": "181/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:22.108Z"
+  },
+  "357": {
+   "aid": "e38974c1-2daf-4813-8c7b-c0529dafe871",
+   "state": "saat ini",
+   "info": "182/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:24.740Z"
+  },
+  "359": {
+   "aid": "fbbf1924-319a-4909-b4f3-4fd4897721ee",
+   "state": "saat ini",
+   "info": "183/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:27.296Z"
+  },
+  "361": {
+   "aid": "e909dc05-8ca7-4e0e-a889-473c6709b947",
+   "state": "saat ini",
+   "info": "184/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:29.825Z"
+  },
+  "362": {
+   "aid": "ec4eae5a-afd1-4dad-ac62-7278dde0f334",
+   "state": "saat ini",
+   "info": "185/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:32.268Z"
+  },
+  "364": {
+   "aid": "1df5bace-e409-45c0-9845-7b3d035764dd",
+   "state": "saat ini",
+   "info": "186/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:34.740Z"
+  },
+  "367": {
+   "aid": "765940a9-44d4-42d0-96b5-bacbd33b2e90",
+   "state": "saat ini",
+   "info": "187/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:37.237Z"
+  },
+  "369": {
+   "aid": "76820031-b2df-42e6-9079-30b954f06bcf",
+   "state": "saat ini",
+   "info": "188/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:39.753Z"
+  },
+  "372": {
+   "aid": "c3d1e8ba-333c-4075-9f9e-305bbb43450d",
+   "state": "saat ini",
+   "info": "189/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:42.322Z"
+  },
+  "373": {
+   "aid": "d83dee31-07fe-4833-93ea-c58e12e2b1e3",
+   "state": "saat ini",
+   "info": "190/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:44.792Z"
+  },
+  "374": {
+   "aid": "b167b14f-94eb-4ce0-8d2e-8aa5af60c31e",
+   "state": "saat ini",
+   "info": "191/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:47.289Z"
+  },
+  "375": {
+   "aid": "d9170c21-6ff8-4d26-8f2d-fe5dab206954",
+   "state": "saat ini",
+   "info": "192/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:49.885Z"
+  },
+  "379": {
+   "aid": "17be1e74-eb43-470d-9917-47dc395fa640",
+   "state": "saat ini",
+   "info": "193/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:52.474Z"
+  },
+  "383": {
+   "aid": "5afb094f-31b7-4e9f-b58e-278ee12e5f69",
+   "state": "saat ini",
+   "info": "194/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:56.054Z"
+  },
+  "385": {
+   "aid": "6c4e08ec-1ddd-45d2-8bec-90b613edfc2b",
+   "state": "saat ini",
+   "info": "195/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:58.462Z"
+  },
+  "386": {
+   "aid": "65c0b1b3-7b34-41a6-8286-4103883c7897",
+   "state": "saat ini",
+   "info": "196/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:01.080Z"
+  },
+  "388": {
+   "aid": "8fb8b6de-dce6-4780-911a-2c499a2136ff",
+   "state": "saat ini",
+   "info": "197/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:03.861Z"
+  },
+  "389": {
+   "aid": "a4f6ce9b-ff8f-48b3-9198-28650bf9ba3e",
+   "state": "saat ini",
+   "info": "198/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:06.343Z"
+  },
+  "390": {
+   "aid": "acdd1620-3057-4f58-b70c-5bca01638e92",
+   "state": "saat ini",
+   "info": "199/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:08.838Z"
+  },
+  "391": {
+   "aid": "dd6f0216-ece9-4d6c-8715-b8b8dbe628cd",
+   "state": "saat ini",
+   "info": "200/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:11.404Z"
+  },
+  "392": {
+   "aid": "e5bf6afd-3608-4872-9cd6-c2746cc30ec3",
+   "state": "saat ini",
+   "info": "201/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:13.882Z"
+  },
+  "393": {
+   "aid": "8898ef4a-4830-4785-b88e-ec671357aa1c",
+   "state": "saat ini",
+   "info": "202/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:16.358Z"
+  },
+  "394": {
+   "aid": "49eb2329-6da5-4b83-84d9-77671a5da3f1",
+   "state": "saat ini",
+   "info": "203/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:18.910Z"
+  },
+  "395": {
+   "aid": "af980fcd-4ffc-4cf9-9897-2f80003b451b",
+   "state": "saat ini",
+   "info": "204/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:21.502Z"
+  },
+  "396": {
+   "aid": "4417f164-6696-41f5-bb6d-60588bd4d274",
+   "state": "saat ini",
+   "info": "205/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:24.173Z"
+  },
+  "399": {
+   "aid": "50092168-d389-4512-a0a4-bac33b657699",
+   "state": "saat ini",
+   "info": "206/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:26.876Z"
+  },
+  "401": {
+   "aid": "5eed62fc-146e-4ab1-b3bc-519a628f5e19",
+   "state": "saat ini",
+   "info": "207/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:29.367Z"
+  },
+  "402": {
+   "aid": "fb2b372e-41fb-4b9e-a103-0bd8a5a0df9b",
+   "state": "saat ini",
+   "info": "208/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:31.879Z"
+  },
+  "403": {
+   "aid": "80ba05d8-4b31-42d6-bd55-9b0d31498e91",
+   "state": "saat ini",
+   "info": "209/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:34.480Z"
+  },
+  "404": {
+   "aid": "5fc43431-873a-439f-a309-80252fa0cefd",
+   "state": "saat ini",
+   "info": "210/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:36.999Z"
+  },
+  "405": {
+   "aid": "9c485081-2177-495c-845e-c7e1a60b18b6",
+   "state": "saat ini",
+   "info": "211/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:39.451Z"
+  },
+  "406": {
+   "aid": "36234967-0d03-4986-ace8-f637e358d453",
+   "state": "saat ini",
+   "info": "212/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:42.015Z"
+  },
+  "409": {
+   "aid": "ce2e858f-e730-4fc9-8c11-517863adbfe4",
+   "state": "saat ini",
+   "info": "213/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:44.528Z"
+  },
+  "410": {
+   "aid": "b0970d22-fdb5-4dd3-b3de-948536b5bf87",
+   "state": "saat ini",
+   "info": "214/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:47.032Z"
+  },
+  "411": {
+   "aid": "4dd2bca1-c42a-45f4-a292-d49322a023bc",
+   "state": "saat ini",
+   "info": "215/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:49.532Z"
+  },
+  "413": {
+   "aid": "2f6a3ebc-9961-4895-a04c-35fd7d397a17",
+   "state": "saat ini",
+   "info": "216/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:52.149Z"
+  },
+  "417": {
+   "aid": "228d0c4d-fd49-4e21-9e30-5f9fd6f2364a",
+   "state": "saat ini",
+   "info": "217/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:54.743Z"
+  },
+  "421": {
+   "aid": "e490c599-564d-469c-8b02-dcb91c10ad89",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309060040000500 - DASIANUS MULI / APLIANA LELE - 1 /  - 5 - 86262 (e490c599-564d-469c-8b02-dcb91c10ad89)",
+   "at": "2026-10-19T12:08:57.044Z"
+  },
+  "422": {
+   "aid": "fccb4c8c-a3bf-4a58-b219-69746f170083",
+   "state": "saat ini",
+   "info": "219/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:08:59.482Z"
+  },
+  "423": {
+   "aid": "afeb7733-4dd5-47a3-b287-610f1821b488",
+   "state": "saat ini",
+   "info": "220/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:01.949Z"
+  },
+  "424": {
+   "aid": "f5b4a3fc-002a-4886-acd3-40be5496d88f",
+   "state": "saat ini",
+   "info": "221/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:04.440Z"
+  },
+  "426": {
+   "aid": "025240c8-7a51-480b-bf59-a46417d4ead1",
+   "state": "saat ini",
+   "info": "222/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:06.963Z"
+  },
+  "429": {
+   "aid": "ca1ac380-8410-4d0f-b880-55d55f84f9e8",
+   "state": "saat ini",
+   "info": "223/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:09.380Z"
+  },
+  "433": {
+   "aid": "1e84655d-153a-4efd-b9cf-65119cd6a2b5",
+   "state": "saat ini",
+   "info": "224/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:11.895Z"
+  },
+  "435": {
+   "aid": "45e8025e-b1eb-43fb-9e32-19d68a1715e0",
+   "state": "saat ini",
+   "info": "225/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:14.449Z"
+  },
+  "439": {
+   "aid": "8e36c338-62a9-4399-bb4c-633ea1b77b55",
+   "state": "saat ini",
+   "info": "226/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:16.960Z"
+  },
+  "440": {
+   "aid": "e5bec3d1-20a0-475d-bfe6-ad931575db47",
+   "state": "saat ini",
+   "info": "227/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:19.377Z"
+  },
+  "441": {
+   "aid": "03d58791-e56e-45ca-b5c1-18be8876e22d",
+   "state": "saat ini",
+   "info": "228/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:21.991Z"
+  },
+  "442": {
+   "aid": "94492fc3-fbd4-43d0-97f6-00d7964579bf",
+   "state": "saat ini",
+   "info": "229/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:24.600Z"
+  },
+  "443": {
+   "aid": "98de06b9-5233-45f1-93a7-75d59046eed2",
+   "state": "saat ini",
+   "info": "230/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:27.077Z"
+  },
+  "444": {
+   "aid": "0cd519d3-02ce-4cc8-9c05-2c93ab49e909",
+   "state": "saat ini",
+   "info": "231/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:29.489Z"
+  },
+  "446": {
+   "aid": "2d24efb6-5509-4558-a44c-0595db46a792",
+   "state": "saat ini",
+   "info": "232/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:32.040Z"
+  },
+  "449": {
+   "aid": "3029c238-254c-4348-ad6f-c411f7e2b1f7",
+   "state": "saat ini",
+   "info": "233/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:34.561Z"
+  },
+  "450": {
+   "aid": "048dd5c2-088e-49fa-b244-94b605ac074d",
+   "state": "saat ini",
+   "info": "234/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:36.982Z"
+  },
+  "451": {
+   "aid": "8d2b03ba-b8a8-4e40-bfec-6a5f1ce028b1",
+   "state": "saat ini",
+   "info": "235/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:39.398Z"
+  },
+  "452": {
+   "aid": "a946cabd-b358-4590-8974-91343b02f87f",
+   "state": "saat ini",
+   "info": "179/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:07:17.032Z"
+  },
+  "453": {
+   "aid": "2c476e9e-c78b-45f6-8972-11857a2e2339",
+   "state": "saat ini",
+   "info": "236/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:41.956Z"
+  },
+  "456": {
+   "aid": "93ba0bae-4999-4190-83d2-ba787d7271d2",
+   "state": "saat ini",
+   "info": "237/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:44.378Z"
+  },
+  "458": {
+   "aid": "a07adf6b-69e7-4276-a560-9894b86c4126",
+   "state": "saat ini",
+   "info": "238/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:46.956Z"
+  },
+  "462": {
+   "aid": "d139536e-2abf-4d82-b0ca-d153ca6fd5ef",
+   "state": "saat ini",
+   "info": "239/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:49.484Z"
+  },
+  "463": {
+   "aid": "f00b1179-b1b2-4e0d-8ffb-f393028563e3",
+   "state": "saat ini",
+   "info": "240/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:52.003Z"
+  },
+  "464": {
+   "aid": "364331bd-3706-48e3-bee0-5cd34c3134ee",
+   "state": "saat ini",
+   "info": "241/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:54.419Z"
+  },
+  "470": {
+   "aid": "e30ef672-f100-4295-ac70-9825effeaa3c",
+   "state": "saat ini",
+   "info": "242/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:56.886Z"
+  },
+  "471": {
+   "aid": "065d3954-b596-44b4-a4a5-c1941a30ec6a",
+   "state": "saat ini",
+   "info": "243/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:09:59.345Z"
+  },
+  "472": {
+   "aid": "0d8f52c3-ad6a-4cf6-aeb8-b670957abe79",
+   "state": "saat ini",
+   "info": "244/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:01.859Z"
+  },
+  "474": {
+   "aid": "c971f4df-47af-47a3-867d-ab613b2ea827",
+   "state": "saat ini",
+   "info": "245/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:04.399Z"
+  },
+  "475": {
+   "aid": "103773c6-3981-4897-a6d5-5556cf4c3269",
+   "state": "saat ini",
+   "info": "246/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:06.990Z"
+  },
+  "477": {
+   "aid": "3fa4f2c0-9ac7-4295-a37b-9029319144c1",
+   "state": "saat ini",
+   "info": "247/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:09.515Z"
+  },
+  "478": {
+   "aid": "6bcec3d7-f98d-42bc-bb4d-7d6f06bbbcae",
+   "state": "saat ini",
+   "info": "248/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:12.022Z"
+  },
+  "480": {
+   "aid": "9528c7c8-239e-492d-814f-a6f9daf005ac",
+   "state": "saat ini",
+   "info": "249/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:14.532Z"
+  },
+  "482": {
+   "aid": "966e96ab-55b4-46c3-af72-6456a32ed688",
+   "state": "saat ini",
+   "info": "250/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:17.002Z"
+  },
+  "483": {
+   "aid": "bb514375-2608-4d3b-be8e-f983dd87ef53",
+   "state": "saat ini",
+   "info": "251/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:19.555Z"
+  },
+  "484": {
+   "aid": "a3179919-5827-4e09-8004-583a8220d24f",
+   "state": "saat ini",
+   "info": "252/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:22.010Z"
+  },
+  "487": {
+   "aid": "c8f38ff3-490e-4fb9-b4e3-2f37535a14dd",
+   "state": "saat ini",
+   "info": "253/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:24.517Z"
+  },
+  "488": {
+   "aid": "0504aa2a-62b9-445e-8b27-7be3d43dcfe1",
+   "state": "saat ini",
+   "info": "254/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:26.937Z"
+  },
+  "489": {
+   "aid": "1ed5c0ff-f9d0-44bf-a3c1-ef179fd00618",
+   "state": "saat ini",
+   "info": "255/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:29.498Z"
+  },
+  "491": {
+   "aid": "d96f5e03-b108-43ec-b11d-1707f0bb39b0",
+   "state": "saat ini",
+   "info": "256/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:31.955Z"
+  },
+  "493": {
+   "aid": "24450b7e-70b8-41d8-98db-0b815fd0ccdf",
+   "state": "saat ini",
+   "info": "257/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:34.464Z"
+  },
+  "495": {
+   "aid": "326c8879-4a50-4ed7-b5f6-e6b3084a7d53",
+   "state": "saat ini",
+   "info": "258/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:36.886Z"
+  },
+  "496": {
+   "aid": "4a46bdda-407b-4314-9231-ba6f13665ce4",
+   "state": "saat ini",
+   "info": "259/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:39.390Z"
+  },
+  "499": {
+   "aid": "53352e45-bb8c-472c-84c6-08de51992d10",
+   "state": "saat ini",
+   "info": "260/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:41.899Z"
+  },
+  "502": {
+   "aid": "5f18d471-26ba-48fc-9a67-6957009e332a",
+   "state": "saat ini",
+   "info": "261/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:44.371Z"
+  },
+  "503": {
+   "aid": "9ad660bb-c96e-4484-9933-519b122dc457",
+   "state": "saat ini",
+   "info": "262/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:46.804Z"
+  },
+  "504": {
+   "aid": "9188c074-75d7-4284-a965-090a3164f877",
+   "state": "saat ini",
+   "info": "263/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:49.317Z"
+  },
+  "505": {
+   "aid": "a83d9569-81b6-468d-bc2a-e5c71419826d",
+   "state": "saat ini",
+   "info": "264/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:51.865Z"
+  },
+  "509": {
+   "aid": "91d9b0b2-bdf9-407e-985d-5dae27ebe05f",
+   "state": "saat ini",
+   "info": "265/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:54.352Z"
+  },
+  "510": {
+   "aid": "8dadc703-b26a-4155-b4ce-45bc5e0e215d",
+   "state": "saat ini",
+   "info": "266/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:56.764Z"
+  },
+  "511": {
+   "aid": "8a519382-8279-4576-8d47-768a73a79cab",
+   "state": "saat ini",
+   "info": "267/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:59.348Z"
+  },
+  "512": {
+   "aid": "8a93a868-fc68-49d4-b70e-f5de47776385",
+   "state": "saat ini",
+   "info": "268/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:01.894Z"
+  },
+  "516": {
+   "aid": "f5b4972d-ef47-4e42-9d15-4817cbb9febb",
+   "state": "saat ini",
+   "info": "269/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:04.449Z"
+  },
+  "520": {
+   "aid": "08468e88-2280-4a20-b744-a0910dbb1430",
+   "state": "saat ini",
+   "info": "270/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:06.859Z"
+  },
+  "521": {
+   "aid": "f207e04a-3fa6-44ac-ac8a-8d16d60c8e4e",
+   "state": "saat ini",
+   "info": "271/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:09.414Z"
+  },
+  "522": {
+   "aid": "0abc2539-ac3c-43b9-92f8-08dbc3f69c28",
+   "state": "saat ini",
+   "info": "272/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:11.931Z"
+  },
+  "523": {
+   "aid": "004c8307-4031-4529-bccb-11ddc6dfeefb",
+   "state": "saat ini",
+   "info": "273/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:14.521Z"
+  },
+  "525": {
+   "aid": "3470f360-aa7d-450a-a5d0-62a03d7d6e86",
+   "state": "saat ini",
+   "info": "274/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:17.074Z"
+  },
+  "527": {
+   "aid": "2311ea0b-2ba6-4c21-81bf-543cb3842db8",
+   "state": "saat ini",
+   "info": "275/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:19.680Z"
+  },
+  "528": {
+   "aid": "4049f4d1-57c8-471b-8db5-8a37c9582271",
+   "state": "saat ini",
+   "info": "276/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:22.128Z"
+  },
+  "529": {
+   "aid": "564e0a13-fd10-43c0-8fa2-f3103b5162d7",
+   "state": "saat ini",
+   "info": "277/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:24.663Z"
+  },
+  "532": {
+   "aid": "73ccf083-ec1e-405a-a6ca-0c2188931fa1",
+   "state": "saat ini",
+   "info": "278/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:27.147Z"
+  },
+  "533": {
+   "aid": "6181d690-e811-4ed1-aa69-587e4a2ac9aa",
+   "state": "saat ini",
+   "info": "279/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:29.564Z"
+  },
+  "534": {
+   "aid": "991b8646-ff87-469f-bc55-54d81a8b9029",
+   "state": "saat ini",
+   "info": "280/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:32.106Z"
+  },
+  "535": {
+   "aid": "7fbb98e0-f0eb-4203-b5b5-4e02f6bbff30",
+   "state": "saat ini",
+   "info": "281/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:34.583Z"
+  },
+  "536": {
+   "aid": "912e3d69-d3b1-44f0-b531-73f193bbe07f",
+   "state": "saat ini",
+   "info": "282/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:37.023Z"
+  },
+  "537": {
+   "aid": "855b776b-7d8e-49c7-8fb2-e9b92ae0b5e5",
+   "state": "saat ini",
+   "info": "283/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:39.509Z"
+  },
+  "539": {
+   "aid": "b033112f-fe33-4260-8161-7f725b4086b3",
+   "state": "saat ini",
+   "info": "284/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:41.914Z"
+  },
+  "543": {
+   "aid": "b0e18676-8040-4ef0-896b-be33aff247bd",
+   "state": "saat ini",
+   "info": "285/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:44.410Z"
+  },
+  "544": {
+   "aid": "c47a4d4b-b87b-4a37-876e-831cf1389c52",
+   "state": "saat ini",
+   "info": "286/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:46.930Z"
+  },
+  "547": {
+   "aid": "e8564686-cdab-49ed-8ede-549b0c40c3d1",
+   "state": "saat ini",
+   "info": "287/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:49.472Z"
+  },
+  "550": {
+   "aid": "153a3e10-86f0-441c-af67-07c53e6483ba",
+   "state": "saat ini",
+   "info": "288/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:52.032Z"
+  },
+  "551": {
+   "aid": "37efd52c-6d40-4bd5-86ae-92cf70bc95a0",
+   "state": "saat ini",
+   "info": "289/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:54.574Z"
+  },
+  "553": {
+   "aid": "498e8797-853c-4d21-b56e-3b186a8fd459",
+   "state": "saat ini",
+   "info": "290/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:57.046Z"
+  },
+  "554": {
+   "aid": "713ee8dc-8552-476c-b847-183c5994face",
+   "state": "saat ini",
+   "info": "291/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:11:59.525Z"
+  },
+  "555": {
+   "aid": "976c9c46-03b4-477c-ab4c-75edf6fa6a4b",
+   "state": "saat ini",
+   "info": "292/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:02.122Z"
+  },
+  "556": {
+   "aid": "8f806498-9b20-4ea0-9de9-5b0e1f096e8d",
+   "state": "saat ini",
+   "info": "293/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:04.597Z"
+  },
+  "558": {
+   "aid": "82b84d63-f945-46f6-97d9-efc81bd52ff4",
+   "state": "saat ini",
+   "info": "294/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:07.179Z"
+  },
+  "559": {
+   "aid": "b841240f-25dd-43f0-84a4-a90d5224970b",
+   "state": "saat ini",
+   "info": "295/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:09.635Z"
+  },
+  "562": {
+   "aid": "cb00b82b-7df8-4674-b04c-126e3c7aa6a2",
+   "state": "saat ini",
+   "info": "296/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:12.054Z"
+  },
+  "564": {
+   "aid": "e78a5635-0b72-4716-a1e0-1159fad309e7",
+   "state": "saat ini",
+   "info": "297/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:14.651Z"
+  },
+  "565": {
+   "aid": "fb857acd-5e75-4181-9c08-e5afa0a5c4da",
+   "state": "saat ini",
+   "info": "298/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:17.084Z"
+  },
+  "567": {
+   "aid": "fe9d4665-dc97-43e1-8e48-1aeebd91e854",
+   "state": "saat ini",
+   "info": "299/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:19.610Z"
+  },
+  "568": {
+   "aid": "fad0f9c6-dc62-4183-85fb-1015c2a7a003",
+   "state": "saat ini",
+   "info": "300/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:22.196Z"
+  },
+  "569": {
+   "aid": "93710cb0-cb7e-4e6e-94fb-65395128276f",
+   "state": "saat ini",
+   "info": "301/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:24.586Z"
+  },
+  "570": {
+   "aid": "c5a6eb3b-7a3a-4231-8fa6-94151f2653aa",
+   "state": "saat ini",
+   "info": "302/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:27.180Z"
+  },
+  "571": {
+   "aid": "05833d34-3df8-4f4b-b246-c843b802fc5e",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309010004001600 - MARIA MARVIANA MITAN LIWU / MARIANUS ATEN ARAN - 18 /  - 1 (05833d34-3df8-4f4b-b246-c843b802fc5e)",
+   "at": "2026-10-19T12:12:29.510Z"
+  },
+  "572": {
+   "aid": "a35b1b6f-6d31-4797-91bc-9475dd016532",
+   "state": "saat ini",
+   "info": "304/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:32.033Z"
+  },
+  "573": {
+   "aid": "eaa2fc99-0fa8-4f0e-afd6-602a05513a94",
+   "state": "saat ini",
+   "info": "305/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:34.544Z"
+  },
+  "574": {
+   "aid": "4928399a-8757-4a9b-9e6b-c12d01d67b4b",
+   "state": "saat ini",
+   "info": "306/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:37.362Z"
+  },
+  "575": {
+   "aid": "cb0ea229-388a-469b-b6b1-062fe0efe3ca",
+   "state": "saat ini",
+   "info": "presign-url (s3/edit) gagal: No access for assignment 5309061010000100 - DTSEN - 22 (cb0ea229-388a-469b-b6b1-062fe0efe3ca)",
+   "at": "2026-10-19T12:12:39.652Z"
+  },
+  "576": {
+   "aid": "6c2e6a98-5100-46bc-94d1-5cf5b0b18380",
+   "state": "saat ini",
+   "info": "308/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:42.186Z"
+  },
+  "577": {
+   "aid": "65051c16-c156-4858-93ee-06ac5fd00a6f",
+   "state": "saat ini",
+   "info": "309/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:44.646Z"
+  },
+  "580": {
+   "aid": "5bd3f27b-a903-44ec-a424-818829b112a6",
+   "state": "saat ini",
+   "info": "310/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:47.199Z"
+  },
+  "581": {
+   "aid": "32c3560c-d187-4c59-bc5f-ac130e9cd600",
+   "state": "saat ini",
+   "info": "311/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:49.693Z"
+  },
+  "582": {
+   "aid": "4c73f194-483c-4e97-bad2-c56ea4d3ac03",
+   "state": "saat ini",
+   "info": "312/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:52.272Z"
+  },
+  "584": {
+   "aid": "f8b8fccb-f726-48eb-a215-71badb79cb90",
+   "state": "saat ini",
+   "info": "313/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:54.736Z"
+  },
+  "587": {
+   "aid": "a69246f1-8b14-482b-8ca5-a0ecda35c40b",
+   "state": "saat ini",
+   "info": "314/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:57.244Z"
+  },
+  "588": {
+   "aid": "ae1e1210-b2f7-47cc-9c8f-f234a98c9128",
+   "state": "saat ini",
+   "info": "315/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:12:59.710Z"
+  },
+  "589": {
+   "aid": "247c3af0-e814-4424-a407-633be8d109c4",
+   "state": "saat ini",
+   "info": "316/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:02.181Z"
+  },
+  "590": {
+   "aid": "2ceb48b1-c462-426d-b15d-18c1cc1074cb",
+   "state": "saat ini",
+   "info": "317/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:04.702Z"
+  },
+  "592": {
+   "aid": "e1ed183a-03b8-4dc4-bd15-cffe9de68d3f",
+   "state": "saat ini",
+   "info": "318/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:07.327Z"
+  },
+  "593": {
+   "aid": "24450b7e-70b8-41d8-98db-0b815fd0ccdf",
+   "state": "saat ini",
+   "info": "257/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:10:34.464Z"
+  },
+  "594": {
+   "aid": "23247add-5d9f-4f71-b02a-a5505ed8934a",
+   "state": "saat ini",
+   "info": "319/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:09.846Z"
+  },
+  "596": {
+   "aid": "197b0dc4-e4a4-4496-b9ff-d6a6bbb0e003",
+   "state": "saat ini",
+   "info": "320/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:12.290Z"
+  },
+  "597": {
+   "aid": "1c08f0c1-97d8-46f0-a81f-98a1bb9462a4",
+   "state": "saat ini",
+   "info": "321/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:14.788Z"
+  },
+  "602": {
+   "aid": "1a3bbcca-9a16-491c-b44e-5836a5cdfa68",
+   "state": "saat ini",
+   "info": "322/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:17.352Z"
+  },
+  "603": {
+   "aid": "7f8b01c4-edf4-4c0e-b37b-e66c92dcd530",
+   "state": "saat ini",
+   "info": "323/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:19.865Z"
+  },
+  "605": {
+   "aid": "6a8b58f6-8885-4c83-b5ba-8e74711e41fb",
+   "state": "saat ini",
+   "info": "324/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:22.344Z"
+  },
+  "606": {
+   "aid": "0b151fe3-201e-4e45-860f-a63c46c682a6",
+   "state": "saat ini",
+   "info": "325/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:24.859Z"
+  },
+  "609": {
+   "aid": "74039136-4bc0-439d-ad0e-f979d4860b29",
+   "state": "saat ini",
+   "info": "326/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:27.403Z"
+  },
+  "610": {
+   "aid": "b0438489-aa0e-4f6d-9766-c6a661c99360",
+   "state": "saat ini",
+   "info": "327/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:29.901Z"
+  },
+  "611": {
+   "aid": "e57251c3-f0ee-4b1a-9338-4682ed448cc3",
+   "state": "saat ini",
+   "info": "328/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:32.332Z"
+  },
+  "612": {
+   "aid": "07846247-d8da-431e-80eb-23a750fe015a",
+   "state": "saat ini",
+   "info": "329/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:34.816Z"
+  },
+  "614": {
+   "aid": "51eec490-ab8e-4bd8-bf0d-e49a17aa141d",
+   "state": "saat ini",
+   "info": "330/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:37.328Z"
+  },
+  "618": {
+   "aid": "54906070-7584-4458-b906-5f4ea895aded",
+   "state": "saat ini",
+   "info": "331/331 → EDITED BY Admin Kabupaten",
+   "at": "2026-10-19T12:13:39.818Z"
+  }
+ }
+}

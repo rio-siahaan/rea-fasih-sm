@@ -1,0 +1,12 @@
+{
+  "name": "fasih-sm",
+  "version": "0.1.0",
+  "description": "Otomasi workflow edit assignment FASIH-SM (fasih-sm.bps.go.id) via Chrome DevTools Protocol",
+  "type": "module",
+  "main": "fasih-sm.mjs",
+  "bin": { "fasih-sm": "./fasih-sm.mjs" },
+  "scripts": {
+    "fasih": "node fasih-sm.mjs"
+  },
+  "license": "MIT"
+}

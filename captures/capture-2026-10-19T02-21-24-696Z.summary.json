@@ -1,0 +1,49 @@
+{
+  "browser": "Chrome/155.0.8059.84",
+  "startedAt": "2026-10-19T02:21:24.717Z",
+  "durationSec": 300,
+  "stats": {
+    "requests": 5,
+    "responses": 5,
+    "bodies": 5,
+    "posts": 0
+  },
+  "endpoints": [
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/lookup/api/v1/collections/242f40ad-1a03-41fb-9846-c687e0632b67/filter",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/lookup/api/v1/collections/668fcfe6-8ef4-4612-968a-d1330c03fe17/filter",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment/get-by-id-exclude-data",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-responsibility/get-structure-approval",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    },
+    {
+      "endpoint": "GET fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/get-by-assignment-id",
+      "count": 1,
+      "statuses": [
+        200
+      ]
+    }
+  ],
+  "errors": []
+}
