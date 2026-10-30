@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "writes": [
+    {
+      "row": 80,
+      "aid": "c63ffc1a-e2dd-4e78-b461-413a238e2ff5",
+      "keys": [
+        "no_kk",
+        "nik_dtsen#3"
+      ],
+      "targets": [
+        "no_kk",
+        "nik_dtsen#3"
+      ],
+      "at": "2026-10-30T07:11:43.192Z",
+      "alias": "EDITED BY Admin Kabupaten",
+      "status": "BERHASIL"
+    },
+    {
+      "row": 115,
+      "aid": "684aeeb5-b680-42af-9888-c7f093206480",
+      "keys": [
+        "no_kk"
+      ],
+      "targets": [
+        "no_kk",
+        "nik_dtsen#1"
+      ],
+      "at": "2026-10-30T07:10:30.000Z",
+      "alias": "EDITED BY Admin Kabupaten",
+      "status": "BERHASIL"
+    }
+  ]
+}

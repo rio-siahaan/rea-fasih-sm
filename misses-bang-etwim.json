@@ -1,0 +1,202 @@
+[
+ {
+  "rowNo": 9,
+  "nama": "PERDAGANGAN KOPRA ,JONI",
+  "aid": "03089b39-d7ee-4a7e-8cde-0462109dee42",
+  "status": "REPAIR-GAGAL",
+  "alasan": "GET https://fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/get-by-assignment-id -> HTTP ",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/03089b39-d7ee-4a7e-8cde-0462109dee42"
+ },
+ {
+  "rowNo": 19,
+  "nama": "JUAL BAWANG JR",
+  "aid": "9cba1f4c-637a-4a97-b173-0b8b6ed718d7",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/9cba1f4c-637a-4a97-b173-0b8b6ed718d7"
+ },
+ {
+  "rowNo": 59,
+  "nama": "GRAND MP",
+  "aid": "f922caaf-afe9-4911-b0ad-ea6375320331",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f922caaf-afe9-4911-b0ad-ea6375320331"
+ },
+ {
+  "rowNo": 63,
+  "nama": "JUAL MOTOR BEKAS",
+  "aid": "fb609150-f005-420a-946f-594fef87e117",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/fb609150-f005-420a-946f-594fef87e117"
+ },
+ {
+  "rowNo": 108,
+  "nama": "KIOS (ANJELINA KEDANG)",
+  "aid": "36c1f1d4-14ea-437f-8c9c-84bdb252f250",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/36c1f1d4-14ea-437f-8c9c-84bdb252f250"
+ },
+ {
+  "rowNo": 196,
+  "nama": "KIOS (CAROLINA)",
+  "aid": "01efe346-5814-4fb5-a473-f99322bf9f7d",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/01efe346-5814-4fb5-a473-f99322bf9f7d"
+ },
+ {
+  "rowNo": 203,
+  "nama": "KIOS (SELVIANA MOOY)",
+  "aid": "03358ec1-5721-4e31-8af1-93434b85253f",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/03358ec1-5721-4e31-8af1-93434b85253f"
+ },
+ {
+  "rowNo": 217,
+  "nama": "KIOS HERMINA BLOLON",
+  "aid": "0480fc92-d878-42e9-bfe3-570a2ca60fa8",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/0480fc92-d878-42e9-bfe3-570a2ca60fa8"
+ },
+ {
+  "rowNo": 249,
+  "nama": "KIOS MARSYA(SUSANA BOLENG WEKING)",
+  "aid": "08fb39aa-9dec-4302-8aa2-8f3dc8ad6dd0",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/08fb39aa-9dec-4302-8aa2-8f3dc8ad6dd0"
+ },
+ {
+  "rowNo": 271,
+  "nama": "KIOS (BIBIANA)",
+  "aid": "0ce3b5cd-9fe3-46e9-a02b-f9d97a54212d",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/0ce3b5cd-9fe3-46e9-a02b-f9d97a54212d"
+ },
+ {
+  "rowNo": 287,
+  "nama": "KIOS SEMBAKO(LUDGARDIS ROJA LANGKAMAU)",
+  "aid": "0fd75b85-581c-416f-952c-23cb7bc511f3",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/0fd75b85-581c-416f-952c-23cb7bc511f3"
+ },
+ {
+  "rowNo": 309,
+  "nama": "KIOS SEMBAKO DUA PUTRA (NURASIAH)",
+  "aid": "120f458c-61b4-4f31-9c2e-1f1e444b6302",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/120f458c-61b4-4f31-9c2e-1f1e444b6302"
+ },
+ {
+  "rowNo": 310,
+  "nama": "KIOS MITOK",
+  "aid": "12138242-b764-451c-8fc3-dc2d55bce35a",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/12138242-b764-451c-8fc3-dc2d55bce35a"
+ },
+ {
+  "rowNo": 315,
+  "nama": "KIOS (HELENA PIHO TEMU)",
+  "aid": "12c697ee-30d6-4d7f-8e5c-b600e703f7c4",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/12c697ee-30d6-4d7f-8e5c-b600e703f7c4"
+ },
+ {
+  "rowNo": 330,
+  "nama": "KIOS SINAR LAMANIAT (MARTINA JARI)",
+  "aid": "16484c54-3a5d-45d7-a2b2-1f1021985168",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/16484c54-3a5d-45d7-a2b2-1f1021985168"
+ },
+ {
+  "rowNo": 366,
+  "nama": "KIOS SEMBAKO (SAMIUN YUSUF)",
+  "aid": "1b6a96f8-04ee-4222-9e67-0cd280baf16e",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/1b6a96f8-04ee-4222-9e67-0cd280baf16e"
+ },
+ {
+  "rowNo": 387,
+  "nama": "USAHA KIOS ASRULLAHI",
+  "aid": "1e1ea49d-4837-4dd0-8f53-c12909ff50fb",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/1e1ea49d-4837-4dd0-8f53-c12909ff50fb"
+ },
+ {
+  "rowNo": 388,
+  "nama": "USAHA PERDAGANGAN (HENDRIKUS PATARAYA KOLIN)",
+  "aid": "1e215243-5f26-4440-81c3-c5bbb8b51a06",
+  "status": "BULK-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309040010000100 - DTSEN - 18 (1e215243-5f26-4440-81c3-c",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/1e215243-5f26-4440-81c3-c5bbb8b51a06"
+ },
+ {
+  "rowNo": 411,
+  "nama": "KIOS SEMBAKO DINA MARIANA",
+  "aid": "21f7629a-11db-4799-b99a-8a73ffb6bd92",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/21f7629a-11db-4799-b99a-8a73ffb6bd92"
+ },
+ {
+  "rowNo": 429,
+  "nama": "KIOS ANCELINA YOVITA TOWI",
+  "aid": "253b84d5-8297-4614-a88c-36c68c8f015a",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/253b84d5-8297-4614-a88c-36c68c8f015a"
+ },
+ {
+  "rowNo": 440,
+  "nama": "USAHA KIOS SEMBAKO(KATARINA NOGO)",
+  "aid": "26ed17d8-9132-4e2a-a24b-923520fc7cd6",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/26ed17d8-9132-4e2a-a24b-923520fc7cd6"
+ },
+ {
+  "rowNo": 457,
+  "nama": "KIOS (SITI HABIBAH)",
+  "aid": "2b0b0c95-b3ff-4f07-a02f-0af51f295a3e",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/2b0b0c95-b3ff-4f07-a02f-0af51f295a3e"
+ },
+ {
+  "rowNo": 478,
+  "nama": "KIOS KAROLINA (KAROLINA BULU SUBAN)",
+  "aid": "2d4f012a-2b12-4236-ae65-e11f3c60af8d",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/2d4f012a-2b12-4236-ae65-e11f3c60af8d"
+ },
+ {
+  "rowNo": 491,
+  "nama": "KIOS (MARIA DESIRE)",
+  "aid": "2fa0a850-0ad8-4750-909c-9809fe2822c8",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/2fa0a850-0ad8-4750-909c-9809fe2822c8"
+ },
+ {
+  "rowNo": 503,
+  "nama": "PERDAGANGAN ECERAN ( MARIA UTO NARA)",
+  "aid": "31ac621f-853e-4aff-88d8-95736731755b",
+  "status": "TANPA-KUNCI",
+  "alasan": "repair OK tapi kunci biaya tidak ada di template — isi & komentar #4 manual",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/31ac621f-853e-4aff-88d8-95736731755b"
+ }
+]

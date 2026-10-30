@@ -620,7 +620,7 @@ try {
       // data.json dikirim apa adanya (dari server saat ini); hanya comment.json yang mengalami perubahan.
       await boot();
       // const KTEXT = opts.komentar || "#4";
-      const KTEXT = opts.komentar || "#1";
+      const KTEXT = opts.komentar || "#4";
       const OLD_TXT = "Perbaikan nilai biaya produksi & biaya operasional sesuai perhitungan admin";
       const STATE3 = join(HERE, "bulk-state.json");
       const st = existsSync(STATE3) ? JSON.parse(readFileSync(STATE3, "utf8")) : { done: {}, fail: {} };
@@ -865,7 +865,7 @@ try {
       }
       if (opts.limit) ids = ids.slice(0, Number(opts.limit));
       // const KTEXT = opts.komentar || "#4";
-      const KTEXT = opts.komentar || "#1";
+      const KTEXT = opts.komentar || "#4";
       const OLD_TXT = "Perbaikan nilai biaya produksi & biaya operasional sesuai perhitungan admin";
       // user milik sesi bulk/uji-coba tool — paket mereka BUKAN kandidat basis pemulihan
       const OUR_IDS = new Set([
@@ -905,7 +905,7 @@ try {
           //    diag-affected (responden kirim lagi / perbaikan manual user) —
           //    selalu pakai yang TERBARU supaya tidak menimpa data lagi.
           let baseFile = aff.latestFile;
-          const hist0 = await withRetry((ac) => ac.api.history(aid), `hist ${aid.slice(0, 8)}`, { pin: acct });
+          const hist0 = await withRetry((ac) => ac.api.history(aid), `hist ${aid.slice(0, 8)}`); // baca — boleh putar akun (pin hanya utk tulis)
           const list0 = (Array.isArray(hist0) ? hist0 : (hist0.data || hist0.content || []))
             .filter((h) => h && h.base_path && h.user_id && !OUR_IDS.has(h.user_id));
           if (list0.length) {
@@ -917,11 +917,11 @@ try {
             }
           }
           if (!baseFile) throw new Error("tidak ada paket pemulihan (semua paket milik tool?) — jalankan ulang `node diag-unmatched.mjs` bila berkeinan");
-          // 1) data paket TERBARU
-          const hist = await withRetry((ac) => ac.api.historyData(aid, baseFile), `data ${aid.slice(0, 8)}`, { pin: acct });
+          // 1) data paket TERBARU (baca — tanpa pin)
+          const hist = await withRetry((ac) => ac.api.historyData(aid, baseFile), `data ${aid.slice(0, 8)}`);
           const newerData = JSON.parse(hist.data);
-          // 2) record terkini — comment terakumulasi + pemilik data1..10 + region
-          const rec = await withRetry((ac) => ac.api.getAssignment(aid), `get ${aid.slice(0, 8)}`, { pin: acct });
+          // 2) record terkini — comment terakumulasi + pemilik data1..10 + region (baca — tanpa pin)
+          const rec = await withRetry((ac) => ac.api.getAssignment(aid), `get ${aid.slice(0, 8)}`);
           // 3) patch nilai Excel di atas data terbaru (format lama/baru otomatis)
           const recsX = recsOf(aid);
           if (!recsX.length) throw new Error("baris Excel tidak ketemu");
@@ -946,7 +946,9 @@ try {
           try { c = typeof rec.comment === "string" ? JSON.parse(rec.comment) : { dataKey: "", notes: [] }; }
           catch { c = { dataKey: "", notes: [] }; }
           if (!Array.isArray(c.notes)) c.notes = [];
-          const curUser = String(rec.current_user_username || rec.current_user_fullname || "").trim();
+          // sender komentar = akun yang MENULIS (akun pin pembawa paket),
+          // bukan akun pembaca (baca kini bebas putar antar akun)
+          const curUser = String((acct.user && acct.user.username) || rec.current_user_username || "").trim();
           // bersihkan komentar milik tool pada total_pengeluaran di semua blok baris ini
           for (const rx of recsX) {
             if (!norm(rx.nama_usaha)) continue; // baris kosong (mode baru) — jangan sentuh blok

@@ -1,0 +1,346 @@
+[
+ {
+  "rowNo": 22,
+  "nama": "JUALAN IKAN KELILING",
+  "aid": "74767f63-5c80-4104-9834-99c5b3898047",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/74767f63-5c80-4104-9834-99c5b3898047"
+ },
+ {
+  "rowNo": 30,
+  "nama": "KIOS RALLY(SYUKUR)",
+  "aid": "756d40a9-02b8-4e62-9fb9-088f8dccf1fd",
+  "status": "REPAIR-GAGAL",
+  "alasan": "Halaman JS error: TypeError: Failed to fetch\n    at <anonymous>:15:21\n    at <anonymous>:35:3",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/756d40a9-02b8-4e62-9fb9-088f8dccf1fd"
+ },
+ {
+  "rowNo": 32,
+  "nama": "PEDAGANG KIOS ECERAN",
+  "aid": "758a1249-a563-4c28-8998-779cbbea404b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "Halaman JS error: TypeError: Failed to fetch\n    at <anonymous>:15:21\n    at <anonymous>:35:3",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/758a1249-a563-4c28-8998-779cbbea404b"
+ },
+ {
+  "rowNo": 38,
+  "nama": "USAHA KIOS <YUSUF UMAR>",
+  "aid": "76982953-776a-4dee-ab36-39177eb207c1",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309062007000700 - DTSEN - 3 (76982953-776a-4dee-ab36-39",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/76982953-776a-4dee-ab36-39177eb207c1"
+ },
+ {
+  "rowNo": 43,
+  "nama": "UD SEMBAKO (KRISTINA BAREK)",
+  "aid": "7756154e-fbce-4cb4-9e3b-8b5c8033dbed",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309060042000300 - DTSEN - 18 (7756154e-fbce-4cb4-9e3b-8",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/7756154e-fbce-4cb4-9e3b-8b5c8033dbed"
+ },
+ {
+  "rowNo": 68,
+  "nama": "USAHA KIOS JUALAN SEMBAKO EMELINDA",
+  "aid": "7b51c5cd-bd7f-4351-9316-4c02797df1f0",
+  "status": "BULK-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309010004001500 - DTSEN - 3 (7b51c5cd-bd7f-4351-9316-4c",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/7b51c5cd-bd7f-4351-9316-4c02797df1f0"
+ },
+ {
+  "rowNo": 78,
+  "nama": "MU CORNER COPIER",
+  "aid": "7d78dbe1-28e3-4eff-9b69-741551f1b6fa",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/7d78dbe1-28e3-4eff-9b69-741551f1b6fa"
+ },
+ {
+  "rowNo": 84,
+  "nama": "KIOS SEMBAKO ECERAN (ANNA SOMI)",
+  "aid": "7eb4bd1d-4e4c-4f02-9e34-03432837e9f4",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/7eb4bd1d-4e4c-4f02-9e34-03432837e9f4"
+ },
+ {
+  "rowNo": 90,
+  "nama": "KIOS EMILIANA WITI",
+  "aid": "802d81a8-b80a-4e39-abdf-22d31521aa99",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/802d81a8-b80a-4e39-abdf-22d31521aa99"
+ },
+ {
+  "rowNo": 91,
+  "nama": "USAHA KIOS ARSIA (MARIA IMAKULATA WUNGA HURIT)",
+  "aid": "8057015b-9e6a-4b2c-82a8-de9aa7c1a8fc",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8057015b-9e6a-4b2c-82a8-de9aa7c1a8fc"
+ },
+ {
+  "rowNo": 92,
+  "nama": "KIOS BEBE (WILHELMUS BEBE KEWA)",
+  "aid": "805dd486-b01f-45c3-9fce-d4354a42e2f3",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/805dd486-b01f-45c3-9fce-d4354a42e2f3"
+ },
+ {
+  "rowNo": 93,
+  "nama": "KIOS VENTI (VINSENSIANA WENGE HURIT)",
+  "aid": "8068d73d-eb03-49fd-90fa-368ad51ee236",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8068d73d-eb03-49fd-90fa-368ad51ee236"
+ },
+ {
+  "rowNo": 96,
+  "nama": "KIOS NOBERTUS KATHARINA BAREK DEN RATE",
+  "aid": "80bb1ac7-7e4a-49f6-bcbd-54e70bf3d216",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/80bb1ac7-7e4a-49f6-bcbd-54e70bf3d216"
+ },
+ {
+  "rowNo": 108,
+  "nama": "KIOS ( JAWIAH BINTI UMAR)",
+  "aid": "832bba62-fe0a-4143-91a7-fae35d86481a",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/832bba62-fe0a-4143-91a7-fae35d86481a"
+ },
+ {
+  "rowNo": 110,
+  "nama": "PEDAGANG ECERAN",
+  "aid": "833fa353-0739-4d40-af6a-997f581d6328",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309074007000800 - DTSEN - 11 (833fa353-0739-4d40-af6a-9",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/833fa353-0739-4d40-af6a-997f581d6328"
+ },
+ {
+  "rowNo": 115,
+  "nama": "USAHA PERDAGANGAN KIOS (LUSIA PAI WEKING)",
+  "aid": "844e96c3-67ce-4d75-b9ff-85d4e850b03e",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/844e96c3-67ce-4d75-b9ff-85d4e850b03e"
+ },
+ {
+  "rowNo": 116,
+  "nama": "KIOS (SRI WAHYUNI)",
+  "aid": "84571e59-cf80-4c50-8450-1a4d9c5cfc8b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/84571e59-cf80-4c50-8450-1a4d9c5cfc8b"
+ },
+ {
+  "rowNo": 122,
+  "nama": "KIOS (FEBRIANA LODAN)",
+  "aid": "859dfa48-b929-4dea-b02b-5c57e03e36cb",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/859dfa48-b929-4dea-b02b-5c57e03e36cb"
+ },
+ {
+  "rowNo": 128,
+  "nama": "KIOS SEMBAKO ( INDAH)",
+  "aid": "86749fc4-cc77-47e3-99e0-7087be7138c5",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/86749fc4-cc77-47e3-99e0-7087be7138c5"
+ },
+ {
+  "rowNo": 129,
+  "nama": "MINUMAN DAN JAJANAN ECERAN( MAGDALENA LEIN)",
+  "aid": "86970f1d-2cd9-4638-886c-c6e56a490c93",
+  "status": "REPAIR-GAGAL",
+  "alasan": "Halaman JS error: TypeError: Failed to fetch\n    at <anonymous>:15:21\n    at <anonymous>:35:3",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/86970f1d-2cd9-4638-886c-c6e56a490c93"
+ },
+ {
+  "rowNo": 135,
+  "nama": "KIOS <MUHAMMAD KADIR>",
+  "aid": "8759b434-85fb-4635-a57e-780e36b41e13",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8759b434-85fb-4635-a57e-780e36b41e13"
+ },
+ {
+  "rowNo": 140,
+  "nama": "KIOS SEMBAKO ( YULIANA BERIBIN BALA)",
+  "aid": "87cda3c2-feb0-4317-b33b-5af1c2839e11",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/87cda3c2-feb0-4317-b33b-5af1c2839e11"
+ },
+ {
+  "rowNo": 141,
+  "nama": "SUSANA SAMOWAEN KEIN",
+  "aid": "8820a79e-35c3-42d5-baa4-3d3d4368dde6",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8820a79e-35c3-42d5-baa4-3d3d4368dde6"
+ },
+ {
+  "rowNo": 143,
+  "nama": "USAHA PERDAGANGAN ( SAMUEL SAPON TORON)",
+  "aid": "889f1876-5e9c-4140-bbcd-b61617473354",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309040001001000 - DTSEN - 18 (889f1876-5e9c-4140-bbcd-b",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/889f1876-5e9c-4140-bbcd-b61617473354"
+ },
+ {
+  "rowNo": 150,
+  "nama": "KIOS TRIO PRIMA",
+  "aid": "89a0d68f-1a0d-4011-b09c-d2eee5ec6496",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/89a0d68f-1a0d-4011-b09c-d2eee5ec6496"
+ },
+ {
+  "rowNo": 160,
+  "nama": "KIOS (YANCIANA BINSASI)",
+  "aid": "8b2fd876-e56a-4ede-891a-0b6efaa601b2",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309030025000200 - DTSEN - 65 (8b2fd876-e56a-4ede-891a-0",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8b2fd876-e56a-4ede-891a-0b6efaa601b2"
+ },
+ {
+  "rowNo": 163,
+  "nama": "USAHA PERDAGANGAN( MARIA PULO HAYON)",
+  "aid": "8be6403b-7cdc-4db4-b305-aab814b40f76",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8be6403b-7cdc-4db4-b305-aab814b40f76"
+ },
+ {
+  "rowNo": 177,
+  "nama": "PEDAGANG KIOS ECERAN MARGARETA PENI",
+  "aid": "8dee4d07-c6f7-44d1-93b5-db7208798f95",
+  "status": "REPAIR-GAGAL",
+  "alasan": "GET https://fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/get-by-assignment-id -> HTTP ",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/8dee4d07-c6f7-44d1-93b5-db7208798f95"
+ },
+ {
+  "rowNo": 199,
+  "nama": "USAHA SEMBAKO",
+  "aid": "9126d1b1-9515-4f81-84ce-9fb8b2e1fbd7",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309074001000100 - DTSEN - 24 (9126d1b1-9515-4f81-84ce-9",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/9126d1b1-9515-4f81-84ce-9fb8b2e1fbd7"
+ },
+ {
+  "rowNo": 208,
+  "nama": "KIOS MEKAR SARI (KORNELIS KOPONG KOTAK)",
+  "aid": "92d574b6-c284-49b8-aec3-82e09d0c9de4",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/92d574b6-c284-49b8-aec3-82e09d0c9de4"
+ },
+ {
+  "rowNo": 227,
+  "nama": "Kios sembako Merah Putih",
+  "aid": "9592d7fe-a7f4-4022-8d1c-b85f7c7bd4fb",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/9592d7fe-a7f4-4022-8d1c-b85f7c7bd4fb"
+ },
+ {
+  "rowNo": 229,
+  "nama": "KIOS(RIJU)",
+  "aid": "95fc1a1d-cf1a-47b1-8e6e-f918ddbad4a7",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309073002000600 - DTSEN - 5 (95fc1a1d-cf1a-47b1-8e6e-f9",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/95fc1a1d-cf1a-47b1-8e6e-f918ddbad4a7"
+ },
+ {
+  "rowNo": 264,
+  "nama": "KIOS MUSTIKA(YOHANA FRANSISKA LIPAT)",
+  "aid": "9b15d423-21db-4b3a-a0bb-9cf8493f2169",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309073011000400 - UMK - 5 (9b15d423-21db-4b3a-a0bb-9cf8",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/9b15d423-21db-4b3a-a0bb-9cf8493f2169"
+ },
+ {
+  "rowNo": 300,
+  "nama": "USAHA KIOS ( ELISABETH EMA RURON )",
+  "aid": "a18fa901-02bc-440a-b6f5-b3dec4198db0",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309021006000300 - DTSEN - 13 (a18fa901-02bc-440a-b6f5-b",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a18fa901-02bc-440a-b6f5-b3dec4198db0"
+ },
+ {
+  "rowNo": 302,
+  "nama": "UD SEMBAKO (MARIA MARIANA INA WOLOR)",
+  "aid": "a2012461-94dc-41af-bfe3-72a7df446397",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309060042000400 - DTSEN - 20 (a2012461-94dc-41af-bfe3-7",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a2012461-94dc-41af-bfe3-72a7df446397"
+ },
+ {
+  "rowNo": 310,
+  "nama": "PERDAGANGAN ECERAN (ELINA ANU BASA)",
+  "aid": "a30a80e4-c47f-40dd-86f0-ac2a4ccf8a3f",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309072010001000 - LUKAS BORO OLA / ELIANA ANU BASA - 7 ",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a30a80e4-c47f-40dd-86f0-ac2a4ccf8a3f"
+ },
+ {
+  "rowNo": 319,
+  "nama": "USAHA PERDAGANGAN BESAR DAN ECERAN",
+  "aid": "a6a74aac-8514-446d-a7be-3cee7804c21a",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309011010000700 - UMK - 1 (a6a74aac-8514-446d-a7be-3cee",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a6a74aac-8514-446d-a7be-3cee7804c21a"
+ },
+ {
+  "rowNo": 331,
+  "nama": "AW MOTOR CYRILUS LAWE BEOANG",
+  "aid": "a833317c-26f8-4482-8dd2-69fb5397f544",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309011006001200 - UMK - 9 (a833317c-26f8-4482-8dd2-69fb",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a833317c-26f8-4482-8dd2-69fb5397f544"
+ },
+ {
+  "rowNo": 333,
+  "nama": "KIOS ELISABETH",
+  "aid": "a851b5ab-fa3f-4985-b18d-e65396931c86",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309012004001000 - DTSEN - 7 (a851b5ab-fa3f-4985-b18d-e6",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a851b5ab-fa3f-4985-b18d-e65396931c86"
+ },
+ {
+  "rowNo": 336,
+  "nama": "KIOS",
+  "aid": "a88b659b-667d-4c6d-9ff9-a2950d783432",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309062012000100 - PIUS KOPONG GOKOK / LLUSIA BAREK - - ",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/a88b659b-667d-4c6d-9ff9-a2950d783432"
+ },
+ {
+  "rowNo": 349,
+  "nama": "USAHA KIOS (ivonia Bupu)",
+  "aid": "ac838650-885a-4703-8f14-6d3f7d2c63cc",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309070001001000 - DTSEN - 8 (ac838650-885a-4703-8f14-6d",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ac838650-885a-4703-8f14-6d3f7d2c63cc"
+ },
+ {
+  "rowNo": 353,
+  "nama": "KIOS SEMBAKO(IRMAYANTI)",
+  "aid": "acf8b396-5c49-4fff-9c59-c9e1f62b4dc6",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/acf8b396-5c49-4fff-9c59-c9e1f62b4dc6"
+ },
+ {
+  "rowNo": 354,
+  "nama": "KIOS MAMA KELE",
+  "aid": "ad7e40ca-66d4-42f0-9091-3ba180a7bb79",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ad7e40ca-66d4-42f0-9091-3ba180a7bb79"
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "rowNo": 10,
+  "nama": "USAHA KOPRA (SIMON)",
+  "aid": "dbc2aa22-26c9-4178-878a-66aa32c29205",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309073003000700 - DTSEN - 7 (dbc2aa22-26c9-4178-878a-66",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/dbc2aa22-26c9-4178-878a-66aa32c29205"
+ },
+ {
+  "rowNo": 26,
+  "nama": "USAHA KOPRA(LUKMAN LAGA BELO)",
+  "aid": "dd4eac1b-4cd4-4a19-92b3-5ab24fbf34ed",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309073001001000 - DTSEN - 41 (dd4eac1b-4cd4-4a19-92b3-5",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/dd4eac1b-4cd4-4a19-92b3-5ab24fbf34ed"
+ },
+ {
+  "rowNo": 28,
+  "nama": "Industri kopra",
+  "aid": "dd64ef62-655d-464a-9ade-69f7373c849e",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/dd64ef62-655d-464a-9ade-69f7373c849e"
+ },
+ {
+  "rowNo": 39,
+  "nama": "INDUSTRI KOPRA",
+  "aid": "de3e28d4-c107-4b76-89ee-db3ab9ac9571",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/de3e28d4-c107-4b76-89ee-db3ab9ac9571"
+ },
+ {
+  "rowNo": 51,
+  "nama": "USAHA INDUSTRI KOPRA <CHAROLINDA KEWA>",
+  "aid": "df011853-a596-4427-ba6b-e91660bb70a7",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/df011853-a596-4427-ba6b-e91660bb70a7"
+ },
+ {
+  "rowNo": 52,
+  "nama": "UTP INDUSTRI < PAULUS SILI BOLI>",
+  "aid": "df0ad837-b718-4902-ae78-b695f2ebe594",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/df0ad837-b718-4902-ae78-b695f2ebe594"
+ },
+ {
+  "rowNo": 61,
+  "nama": "INDUSTRI KOPRA <YOHANES>",
+  "aid": "dfd58217-31d8-492e-9751-29d886f0265b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/dfd58217-31d8-492e-9751-29d886f0265b"
+ },
+ {
+  "rowNo": 63,
+  "nama": "INDUSTRI KELAPA",
+  "aid": "dfee7536-7d00-4d93-a0da-91173d756503",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/dfee7536-7d00-4d93-a0da-91173d756503"
+ },
+ {
+  "rowNo": 69,
+  "nama": "INDUSTRI KOPRA <YOHANES LAGA MASAN>",
+  "aid": "e05b8105-f685-4c26-a78a-de58052d1f8b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e05b8105-f685-4c26-a78a-de58052d1f8b"
+ },
+ {
+  "rowNo": 70,
+  "nama": "INDUSTRI KOPRA(MAZRUDIN SULAIMAN)",
+  "aid": "e078b223-316b-403b-ac2f-80214bb1a3b3",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e078b223-316b-403b-ac2f-80214bb1a3b3"
+ },
+ {
+  "rowNo": 81,
+  "nama": "INDUSTRI KOPRA APOLONIUS ILE SUKUN",
+  "aid": "e1b256cd-f9ce-4361-ab0a-cd1a9e3f268c",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e1b256cd-f9ce-4361-ab0a-cd1a9e3f268c"
+ },
+ {
+  "rowNo": 100,
+  "nama": "USAHA INDUSTRI KOPRA <PETRUS MAMUN>",
+  "aid": "e3190bd4-2d37-423c-b518-7509c188b60f",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e3190bd4-2d37-423c-b518-7509c188b60f"
+ },
+ {
+  "rowNo": 115,
+  "nama": "USAHA KOPRA (YUDAS)",
+  "aid": "e4817a77-e6fc-4117-a445-bb699ff78116",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e4817a77-e6fc-4117-a445-bb699ff78116"
+ },
+ {
+  "rowNo": 127,
+  "nama": "USAHA INDUSTRI KOPRA",
+  "aid": "e5ad439d-e4fc-403a-b403-a000a6b6f323",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e5ad439d-e4fc-403a-b403-a000a6b6f323"
+ },
+ {
+  "rowNo": 141,
+  "nama": "USAHA KEBUN KELAPA KOPRA (BONEFASIUS BOLIN ARAN)",
+  "aid": "e67cd3ab-c34a-4838-8ece-20d7e9bb6729",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309010004000900 - DTSEN - 16 (e67cd3ab-c34a-4838-8ece-2",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e67cd3ab-c34a-4838-8ece-20d7e9bb6729"
+ },
+ {
+  "rowNo": 143,
+  "nama": "USAHA KOPRA (BERNADUS)",
+  "aid": "e6813b65-0a98-4ef1-8e9c-f3bcea6f245b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e6813b65-0a98-4ef1-8e9c-f3bcea6f245b"
+ },
+ {
+  "rowNo": 166,
+  "nama": "UTP KOPRA (MARIANUS MARE PUKA)",
+  "aid": "e79dda10-90bb-4da5-a4eb-be35c8b434d9",
+  "status": "REPAIR-GAGAL",
+  "alasan": "Respons bukan JSON dari https://fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/data: Ass",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e79dda10-90bb-4da5-a4eb-be35c8b434d9"
+ },
+ {
+  "rowNo": 170,
+  "nama": "INDUSTRI KELAPA<ARMAN YUSUF>",
+  "aid": "e7e8c133-99a7-4d00-8c96-e9d1ab48d78f",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e7e8c133-99a7-4d00-8c96-e9d1ab48d78f"
+ },
+ {
+  "rowNo": 177,
+  "nama": "UPT INDUSTRI KOPRA<HASAN KAYA>",
+  "aid": "e85d5936-56f2-4932-b16d-6001ae33d52b",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e85d5936-56f2-4932-b16d-6001ae33d52b"
+ },
+ {
+  "rowNo": 178,
+  "nama": "INDUSTRI KELAPA ( WILHELMUS MULI PATI)",
+  "aid": "e861cd92-afb6-45ac-a482-a190fb1ca779",
+  "status": "REPAIR-GAGAL",
+  "alasan": "data e861cd92: gagal setelah 8 percobaan (terakhir: GET https://fasih-sm.bps.go.id/app/api/assignment-general/",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e861cd92-afb6-45ac-a482-a190fb1ca779"
+ },
+ {
+  "rowNo": 179,
+  "nama": "USAHA INDUSTRI KOPRQ(EMILIANUS SABON TAWA)",
+  "aid": "e866e478-d5e6-45c7-b1b0-76597ada6b6d",
+  "status": "REPAIR-GAGAL",
+  "alasan": "Respons bukan JSON dari https://fasih-sm.bps.go.id/app/api/assignment-general/api/assignment-history/data: Ass",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/e866e478-d5e6-45c7-b1b0-76597ada6b6d"
+ },
+ {
+  "rowNo": 210,
+  "nama": "UTP INDUSTRI PENGOLAHAN KELAPA(ALFONSUS AYONG)",
+  "aid": "ea4ed21d-4eea-4693-9e78-bc54d2235168",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ea4ed21d-4eea-4693-9e78-bc54d2235168"
+ },
+ {
+  "rowNo": 213,
+  "nama": "INDUSTRI KOPRA(KASMAN KOPONG SANGA)",
+  "aid": "ea6ee646-91a2-4fe6-8412-710bd155042d",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ea6ee646-91a2-4fe6-8412-710bd155042d"
+ },
+ {
+  "rowNo": 215,
+  "nama": "UTP INDUSTRI < AGUSTINUS LIKO NOTAN >",
+  "aid": "ea8f8030-88b4-4ab3-a1b2-9881a8d031d5",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ea8f8030-88b4-4ab3-a1b2-9881a8d031d5"
+ },
+ {
+  "rowNo": 217,
+  "nama": "Industri kopra",
+  "aid": "eaa24589-6e8e-451b-9aeb-7f9107efd9d7",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309074006000700 - DTSEN - 17 (eaa24589-6e8e-451b-9aeb-7",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/eaa24589-6e8e-451b-9aeb-7f9107efd9d7"
+ },
+ {
+  "rowNo": 225,
+  "nama": "INDUSTRI KELAPA<ANWAR USMAN>",
+  "aid": "eb255fb1-6f24-4180-b9e6-ce3e016239e0",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/eb255fb1-6f24-4180-b9e6-ce3e016239e0"
+ },
+ {
+  "rowNo": 230,
+  "nama": "INDUSTRI KOPRA(YULIANA ODI)",
+  "aid": "eba3ff15-5a12-4efe-8318-4ff68151393c",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/eba3ff15-5a12-4efe-8318-4ff68151393c"
+ },
+ {
+  "rowNo": 234,
+  "nama": "INDUSTRI KOPRA MATEUS PATI RURON",
+  "aid": "ebeeaec8-6c3f-4a43-84b3-bdd9a0580251",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309021006001200 - MATEUS PATI RURON / MARTHA GRESINTA T",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/ebeeaec8-6c3f-4a43-84b3-bdd9a0580251"
+ },
+ {
+  "rowNo": 258,
+  "nama": "INDUSTRI KELAPA<ABDUL GANI>",
+  "aid": "edeb8795-8834-4bd0-9a69-4eb3293b78ae",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/edeb8795-8834-4bd0-9a69-4eb3293b78ae"
+ },
+ {
+  "rowNo": 283,
+  "nama": "UTP INDUSTRI KOPRA ( SIPRIANUS HADUNG)",
+  "aid": "efd47bdc-4ae3-41e9-8a6a-004bfee1da1d",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/efd47bdc-4ae3-41e9-8a6a-004bfee1da1d"
+ },
+ {
+  "rowNo": 293,
+  "nama": "INDUSTRI KOPRA(VERONIKA UBA DONI)",
+  "aid": "f052d59f-6b9d-472b-9be0-083d77911341",
+  "status": "REPAIR-GAGAL",
+  "alasan": "data f052d59f: gagal setelah 8 percobaan (terakhir: GET https://fasih-sm.bps.go.id/app/api/assignment-general/",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f052d59f-6b9d-472b-9be0-083d77911341"
+ },
+ {
+  "rowNo": 300,
+  "nama": "INDUSTRI KOPRA FRANSISKUS KEBOJA RURON",
+  "aid": "f122523a-f753-4747-b1e0-1f5f48289280",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f122523a-f753-4747-b1e0-1f5f48289280"
+ },
+ {
+  "rowNo": 301,
+  "nama": "KOPRA(FAISAL GAFUR)",
+  "aid": "f135d60d-4bb2-4338-9327-e0296be24d83",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f135d60d-4bb2-4338-9327-e0296be24d83"
+ },
+ {
+  "rowNo": 307,
+  "nama": "Industri kopra",
+  "aid": "f1b55c2f-7e9a-4297-ae10-ae5e0d1274b5",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f1b55c2f-7e9a-4297-ae10-ae5e0d1274b5"
+ },
+ {
+  "rowNo": 309,
+  "nama": "INDUSTRI KOPRA(ANDREAS LAGA SAMON)",
+  "aid": "f1e7715e-5fca-43ca-b415-f14d3dbca552",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f1e7715e-5fca-43ca-b415-f14d3dbca552"
+ },
+ {
+  "rowNo": 320,
+  "nama": "INDUSTRI KOPRA<KAMSINA KEKAK>",
+  "aid": "f30dfeb3-5454-49f6-8b1e-4f6bf9274901",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f30dfeb3-5454-49f6-8b1e-4f6bf9274901"
+ },
+ {
+  "rowNo": 325,
+  "nama": "INDUSTRI KOPRA MARIA NOGO TUKAN",
+  "aid": "f3cc17fe-2b98-4685-9b3f-c1d168c90278",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309021006000500 - DTSEN - 11 (f3cc17fe-2b98-4685-9b3f-c",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f3cc17fe-2b98-4685-9b3f-c1d168c90278"
+ },
+ {
+  "rowNo": 326,
+  "nama": "UTP INDUSTRI PENGOLAHAN KELAPA(DAMIANUS DAGANG BALA)",
+  "aid": "f3ea58f3-c4b7-4181-8f40-e7fdc4aca07a",
+  "status": "REPAIR-GAGAL",
+  "alasan": "presign-url (s3/edit) gagal: No access for assignment 5309062003000500 - DTSEN - 9 (f3ea58f3-c4b7-4181-8f40-e7",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f3ea58f3-c4b7-4181-8f40-e7fdc4aca07a"
+ },
+ {
+  "rowNo": 330,
+  "nama": "UTP INDUSTRI < NIKO DONI >",
+  "aid": "f448bd35-b8a5-48a1-bb4d-bcf617070c2c",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f448bd35-b8a5-48a1-bb4d-bcf617070c2c"
+ },
+ {
+  "rowNo": 334,
+  "nama": "USAHA KOPRA (MARSELINA AMU MANUK)",
+  "aid": "f4b3f5b4-77e0-4aef-bbfc-da4439de4364",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f4b3f5b4-77e0-4aef-bbfc-da4439de4364"
+ },
+ {
+  "rowNo": 337,
+  "nama": "UTP INDUSTRI < SESILIA LIPAT BROKAN>",
+  "aid": "f4d6de29-c8d1-41d8-bd42-af16657de059",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f4d6de29-c8d1-41d8-bd42-af16657de059"
+ },
+ {
+  "rowNo": 342,
+  "nama": "INDUSTRI KOPRA",
+  "aid": "f54acfb0-08da-448b-8b28-e2fefe11bb3c",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f54acfb0-08da-448b-8b28-e2fefe11bb3c"
+ },
+ {
+  "rowNo": 349,
+  "nama": "INDUSTRI KOPRA<NIKOLAUS OLA SAMON>",
+  "aid": "f5d7f5ab-44ff-4aae-8126-975b7659a1dd",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f5d7f5ab-44ff-4aae-8126-975b7659a1dd"
+ },
+ {
+  "rowNo": 350,
+  "nama": "USAHA KOPRA(AMUNUDIN BAYO SILI)",
+  "aid": "f5e31d01-47f2-45f9-af77-3b52c79e7857",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f5e31d01-47f2-45f9-af77-3b52c79e7857"
+ },
+ {
+  "rowNo": 353,
+  "nama": "INDUSTRI PENGOLAHAN KELAPA< PHILIPUS BERNASIUS NUA>",
+  "aid": "f602cc30-4488-421b-8a6f-41a17325519e",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f602cc30-4488-421b-8a6f-41a17325519e"
+ },
+ {
+  "rowNo": 354,
+  "nama": "INDUSTRI KOPRA ATU",
+  "aid": "f60636de-ea96-4c85-b913-c6f5d2605b74",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f60636de-ea96-4c85-b913-c6f5d2605b74"
+ },
+ {
+  "rowNo": 355,
+  "nama": "INDUSTRI KOPRA WALANG",
+  "aid": "f60636de-ea96-4c85-b913-c6f5d2605b74",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f60636de-ea96-4c85-b913-c6f5d2605b74"
+ },
+ {
+  "rowNo": 394,
+  "nama": "KOPRA(MUHAMMAD ROSARDI)",
+  "aid": "f9cf7c3e-95f1-46fb-b2d0-3d96cddb0bd1",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit/presign-url -> HTTP 404: {\"ti",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/f9cf7c3e-95f1-46fb-b2d0-3d96cddb0bd1"
+ },
+ {
+  "rowNo": 422,
+  "nama": "UTP INDUSTRI < VALENTINA SURAT LUE>",
+  "aid": "fc505013-b578-43a1-97ad-f022780569bc",
+  "status": "REPAIR-GAGAL",
+  "alasan": "POST https://fasih-sm.bps.go.id/app/api/assignment-submit/api/assignment/s3/edit -> HTTP 404: {\"timestamp\":\"20",
+  "link": "https://fasih-sm.bps.go.id/app/assignment/fd68e454-ba45-4b85-8205-f3bf777ded24/fc505013-b578-43a1-97ad-f022780569bc"
+ }
+]
